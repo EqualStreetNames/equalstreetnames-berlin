@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 return [
-    'languages' => ['de', 'en', 'fr', 'nl'],
+    'languages' => ['de', 'en'],
 
     'exclude' => [
         'relation' => [
