@@ -48,6 +48,7 @@ return [
         'Q47521'    => false, // stream
         'Q79007'    => false, // street
         'Q81799'    => false, // fast food
+        'Q95074'    => false, // fictional character
         'Q123705'   => false, // neighborhood
         'Q133311'   => false, // tribe
         'Q178342'   => false, // archangel
