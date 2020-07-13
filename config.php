@@ -16,6 +16,7 @@ return [
         'relation' => [
         ],
         'way' => [
+            '4613299' => 'M', // Weydingerstraße - Heinrich Weydinger
         ],
     ],
 
