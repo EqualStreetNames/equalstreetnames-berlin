@@ -17,6 +17,9 @@ return [
         ],
         'way' => [
             '4613299' => 'M', // Weydingerstraße - Heinrich Weydinger
+            '4606218' => 'M', // Griebenowstraße - Wilhelm Griebenow (1784–1865)
+            '84575573' => 'M', // Gormannstraße - Cornelius Gormann (1796–1861)
+            '178613347' => 'M', // Wilhelm-Zermin-Weg - Wilhelm Zermin (1882–1973)
         ],
     ],
 
@@ -77,6 +80,7 @@ return [
         'Q727002'   => false, // charter
         'Q879050'   => false, // manor house
         'Q902814'   => false, // border town
+        'Q1964689'  => false, // fictional city
         'Q1202402'  => false, // townhouse
         'Q1509831'  => false, // title of Mary
         'Q1549591'  => false, // big city
