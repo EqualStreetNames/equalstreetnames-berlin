@@ -20,6 +20,8 @@ return [
             '4606218' => 'M', // Griebenowstraße - Wilhelm Griebenow (1784–1865)
             '84575573' => 'M', // Gormannstraße - Cornelius Gormann (1796–1861)
             '178613347' => 'M', // Wilhelm-Zermin-Weg - Wilhelm Zermin (1882–1973)
+            '421602271' => 'M', // Trachtenbrodtstraße - Martin Trachtenbrodt (1909–1942)
+            '4615332' => 'M', // Schieritzstraße - Otto Schieritz (1889–1945)
         ],
     ],
 
@@ -80,6 +82,7 @@ return [
         'Q727002'   => false, // charter
         'Q879050'   => false, // manor house
         'Q902814'   => false, // border town
+        'Q1583695'  => false, // Hanseaten
         'Q1964689'  => false, // fictional city
         'Q1202402'  => false, // townhouse
         'Q1509831'  => false, // title of Mary
