@@ -54,6 +54,7 @@ return [
         'Q79007'    => false, // street
         'Q81799'    => false, // fast food
         'Q95074'    => false, // fictional character
+        'Q52313'    => false, // Wonnegau
         'Q123705'   => false, // neighborhood
         'Q133311'   => false, // tribe
         'Q178342'   => false, // archangel
@@ -82,6 +83,8 @@ return [
         'Q727002'   => false, // charter
         'Q879050'   => false, // manor house
         'Q902814'   => false, // border town
+        'Q1259941'  => false, // Woodland edge
+        'Q1419649'  => false, // Großer Jüdenhof
         'Q1583695'  => false, // Hanseaten
         'Q1964689'  => false, // fictional city
         'Q1202402'  => false, // townhouse
