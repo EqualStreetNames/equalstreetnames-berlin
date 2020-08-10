@@ -83,6 +83,18 @@ return [
         'Q727002'   => false, // charter
         'Q879050'   => false, // manor house
         'Q902814'   => false, // border town
+        'Q225615'   => false, // Wildwechsel
+        'Q474862'   => false, // Frauen im Nationalsozialismus
+        'Q1078463'  => false, // Fräswerkzeug
+        'Q1234885'  => false, // Dohne, Fangschlinge
+        'Q1259941'  => false, // Waldrand
+        'Q1281102'  => false, // Pflanzenart Rotdorn
+        'Q1369438'  => false, // Staude
+        'Q1419649'  => false, // Großer Jüdenhof
+        'Q1583695'  => false, // Hanseaten
+        'Q1623470'  => false, // Hohe Jagd
+        'Q1797027'  => false, // Verband Groß-Berlin
+        'Q1918298'  => false, // Meister Lampe
         'Q1259941'  => false, // Woodland edge
         'Q1419649'  => false, // Großer Jüdenhof
         'Q1583695'  => false, // Hanseaten
@@ -103,6 +115,11 @@ return [
         'Q5200157'  => false, // confections
         'Q6857854'  => false, // military road
         'Q7832362'  => false, // traditional story
+        'Q2499829'  => false, // Upstall
+        'Q8166286'  => false, // Category 1983 Dutch sport
+        'Q19963327' => false, // Maschinenfabrik Cyclop
+        'Q20826048' => false, // Fenn
+        'Q48756813' => false, // Freigut
         'Q10822464' => false, // angel in Christianity
         'Q11688446' => false, // Roman deity
         'Q12737077' => false, // occupation
@@ -134,5 +151,6 @@ return [
         'Q56884562' => false, // animated film series
         'Q85635630' => false, // urban district of North Rhine-Westphalia
         'Q89522629' => false, // poetic form
+        'Q24334976' => false, // nordic mythical location
     ],
 ];
