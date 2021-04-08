@@ -580,7 +580,6 @@ Apfel,,Q18674606,way
 Apfelalle,,Q18674606,way
 Apfelallee,,Q18674606,way
 Apfelblütenweg,,Q104819;Q506,way
-Apfelweg,,Q18674606,way
 Apfelwicklerstraße,,Q45262,way
 "Apoldaer Straße",,Q490689,way
 Apollofalterallee,,Q41633,way
@@ -919,7 +918,6 @@ Bisonweg,,Q18099,way
 "Bitterfelder Weg",,Q1281618,way
 Blakenheideweg,,Q1434274,way
 "Blankenburger Chaussee",,Q693582,way
-"Blankenburger Park",,Q693582,way
 "Blankenburger Pflasterweg",,Q693582,way
 "Blankenburger Straße",,Q693582,way
 "Blankenburger Weg",,Q67317782,way
@@ -3064,7 +3062,6 @@ Kirsche,,Q165137,way
 Kirschenallee,,Q165137,way
 Kirschenweg,,Q165137,way
 Kirschlorbeerweg,,Q157508,way
-Kirschweg,,Q165137,way
 Kisselnallee,,Q1740919,way
 Kissingenplatz,,Q488346,way
 Kissingenstraße,,Q488346,way
@@ -6619,6 +6616,7 @@ Ankerweg,,,way
 "Ankogelbad, Sommerbad",,,way
 Annenallee,,,way
 Antonienstraße,,,way
+Apfelweg,,,way
 Aralienweg,,,way
 Argoallee,,,way
 Arthur-Friedrich-Weg,,,way
@@ -6912,6 +6910,7 @@ Grünstraßenbrücke,,,way
 "Grüntaler Flanier Nord",,,way
 "Grüntaler Flanier Süd",,,way
 "Grünzug Südpanke",,,way
+"Grünzug am Langen Becken",,,way
 Grußdorfstraße,,,way
 Grützmacherpark,,,way
 Grützmacherweg,,,way
@@ -6969,6 +6968,7 @@ Heinsestraße,,,way
 Heinweg,,,way
 Heinz-Gesper-Weg,,,way
 Heinz-Prillwitz-Weg,,,way
+Helene-Weigel-Platz,,,way
 Hentzeweg,,,way
 Herbert-Krause-Park,,,way
 Hermann-Günther-Straße,,,way
@@ -7034,6 +7034,7 @@ Jean-Monnet-Straße,,,way
 Jelena-Šantić-Friedenspark,,,way
 Joachimstraße,,,way
 "Johannes Park",,,way
+Johannes-Itten-Straße,,,way
 Johannes-Werner-Straße,,,way
 Johannisstraße,,,way
 Jordanstraße,,,way
@@ -7082,6 +7083,7 @@ Kinderwagenweg,,,way
 Kindl-Treppe,,,way
 Kirchplatz,,,way
 Kirschblütenplatz,,,way
+Kirschweg,,,way
 Kitaweg,,,way
 Kitzingstraße,,,way
 "Klappbrücke an der Humboldtmühle",,,way
@@ -7149,7 +7151,6 @@ Landweg,,,way
 "Lange Brücke",,,way
 "Lange Straße",,,way
 "Langer Weg",,,way
-"Langes Becken",,,way
 Lasensteinweg,,,way
 "Laubnitzer Pfad",,,way
 "Laufstrecke 1100m",,,way
@@ -7334,7 +7335,6 @@ Plansche,,,way
 "Planstraße C",,,way
 Plateautreppe,,,way
 "Platz A",,,way
-"Platz am Kaisersteg",,,way
 "Platz der Republik",,,way
 "Platz des 23. April",,,way
 "Platz des Picknicks",,,way
@@ -7968,6 +7968,7 @@ Winklerstraße,,,way
 Winterfeldtmarkt,,,way
 Wlikesweg,,,way
 "Wriezener Freiraum-Labor",,,way
+Wundtstraße,,,way
 Wüsthoffstraße,,,way
 Zanderstraße,,,way
 Zastrowstraße,,,way
