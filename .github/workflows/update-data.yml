@@ -30,9 +30,11 @@ jobs:
           php-version: 7.4
           extensions: curl, pdo, sqlite3
       - name: Validate composer.json and composer.lock
+        working-directory: process
         run: composer validate
       - name: Install dependencies
-        run: composer install --prefer-dist --no-progress --no-suggest
+        working-directory: process
+        run: composer install --prefer-dist --no-progress
 
       - name: Checkout submodule to master
         working-directory: cities/germany/berlin
@@ -41,6 +43,7 @@ jobs:
         run: git submodule update --remote --merge cities/germany/berlin
 
       - name: Run update
+        working-directory: process
         run: composer run update-data -- --city=germany/berlin
 
       # - name: Upload artifact
