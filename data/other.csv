@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "AEG-Siedlung Heimat",wikidata,,Q158276,way
 AEG-Straße,wikidata,,Q158276,way
+AVUS,wikidata,,Q2338524,way
 "Aachener Straße",wikidata,,Q1017,way
 Aalemannkanalbrücke,wikidata,,Q300892,way
 Aalemannufer,wikidata,,Q300892,way
@@ -21,7 +22,7 @@ Ackerrain,wikidata,,Q341842,way
 Ackerstraße,wikidata,,Q188869,way
 "Adersleber Weg",wikidata,,Q356438,way
 Adlerbrücke,wikidata,,Q2092297,way
-Adlergestell,wikidata,,Q334434,way
+Adlergestell,wikidata,,Q2092297;Q334434;Q487843,way
 "Adlershofer Straße",wikidata,,Q599941,way
 Adlerstraße,wikidata,,Q2092297,way
 Adlerweg,wikidata,,Q2092297,way
@@ -47,7 +48,7 @@ Ahornweg,wikidata,,Q42292,way
 Ahrweilerstraße,wikidata,,Q402921,way
 "Aiblinger Weg",wikidata,,Q5758,way
 Aidastraße,wikidata,,Q171277,way
-Akazienallee,wikidata,,Q81666,way
+Akazienallee,wikidata,,Q5861969;Q81666,way
 Akazienhof,wikidata,,Q5861969,way
 Akazienstraße,wikidata,,Q5861969,way
 Akazienweg,wikidata,,Q5861969,way
@@ -57,7 +58,6 @@ Aladinweg,wikidata,,Q15605357,way
 Alaskaweg,wikidata,,Q797,way
 Alberichstraße,wikidata,,Q1257886,way
 Albersweilerweg,wikidata,,Q564724,way
-Albertinenstraße,wikidata,,Q19258764,way
 Albestraße,wikidata,,Q336889,way
 "Albiger Weg",wikidata,,Q567131,way
 Albineaplatz,wikidata,,Q111096,way
@@ -106,7 +106,7 @@ Alt-Heiligensee,wikidata,,Q513099,way
 Alt-Hellersdorf,wikidata,,Q821089,way
 Alt-Hermsdorf,wikidata,,Q565018,way
 Alt-Karow,wikidata,,Q700184,way
-Alt-Kaulsdorf,wikidata,,Q432948,way
+Alt-Kaulsdorf,wikidata,,Q432948;Q665953,way
 Alt-Kladow,wikidata,,Q519632,way
 Alt-Köpenick,wikidata,,Q521521,way
 Alt-Lankwitz,wikidata,,Q671474,way
@@ -153,6 +153,7 @@ Altarsteinweg,wikidata,,Q434664,way
 "Alter Fischerweg",wikidata,,Q331432,way
 "Alter Hegemeisterweg",wikidata,,Q3738699,way
 "Alter Markt",wikidata,,Q13033698,way
+"Alter Radelander Weg",wikidata,,Q583542,way
 "Alter Schönefelder Weg",wikidata,,Q521475,way
 "Alter Segelfliegerdamm",wikidata,,Q624161,way
 "Alter Wiesenweg",wikidata,,Q7777019,way
@@ -187,6 +188,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Bärensprung",wikidata,,Q1400844,way
 "Am Bauernwäldchen",wikidata,,Q4421,way
 "Am Bauersee",wikidata,,Q59924255,way
+"Am Berg",wikidata,,Q2255377,way
 "Am Bergpfuhl",wikidata,,Q97379508,way
 "Am Berl",wikidata,,Q820965,way
 "Am Berlin Museum",wikidata,,Q573672,way
@@ -273,6 +275,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Heidehof",wikidata,,Q12292478,way
 "Am Heidesaum",wikidata,,Q27590,way
 "Am Heimenstein",wikidata,,Q1595752,way
+"Am Heimhort",wikidata,,Q1329790,way
 "Am Hirschsprung",wikidata,,Q1400844,way
 "Am Hirschwechsel",wikidata,,Q23390,way
 "Am Hohen Feld",wikidata,,Q1434274,way
@@ -331,6 +334,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Nordgraben",wikidata,,Q1998000,way
 "Am Nußbaum",wikidata,,Q228993,way
 "Am Oberbaum",wikidata,,Q2009149,way
+"Am Oberhafen",wikidata,,Q44782,way
 "Am Oder-Spree-Kanal",wikidata,,Q445555,way
 "Am Omnibushof",wikidata,,Q66490764,way
 "Am Osrücken",wikidata,,Q1434274,way
@@ -391,7 +395,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Spielplatz",wikidata,,Q11875349,way
 "Am Spreebord",wikidata,,Q1684,way
 "Am Springebruch",wikidata,,Q1434274,way
-"Am Stadtpark",wikidata,,Q1793017,way
+"Am Stadtpark",wikidata,,Q15077303;Q1793017,way
 "Am Stand",wikidata,,Q521839,way
 "Am Steilhang",wikidata,,Q2339413,way
 "Am Steinberg",wikidata,,Q1596212,way
@@ -422,6 +426,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Vorwerk",wikidata,,Q104215881,way
 "Am Waidmannseck",wikidata,,Q648245,way
 "Am Waldberg",wikidata,,Q1434274,way
+"Am Wäldchen",wikidata,,Q4421,way
 "Am Walde",wikidata,,Q61910981,way
 "Am Waldfriedhof",wikidata,,Q875626,way
 "Am Waldidyll",wikidata,,Q31910828,way
@@ -492,6 +497,7 @@ Amtsgerichtsplatz,wikidata,,Q480608,way
 "An den Zingerwiesen",wikidata,,Q59780168,way
 "An der Apostelkirche",wikidata,,Q245150,way
 "An der Aussicht",wikidata,,Q147276,way
+"An der Bahn",wikidata,,Q1391709,way
 "An der Bastion",wikidata,,Q81851,way
 "An der Brauerei",wikidata,,Q821384,way
 "An der Buche",wikidata,,Q25403,way
@@ -501,6 +507,7 @@ Amtsgerichtsplatz,wikidata,,Q480608,way
 "An der Felgenlake",wikidata,,Q3177968,way
 "An der Filmfabrik",wikidata,,Q16831595,way
 "An der Fließwiese",wikidata,,Q1428677,way
+"An der Gatower Heide",wikidata,,Q4421,way
 "An der Hansekogge",wikidata,,Q164057,way
 "An der Hasenfurt",wikidata,,Q1400844,way
 "An der Heide",wikidata,,Q27590,way
@@ -508,6 +515,7 @@ Amtsgerichtsplatz,wikidata,,Q480608,way
 "An der Industriebahn",wikidata,,Q1391709,way
 "An der Kappe",wikidata,,Q1434274,way
 "An der Karolinenhöhe",wikidata,,Q59780178,way
+"An der Kieler Brücke",wikidata,,Q1740958,way
 "An der Kohlbeke",wikidata,,Q170321,way
 "An der Kommandantur",wikidata,,Q323181,way
 "An der Koppel",wikidata,,Q30121,way
@@ -564,11 +572,11 @@ Angerweg,wikidata,,Q40737141,way
 Anhaltinerstraße,wikidata,,Q168352,way
 Anisweg,wikidata,,Q28692,way
 Ankerplatz,wikidata,,Q913035,way
+Ankerweg,wikidata,,Q168432,way
 "Anklamer Straße",wikidata,,Q488513,way
 Ankogelweg,wikidata,,Q557416,way
 "Annaburger Straße",wikidata,,Q490413,way
 Annemariestraße,wikidata,,Q18091447,way
-Annenstraße,wikidata,,Q564684,way
 Annenweg,wikidata,,Q564684,way
 Annweilerweg,wikidata,,Q22953,way
 "Ansbacher Straße",wikidata,,Q14859,way
@@ -581,6 +589,7 @@ Apfel,wikidata,,Q18674606,way
 Apfelalle,wikidata,,Q18674606,way
 Apfelallee,wikidata,,Q18674606,way
 Apfelblütenweg,wikidata,,Q104819;Q506,way
+Apfelweg,wikidata,,Q104819;Q18674606,way
 Apfelwicklerstraße,wikidata,,Q45262,way
 "Apoldaer Straße",wikidata,,Q490689,way
 Apollofalterallee,wikidata,,Q41633,way
@@ -595,7 +604,6 @@ Arabisweg,wikidata,,Q157396,way
 Arberstraße,wikidata,,Q260073,way
 Archibaldweg,wikidata,,Q19767773,way
 Archivstraße,wikidata,,Q882788,way
-Arendsweg,wikidata,,Q442339,way
 "Argenauer Straße",wikidata,,Q990799,way
 "Argentinische Allee",wikidata,,Q414,way
 Argonnenweg,wikidata,,Q649125,way
@@ -658,8 +666,6 @@ Auersbergstraße,wikidata,,Q759277,way
 Augenfalterstraße,wikidata,,Q612468,way
 "Augsburger Platz",wikidata,,Q2749,way
 "Augsburger Straße",wikidata,,Q2749,way
-Augustastraße,wikidata,,Q1370330,way
-Auguststraße,wikidata,,Q122,way
 "Aumetzer Weg",wikidata,,Q22100,way
 "Aumühler Straße",wikidata,,Q59977,way
 "Auraser Weg",wikidata,,Q9366988,way
@@ -672,7 +678,6 @@ Azaleenweg,wikidata,,Q5986917,way
 "Babelsberger Straße",wikidata,,Q702477,way
 "Bacharacher Straße",wikidata,,Q523273,way
 Bachstelzenweg,wikidata,,Q25399,way
-Bachstraße,wikidata,,Q63565252,way
 "Bachwitzer Straße",wikidata,,Q8081020,way
 Backbergstraße,wikidata,,Q97380630,way
 Bäckerstraße,wikidata,,Q160131,way
@@ -690,7 +695,7 @@ Badstraße,wikidata,,Q26821734,way
 Badstraßenbrücke,wikidata,,Q26821734,way
 Baggerseestraße,wikidata,,Q26333989,way
 Bahndamm,wikidata,,Q98969382,way
-Bahnhofstraße,wikidata,,Q6543354,way
+Bahnhofstraße,wikidata,,Q104215529;Q469743;Q55493;Q6543354;Q800469;Q800471;Q800479,way
 Bahnhofstraßenbrücke,wikidata,,Q800469,way
 Bahnstraße,wikidata,,Q800485,way
 "Bahrendorfer Straße",wikidata,,Q7031336,way
@@ -789,13 +794,14 @@ Bekassinenweg,wikidata,,Q25692,way
 "Belforter Straße",wikidata,,Q171545,way
 Bellevue-Ufer,wikidata,,Q317091,way
 Bellevueallee,wikidata,,Q317091,way
-Bellevuestraße,wikidata,,Q6300902,way
+Bellevuestraße,wikidata,,Q317091;Q6300902,way
 "Belziger Ring",wikidata,,Q523642,way
 "Belziger Straße",wikidata,,Q523642,way
 Benediktinerstraße,wikidata,,Q131132,way
 Benediktsteinweg,wikidata,,Q101002876,way
 "Benfelder Straße",wikidata,,Q22776,way
 Bennostraße,wikidata,,Q381098,way
+"Bentschener Weg",wikidata,,Q168905,way
 Berberitzenweg,wikidata,,Q158563,way
 "Berchtesgadener Straße",wikidata,,Q278221,way
 "Bergedorfer Straße",wikidata,,Q2384,way
@@ -808,15 +814,16 @@ Bergfriedstraße,wikidata,,Q2302643,way
 "Bergheimer Straße",wikidata,,Q3989,way
 "Berghofer Weg",wikidata,,Q99579100,way
 Bergrutenpfad,wikidata,,Q1434274,way
-Bergstraße,wikidata,,Q1242838,way
+Bergstraße,wikidata,,Q1242838;Q1568858;Q8502,way
 "Bergstücker Straße",wikidata,,Q97924431,way
+Bergweg,wikidata,,Q8502,way
 "Berkaer Platz",wikidata,,Q630334,way
 "Berkaer Straße",wikidata,,Q630334,way
 "Berkenbrücker Steig",wikidata,,Q627935,way
 "Berliner Allee",wikidata,,Q64,way
 "Berliner Freiheit",wikidata,,Q682258,way
 "Berliner Ring",wikidata,,Q64,way
-"Berliner Straße",wikidata,,Q321674,way
+"Berliner Straße",wikidata,,Q321674;Q63410243;Q64,way
 "Berliner Weg",wikidata,,Q64,way
 "Bernauer Straße",wikidata,,Q9300,way
 "Bernburger Straße",wikidata,,Q14938,way
@@ -898,6 +905,7 @@ Birkheidering,wikidata,,Q1434274,way
 "Birkholzer Weg",wikidata,,Q18172553,way
 Birkhuhnweg,wikidata,,Q155878,way
 Birkweilerstraße,wikidata,,Q565152,way
+"Birnbaumer Straße",wikidata,,Q556484,way
 Birnbaumring,wikidata,,Q434,way
 Birne,wikidata,,Q434,way
 Birnenallee,wikidata,,Q434,way
@@ -916,7 +924,7 @@ Bisonweg,wikidata,,Q18099,way
 "Bitburger Straße",wikidata,,Q258974,way
 "Bitscher Straße",wikidata,,Q22754,way
 "Bitterfelder Straße",wikidata,,Q836932,way
-"Bitterfelder Weg",wikidata,,Q1281618,way
+"Bitterfelder Weg",wikidata,,Q1281618;Q836932,way
 Blakenheideweg,wikidata,,Q1434274,way
 "Blankenburger Chaussee",wikidata,,Q693582,way
 "Blankenburger Pflasterweg",wikidata,,Q693582,way
@@ -942,11 +950,10 @@ Blindschleichengang,wikidata,,Q183660,way
 Blockdammweg,wikidata,,Q98969382,way
 "Blomberger Weg",wikidata,,Q168646,way
 "Blossiner Straße",wikidata,,Q1711272,way
-"Blumberger Damm",wikidata,,Q82430,way
+"Blumberger Damm",wikidata,,Q174725;Q82430,way
 "Blumberger Straße",wikidata,,Q174725,way
 "Blumberger Weg",wikidata,,Q174725,way
 Blumenallee,wikidata,,Q886167,way
-Blumenstraße,wikidata,,Q886167,way
 Blumenweg,wikidata,,Q886167,way
 Blumeslake,wikidata,,Q3177968,way
 "Blütenauer Straße",wikidata,,Q2008880,way
@@ -959,7 +966,7 @@ Bockmühlenweg,wikidata,,Q180997,way
 Bocksbartweg,wikidata,,Q889257,way
 Bocksprung,wikidata,,Q2934,way
 "Bodenmaiser Weg",wikidata,,Q513654,way
-Bogenstraße,wikidata,,Q161973,way
+Bogenstraße,wikidata,,Q161973;Q18335820,way
 Bogotastraße,wikidata,,Q2841,way
 "Böhlener Straße",wikidata,,Q10743,way
 Böhmerwaldweg,wikidata,,Q157290,way
@@ -1006,7 +1013,6 @@ Boskoopweg,wikidata,,Q504565,way
 Bosporusstraße,wikidata,,Q35958,way
 Böttcherstraße,wikidata,,Q38883,way
 "Bottroper Weg",wikidata,,Q3069,way
-Bouchéstraße,wikidata,,Q894978,way
 "Boulevard Kastanienallee",wikidata,,Q54114,way
 "Boulevard der Stars",wikidata,,Q71719,way
 Boviststraße,wikidata,,Q1759052,way
@@ -1047,10 +1053,11 @@ Brausensteinweg,wikidata,,Q100871119,way
 "Breisacher Straße",wikidata,,Q489911,way
 "Breisgauer Straße",wikidata,,Q690971,way
 "Breitenfelder Straße",wikidata,,Q11829889,way
+"Breiter Weg",wikidata,,Q12046227,way
 "Breites Fenn",wikidata,,Q20826048,way
 "Breitunger Weg",wikidata,,Q698850,way
 "Bremer Straße",wikidata,,Q24879,way
-"Bremer Weg",wikidata,,Q24879,way
+"Bremer Weg",wikidata,,Q1209;Q24879,way
 Brennerstraße,wikidata,,Q212946,way
 "Breslauer Platz",wikidata,,Q1799,way
 "Brester Ring",wikidata,,Q12193,way
@@ -1090,13 +1097,16 @@ Bruchgrabenweg,wikidata,,Q910817,way
 "Bruchsaler Straße",wikidata,,Q7059,way
 "Brücke Grabensprung",wikidata,,Q1434274,way
 "Brücke am Bürgerpark",wikidata,,Q1021367,way
-Brückenstraße,wikidata,,Q701612,way
+Brückenstraße,wikidata,,Q12280;Q1263420;Q701612,way
 "Bruder Lustig",wikidata,,Q992170,way
+Brüderstraße,wikidata,,Q548320;Q131479;Q996839,way
 Brunhildstraße,wikidata,,Q33093599,way
 Brunhildweg,wikidata,,Q850506,way
 Brunnenkresseweg,wikidata,,Q150452,way
 Brunnenpassage,wikidata,,Q43483,way
-Brunnenplatz,wikidata,,Q26821734,way
+Brunnenplatz,wikidata,,Q26821734;Q43483,way
+Brunnenstraße,wikidata,,Q26821734,way
+Brunnenweg,wikidata,,Q43483,way
 Brünnhildestraße,wikidata,,Q850506,way
 Brunolfweg,wikidata,,Q98768193,way
 "Brunsbütteler Damm",wikidata,,Q516635,way
@@ -1150,7 +1160,7 @@ Bürgerstraße,wikidata,,Q1020994,way
 Burggrafenstraße,wikidata,,Q960016,way
 Burghardweg,wikidata,,Q1015001,way
 Burgherrenstraße,wikidata,,Q23413,way
-"Burgunder Straße",wikidata,,Q150412,way
+"Burgunder Straße",wikidata,,Q1173;Q150412,way
 Burgwallsteg,wikidata,,Q23413,way
 Burgwallstraße,wikidata,,Q88598,way
 "Buriger Weg",wikidata,,Q99579734,way
@@ -1200,7 +1210,6 @@ Charitéstraße,wikidata,,Q162684,way
 "Charlottenburger Chaussee",wikidata,,Q162049,way
 "Charlottenburger Straße",wikidata,,Q162049,way
 "Charlottenburger Ufer",wikidata,,Q162049,way
-Charlottenstraße,wikidata,,Q264002,way
 Chartronstraße,wikidata,,Q27921781,way
 Chaukenstraße,wikidata,,Q168549,way
 Chaussee,wikidata,,Q1418214,way
@@ -1251,7 +1260,7 @@ Cyclopstraße,wikidata,,Q19963327,way
 "Czarnikauer Straße",wikidata,,Q51438,way
 DIN-Platz,wikidata,,Q152746,way
 Dabelowseestraße,wikidata,,Q1156535,way
-Dachdeckerweg,wikidata,,Q552378,way
+Dachdeckerweg,wikidata,,Q552378;Q644410,way
 Dachsberg,wikidata,,Q571737,way
 Dachskutengestell,wikidata,,Q27066;Q487843,way
 Dachsteinweg,wikidata,,Q686841,way
@@ -1299,7 +1308,7 @@ Dardanellenweg,wikidata,,Q6514,way
 "Dasburger Weg",wikidata,,Q553499,way
 "Dattelner Weg",wikidata,,Q14940,way
 Dauerwaldweg,wikidata,,Q1172908,way
-Däumlingsweg,wikidata,,Q20825873,way
+Däumlingsweg,wikidata,,Q20825873;Q571493,way
 "Davoser Straße",wikidata,,Q68097,way
 "Debenzer Straße",wikidata,,Q5320918,way
 "Dechtower Steig",wikidata,,Q15804898,way
@@ -1391,13 +1400,14 @@ Dorfanger,wikidata,,Q57743,way
 Dorfaue,wikidata,,Q57743,way
 Dörferweg,wikidata,,Q17353396,way
 Dorfplatz,wikidata,,Q532,way
+Dorfstraße,wikidata,,Q1621981;Q532;Q532;Q1760551,way
 "Dornacher Straße",wikidata,,Q3037108,way
 "Dornbrunner Straße",wikidata,,Q5320645,way
 Dornbuschweg,wikidata,,Q201851,way
 Dorndreherweg,wikidata,,Q26671,way
 Dornenweg,wikidata,,Q201851,way
 Dornröschenstraße,wikidata,,Q11824,way
-Dornröschenweg,wikidata,,Q11824,way
+Dornröschenweg,wikidata,,Q11824;Q16592313,way
 "Dorstener Straße",wikidata,,Q3886,way
 "Dortmunder Straße",wikidata,,Q1295,way
 Dossestraße,wikidata,,Q646005,way
@@ -1424,7 +1434,7 @@ Drossel,wikidata,,Q26050,way
 Drosselbartstraße,wikidata,,Q11856,way
 Drosselbartweg,wikidata,,Q11856,way
 Drosselgasse,wikidata,,Q26050,way
-Drosselsteg,wikidata,,Q26349,way
+Drosselsteg,wikidata,,Q26050;Q26349,way
 Drosselstieg,wikidata,,Q26050,way
 Drosselstraße,wikidata,,Q26050,way
 Drosselweg,wikidata,,Q26050,way
@@ -1445,7 +1455,7 @@ Dukatenfalterweg,wikidata,,Q520934,way
 Dünenhöhe,wikidata,,Q863906,way
 Dünenweg,wikidata,,Q25391,way
 "Dünther Straße",wikidata,,Q834580,way
-Düppelstraße,wikidata,,Q695107,way
+Düppelstraße,wikidata,,Q695107;Q834580,way
 "Dürkheimer Straße",wikidata,,Q22901,way
 "Durlacher Straße",wikidata,,Q639876,way
 Dürtenstraße,wikidata,,Q97303151,way
@@ -1454,7 +1464,7 @@ Dürtenstraße,wikidata,,Q97303151,way
 East-Side-Park,wikidata,,Q313746,way
 Ebenrotsteig,wikidata,,Q1281484,way
 "Eberbacher Straße",wikidata,,Q697766,way
-Ebereschenallee,wikidata,,Q146198,way
+Ebereschenallee,wikidata,,Q146198;Q157964,way
 Ebereschenweg,wikidata,,Q146198,way
 Eberhardstraße,wikidata,,Q1278816,way
 "Ebersdorfer Platz",wikidata,,Q1279760,way
@@ -1467,7 +1477,7 @@ Ede-und-Unku-Weg,wikidata,,Q1283175,way
 Edeltrautweg,wikidata,,Q15106707,way
 Edelweiß,wikidata,,Q178265,way
 Edelweißstraße,wikidata,,Q1483297,way
-Edelweißweg,wikidata,,Q178265,way
+Edelweißweg,wikidata,,Q1483297;Q178265,way
 "Edenkobener Steg",wikidata,,Q537985,way
 "Edenkobener Weg",wikidata,,Q537985,way
 Ederkopfweg,wikidata,,Q1283660,way
@@ -1568,7 +1578,6 @@ Elfenhügelweg,wikidata,,Q115007,way
 Elfriedestraße,wikidata,,Q18327552,way
 "Elgersburger Straße",wikidata,,Q553076,way
 Elisabethkirchstraße,wikidata,,Q321105,way
-Elisabethstraße,wikidata,,Q17524931,way
 Elise-und-Otto-Hampel-Weg,wikidata,,Q12403525,way
 Elkesteig,wikidata,,Q440735,way
 Ellaweg,wikidata,,Q988912,way
@@ -1581,7 +1590,7 @@ Elmshorn,wikidata,,Q6845,way
 "Elmshorner Straße",wikidata,,Q6845,way
 "Elmsteiner Weg",wikidata,,Q566064,way
 Elmweg,wikidata,,Q896176,way
-Elsastraße,wikidata,,Q1077181,way
+Elsastraße,wikidata,,Q1077181;Q159856,way
 Elsbeerenweg,wikidata,,Q147459,way
 Elsenallee,wikidata,,Q25239,way
 "Elsenborner Weg",wikidata,,Q3047187,way
@@ -1599,7 +1608,7 @@ Elstergasse,wikidata,,Q25307,way
 Elstergrund,wikidata,,Q25307,way
 Elsterplatz,wikidata,,Q46856,way
 Elstersteg,wikidata,,Q25307,way
-Elsterstraße,wikidata,,Q44729,way
+Elsterstraße,wikidata,,Q25307;Q44729,way
 Elsterweg,wikidata,,Q25307,way
 "Elsterwerdaer Platz",wikidata,,Q584473,way
 "Eltviller Straße",wikidata,,Q275193,way
@@ -1607,7 +1616,7 @@ Eltzbachweg,wikidata,,Q525135,way
 Elvirasteig,wikidata,,Q3051870,way
 "Emdener Straße",wikidata,,Q4174,way
 "Emmentaler Straße",wikidata,,Q684648,way
-"Emser Straße",wikidata,,Q490670,way
+"Emser Straße",wikidata,,Q1648;Q490670,way
 "Emstaler Platz",wikidata,,Q291091,way
 Enckevortweg,wikidata,,Q1340051,way
 "Engadiner Weg",wikidata,,Q22883,way
@@ -1662,7 +1671,7 @@ Eschachstraße,wikidata,,Q1366866,way
 Eschenallee,wikidata,,Q128887,way
 Eschengraben,wikidata,,Q1367008,way
 Eschenstraße,wikidata,,Q128887,way
-Eschenweg,wikidata,,Q156907,way
+Eschenweg,wikidata,,Q128887;Q156907,way
 Eschenwinkel,wikidata,,Q156907,way
 "Eschershauser Weg",wikidata,,Q58757,way
 "Eschersheimer Straße",wikidata,,Q450028,way
@@ -1679,7 +1688,6 @@ Eulenspiegelweg,wikidata,,Q164083,way
 Eulenweg,wikidata,,Q25222,way
 "Eupener Straße",wikidata,,Q151831,way
 "Eutinger Weg",wikidata,,Q81702,way
-Evastraße,wikidata,,Q55011377,way
 Ewaldstraße,wikidata,,Q18343061,way
 "Exiner Straße",wikidata,,Q1003283,way
 "Eylauer Straße",wikidata,,Q331347,way
@@ -1717,7 +1725,8 @@ Färberstraße,wikidata,,Q6147194,way
 Farmergasse,wikidata,,Q131512,way
 Farnstraße,wikidata,,Q80005,way
 Fasanenplatz,wikidata,,Q1397298,way
-Fasanenstraße,wikidata,,Q1397298,way
+Fasanenstraße,wikidata,,Q1397298;Q25432,way
+Fasanenweg,wikidata,,Q25432,way
 Fasanerie,wikidata,,Q1397298,way
 Fasanerieallee,wikidata,,Q1397298,way
 Fasoltstraße,wikidata,,Q55611492,way
@@ -1744,7 +1753,8 @@ Feldspatzenweg,wikidata,,Q25968,way
 "Feldstedter Weg",wikidata,,Q12871664,way
 Feldsteg,wikidata,,Q188869,way
 Feldsteinweg,wikidata,,Q12326183,way
-Feldstraße,wikidata,,Q188869,way
+Feldstraße,wikidata,,Q12046227;Q1434232;Q188869,way
+Feldweg,wikidata,,Q12046227,way
 Feldzeugmeisterstraße,wikidata,,Q267789,way
 "Fellbacher Platz",wikidata,,Q7022,way
 "Fellbacher Straße",wikidata,,Q7022,way
@@ -1765,7 +1775,6 @@ Fichtengrund,wikidata,,Q26782,way
 Fichtenstraße,wikidata,,Q26782,way
 Fichtenweg,wikidata,,Q26782,way
 Fichtenzeisigweg,wikidata,,Q26847063,way
-Fichtestraße,wikidata,,Q26782,way
 Fichteweg,wikidata,,Q26782,way
 Figarostraße,wikidata,,Q50392362,way
 Filandastraße,wikidata,,Q3973051,way
@@ -1794,7 +1803,7 @@ Finowstraße,wikidata,,Q1418297,way
 Fischadlerweg,wikidata,,Q25332,way
 "Fischbrunner Weg",wikidata,,Q1419852,way
 Fischerinsel,wikidata,,Q331432,way
-Fischerstraße,wikidata,,Q11231408,way
+Fischerstraße,wikidata,,Q11231408;Q331432,way
 Fischerweg,wikidata,,Q1193402,way
 Fischgrundbrücke,wikidata,,Q1434274,way
 "Fischhauser Weg",wikidata,,Q183223,way
@@ -1826,7 +1835,6 @@ Fließtalstraße,wikidata,,Q1646276,way
 Floningweg,wikidata,,Q1429163,way
 Floraplatz,wikidata,,Q131449,way
 Florapromenade,wikidata,,Q209644,way
-Florastraße,wikidata,,Q131449,way
 Florentinestraße,wikidata,,Q1429456,way
 "Flottbeker Weg",wikidata,,Q1606,way
 Flottenstraße,wikidata,,Q189524,way
@@ -1851,7 +1859,7 @@ Formerweg,wikidata,,Q50989948,way
 Försterweg,wikidata,,Q3738699,way
 Forsthausallee,wikidata,,Q1425352,way
 Forststraße,wikidata,,Q4410701,way
-Forstweg,wikidata,,Q3444700,way
+Forstweg,wikidata,,Q31910828;Q3444700,way
 Forsythienweg,wikidata,,Q5470682,way
 Fortunaallee,wikidata,,Q4654,way
 Framstraße,wikidata,,Q110283,way
@@ -1860,7 +1868,7 @@ Frankenallee,wikidata,,Q43482,way
 "Frankenhauser Straße",wikidata,,Q151876,way
 "Frankenholzer Weg",wikidata,,Q989752,way
 Frankensteinstraße,wikidata,,Q1011776,way
-Frankenstraße,wikidata,,Q150907,way
+Frankenstraße,wikidata,,Q150907;Q43482,way
 "Frankentaler Ufer",wikidata,,Q6905,way
 Frankenwaldstraße,wikidata,,Q282737,way
 "Frankfurter Allee",wikidata,,Q4024,way
@@ -1892,7 +1900,8 @@ Freibergstraße,wikidata,,Q36956323,way
 "Freienwalder Straße",wikidata,,Q427655,way
 Freiertweg,wikidata,,Q37093963,way
 Freigutweg,wikidata,,Q48756813,way
-Freiheitsweg,wikidata,,Q1868295,way
+Freiheit,wikidata,,Q2979,way
+Freiheitsweg,wikidata,,Q1868295;Q2979,way
 Freilandweg,wikidata,,Q611711,way
 Freischützstraße,wikidata,,Q672789,way
 Freischütztunnel,wikidata,,Q672789,way
@@ -1911,7 +1920,7 @@ Fridolinweg,wikidata,,Q1456202,way
 "Friedenhorster Straße",wikidata,,Q454,way
 Friedensplatz,wikidata,,Q158021,way
 Friedensteg,wikidata,,Q454,way
-Friedenstraße,wikidata,,Q437926,way
+Friedenstraße,wikidata,,Q158021;Q39614;Q437926,way
 Friedensweg,wikidata,,Q454,way
 Friederikestraße,wikidata,,Q18352956,way
 Friedhofstraße,wikidata,,Q39614,way
@@ -1929,7 +1938,6 @@ Friedhofstraße,wikidata,,Q39614,way
 Friensteinweg,wikidata,,Q1429329,way
 "Friesacker Straße",wikidata,,Q585632,way
 "Friesdorfer Pfad",wikidata,,Q707234,way
-Friesenstraße,wikidata,,Q106416,way
 "Frischborner Weg",wikidata,,Q1464986,way
 Frischlingsteig,wikidata,,Q58697,way
 Frithjofstraße,wikidata,,Q397698,way
@@ -1965,6 +1973,7 @@ Fürstenstraße,wikidata,,Q18244,way
 "Fürstenwalder Allee",wikidata,,Q16064,way
 "Fürstenwalder Damm",wikidata,,Q16064,way
 "Fürstenwalder Straße",wikidata,,Q1483535,way
+Fürstenweg,wikidata,,Q18244,way
 "Fürther Straße",wikidata,,Q3075,way
 "Füssener Straße",wikidata,,Q262684,way
 "Fußgängerbrücke Alt-Friedrichsfelde",wikidata,,Q563588,way
@@ -1987,10 +1996,12 @@ Garnisonkirchplatz,wikidata,,Q1494385,way
 "Gartenfelder Brücke",wikidata,,Q1494642,way
 "Gartenfelder Straße",wikidata,,Q1494642,way
 Gartenstadtweg,wikidata,,Q551256,way
+Gartenstraße,wikidata,,Q1107656;Q2670777,way
+Gartenweg,wikidata,,Q1107656;Q8054653,way
 Gärtnereiring,wikidata,,Q48803,way
 Gärtnereiweg,wikidata,,Q48803,way
-Gärtnerstraße,wikidata,,Q1107656,way
-Gärtnerweg,wikidata,,Q758780,way
+Gärtnerstraße,wikidata,,Q1107656;Q758780,way
+Gärtnerweg,wikidata,,Q758780;Q8054653,way
 "Garzauer Straße",wikidata,,Q585328,way
 "Garziner Platz",wikidata,,Q585328,way
 Garzweg,wikidata,,Q161898,way
@@ -2004,6 +2015,7 @@ Gascogneweg,wikidata,,Q191085,way
 Gawanstraße,wikidata,,Q831685,way
 Gebertstraße,wikidata,,Q21510561,way
 Gebirgskräuterweg,wikidata,,Q1318906,way
+Gebrüder-Grimm-Weg,wikidata,,Q2793,way
 Gebrüder-Wright-Straße,wikidata,,Q35820,way
 Gebweilerstraße,wikidata,,Q209814,way
 Geflügelsteig,wikidata,,Q178559,way
@@ -2040,7 +2052,6 @@ Genovevastraße,wikidata,,Q269052,way
 "Genter Straße",wikidata,,Q1296,way
 "Genthiner Straße",wikidata,,Q284317,way
 Georgenkirchstraße,wikidata,,Q1508728,way
-Georgenstraße,wikidata,,Q1985538,way
 Georginenweg,wikidata,,Q130918,way
 Georgstraße,wikidata,,Q1985538,way
 "Geraer Ring",wikidata,,Q3750,way
@@ -2117,7 +2128,7 @@ Glaskrautstraße,wikidata,,Q163536,way
 "Glauchauer Straße",wikidata,,Q20071,way
 "Gleiwitzer Straße",wikidata,,Q105084,way
 "Glienicker Brücke",wikidata,,Q950773,way
-"Glienicker Straße",wikidata,,Q641472,way
+"Glienicker Straße",wikidata,,Q585248;Q641472;Q950773,way
 "Glienicker Weg",wikidata,,Q641472,way
 Gliensteig,wikidata,,Q1879140,way
 Glimmerweg,wikidata,,Q114675,way
@@ -2190,6 +2201,7 @@ Götzkeweg,wikidata,,Q83352845,way
 "Graacher Straße",wikidata,,Q648808,way
 "Graaler Weg",wikidata,,Q570568,way
 Grabensprung,wikidata,,Q1434274,way
+Grabenstraße,wikidata,,Q2048319,way
 "Grafenauer Weg",wikidata,,Q507945,way
 "Gräfenberger Weg",wikidata,,Q954611,way
 "Gräfentaler Straße",wikidata,,Q529809,way
@@ -2232,6 +2244,8 @@ Grenadierstraße,wikidata,,Q313303,way
 "Grenobler Ring",wikidata,,Q1289,way
 Grenzallee,wikidata,,Q133346,way
 Grenzgrabenstraße,wikidata,,Q15055972,way
+Grenzstraße,wikidata,,Q133346,way
+Grenzweg,wikidata,,Q133346,way
 Gretelstraße,wikidata,,Q11829,way
 "Grevesmühlener Straße",wikidata,,Q517353,way
 Griebnitzseepromenade,wikidata,,Q896125,way
@@ -2242,19 +2256,18 @@ Grillensteig,wikidata,,Q47328,way
 Grillenweg,wikidata,,Q47328,way
 Grimbartsteig,wikidata,,Q27066,way
 Grimmingweg,wikidata,,Q668410,way
-Grimmstraße,wikidata,,Q2793,way
 Grimnitzseeweg,wikidata,,Q1546908,way
 Grimnitzstraße,wikidata,,Q1546908,way
 Grimselweg,wikidata,,Q666668,way
 Grindelwaldweg,wikidata,,Q64004,way
 "Gronauer Weg",wikidata,,Q6924,way
 "Groninger Straße",wikidata,,Q749,way
-"Groß-Berliner Damm",wikidata,,Q1797027,way
+"Groß-Berliner Damm",wikidata,,Q1797027;Q56041,way
 "Groß-Glienicker Weg",wikidata,,Q878722,way
 "Groß-Ziethener Chaussee",wikidata,,Q1549796,way
 "Groß-Ziethener Straße",wikidata,,Q1549796,way
 Großbeerenbrücke,wikidata,,Q339052,way
-Großbeerenstraße,wikidata,,Q628528,way
+Großbeerenstraße,wikidata,,Q339052;Q628528,way
 Großcreutzweg,wikidata,,Q97440857,way
 "Große Hamburger Straße",wikidata,,Q1055,way
 "Große Seestraße",wikidata,,Q2557099,way
@@ -2270,13 +2283,14 @@ Grumbkowstraße,wikidata,,Q93437428,way
 "Grünauer Straße",wikidata,,Q643857,way
 "Grünauer Weg",wikidata,,Q643857,way
 "Grünberger Straße",wikidata,,Q104720,way
+Gründerstraße,wikidata,,Q267712,way
 "Grüne Aue",wikidata,,Q20820178;Q170321,way
 "Grüne Trift",wikidata,,Q1168568,way
 "Grüne Trift am Walde",wikidata,,Q1168568,way
 "Grünefelder Straße",wikidata,,Q63905212,way
 "Grünelinder Straße",wikidata,,Q99578572,way
 "Grüner Wall",wikidata,,Q1416685,way
-"Grüner Weg",wikidata,,Q97381731,way
+"Grüner Weg",wikidata,,Q7777019;Q97381731,way
 Grunewaldstraße,wikidata,,Q11705528,way
 Grünfinkenweg,wikidata,,Q27075785,way
 "Grünfließer Gang",wikidata,,Q6964948,way
@@ -2290,6 +2304,7 @@ Grünrockweg,wikidata,,Q1714828,way
 Grünspechtweg,wikidata,,Q166171,way
 "Grünstadter Weg",wikidata,,Q22956,way
 Grünsteinweg,wikidata,,Q753016,way
+Grünstraße,wikidata,,Q5604190,way
 "Grüntaler Straße",wikidata,,Q95483917,way
 Grüntenstraße,wikidata,,Q205163,way
 "Grünzug Am Falkenberg",wikidata,,Q1394158,way
@@ -2304,7 +2319,6 @@ Guineastraße,wikidata,,Q1006,way
 "Gülzower Straße",wikidata,,Q591213,way
 "Gundelfinger Straße",wikidata,,Q95948127,way
 "Guntersblumer Weg",wikidata,,Q656289,way
-Guntherstraße,wikidata,,Q62113179,way
 Guntherweg,wikidata,,Q62113179,way
 Guntramstraße,wikidata,,Q1555021,way
 Gurkensteig,wikidata,,Q23425,way
@@ -2349,7 +2363,6 @@ Hagebuttenweg,wikidata,,Q46740,way
 "Hagelberger Straße",wikidata,,Q314672,way
 "Hagenauer Straße",wikidata,,Q22730,way
 "Hagenower Ring",wikidata,,Q565611,way
-Hagenstraße,wikidata,,Q1568447,way
 Hahnenfußpfad,wikidata,,Q146130,way
 "Hahns Mühle",wikidata,,Q147276;Q505213,way
 Hainbuchenstraße,wikidata,,Q158776,way
@@ -2387,8 +2400,8 @@ Hannoverstraße,wikidata,,Q1715,way
 "Hannsdorfer Straße",wikidata,,Q691467,way
 "Hanoier Straße",wikidata,,Q1858,way
 Hans-Jürgen-Straße,wikidata,,Q16276304,way
-Hansa-Ufer,wikidata,,Q42908,way
-Hansabrücke,wikidata,,Q1583695,way
+Hansa-Ufer,wikidata,,Q104034701;Q42908,way
+Hansabrücke,wikidata,,Q1583695;Q42908,way
 Hansaplatz,wikidata,,Q42908,way
 Hansastraße,wikidata,,Q42908,way
 Hanseatenweg,wikidata,,Q1583695,way
@@ -2421,7 +2434,7 @@ Hasenheide,wikidata,,Q25900,way
 Hasenlauf,wikidata,,Q25900,way
 Hasenmark,wikidata,,Q1434274,way
 Hasenpfad,wikidata,,Q25900,way
-Hasensprung,wikidata,,Q571737,way
+Hasensprung,wikidata,,Q25900;Q571737,way
 Hasensteg,wikidata,,Q25900,way
 Hasenweg,wikidata,,Q25900,way
 "Hasselfelder Weg",wikidata,,Q50867,way
@@ -2433,13 +2446,15 @@ Hassoweg,wikidata,,Q21400608,way
 "Hattinger Weg",wikidata,,Q4082,way
 "Hatzenporter Weg",wikidata,,Q554243,way
 Hauptgestell,wikidata,,Q487843,way
-Hauptstraße,wikidata,,Q1006835,way
+Hauptstraße,wikidata,,Q1006835;Q821113,way
+Hauptweg,wikidata,,Q12046227,way
 Hauskavelweg,wikidata,,Q70196,way
 Hausstockweg,wikidata,,Q15300,way
 Hausvaterweg,wikidata,,Q601444,way
 Hausvogteiplatz,wikidata,,Q15281257,way
 "Havelberger Straße",wikidata,,Q504040,way
 Havelchaussee,wikidata,,Q1682,way
+Havelhöhenweg,wikidata,,Q1682,way
 Havelkaiser-Platz,wikidata,,Q1194174,way
 "Havelländer Ring",wikidata,,Q897270,way
 Havelmatensteig,wikidata,,Q1434274,way
@@ -2455,10 +2470,8 @@ Hechtstraße,wikidata,,Q191674,way
 Heckenrosenweg,wikidata,,Q137608,way
 Heckenweg,wikidata,,Q235779,way
 Hedwigskirchgasse,wikidata,,Q170123,way
-Hedwigstraße,wikidata,,Q19689438,way
 "Heegermühler Weg",wikidata,,Q832403,way
 Heerstraße,wikidata,,Q6857854,way
-Heesestraße,wikidata,,Q56244068,way
 "Hegauer Weg",wikidata,,Q692712,way
 Hegemeister-Gestell,wikidata,,Q3738699;Q487843,way
 Hegemeisterweg,wikidata,,Q3738699,way
@@ -2478,6 +2491,7 @@ Heidenelkenweg,wikidata,,Q159756,way
 "Heidenheimer Straße",wikidata,,Q6869,way
 Heidereutergasse,wikidata,,Q3738699,way
 Heidereuterstraße,wikidata,,Q3738699,way
+Heidestraße,wikidata,,Q27590,way
 Heideweg,wikidata,,Q27590,way
 "Heilbronner Straße",wikidata,,Q715,way
 Heiligegeistgasse,wikidata,,Q1594900,way
@@ -2493,7 +2507,7 @@ Heimdallstraße,wikidata,,Q131196,way
 Heimgartenstraße,wikidata,,Q8054653,way
 Heimkehlenstraße,wikidata,,Q1595797,way
 "Heimsbrunner Straße",wikidata,,Q325145,way
-"Heinersdorfer Straße",wikidata,,Q693540,way
+"Heinersdorfer Straße",wikidata,,Q693540;Q70715674,way
 Heisterbachstraße,wikidata,,Q897297,way
 "Heiterwanger Weg",wikidata,,Q694011,way
 "Heldburger Straße",wikidata,,Q1601702,way
@@ -2525,7 +2539,6 @@ Henningweg,wikidata,,Q18607880,way
 Henrionweg,wikidata,,Q37530006,way
 "Heppenheimer Weg",wikidata,,Q524407,way
 Heraweg,wikidata,,Q38012,way
-Herbertstraße,wikidata,,Q4926833,way
 "Herbsteiner Straße",wikidata,,Q565528,way
 Herbststraße,wikidata,,Q1314,way
 Herbstweg,wikidata,,Q1314,way
@@ -2535,12 +2548,11 @@ Heribaldstraße,wikidata,,Q99608827,way
 Herkulesbrücke,wikidata,,Q122248,way
 Herkulesufer,wikidata,,Q122248,way
 "Hermannstadter Weg",wikidata,,Q83324,way
-Hermannstraße,wikidata,,Q1158570,way
 Hermelinweg,wikidata,,Q25345,way
 "Hermeroder Weg",wikidata,,Q701852,way
 Hermineweg,wikidata,,Q19968531,way
 "Hermsdorfer Damm",wikidata,,Q565018,way
-"Hermsdorfer Straße",wikidata,,Q67019497,way
+"Hermsdorfer Straße",wikidata,,Q552692;Q67019497,way
 Herrenhausstraße,wikidata,,Q1802963,way
 Herrgottsapfelweg,wikidata,,Q15731356,way
 Herrnholzweg,wikidata,,Q1434274,way
@@ -2549,7 +2561,7 @@ Herrnholzweg,wikidata,,Q1434274,way
 "Herscheider Weg",wikidata,,Q5839,way
 "Hersfelder Weg",wikidata,,Q16145,way
 Hertabrücke,wikidata,,Q16427682,way
-Hertastraße,wikidata,,Q16427682,way
+Hertastraße,wikidata,,Q16427682;Q598518,way
 Herthaplatz,wikidata,,Q16427682,way
 Herthastraße,wikidata,,Q16427682,way
 "Hertwigswalder Steig",wikidata,,Q1233335,way
@@ -2600,7 +2612,7 @@ Hirschhof,wikidata,,Q79794,way
 Hirschkäferweg,wikidata,,Q190491,way
 Hirschpfad,wikidata,,Q23390,way
 Hirschsprung,wikidata,,Q101049019,way
-Hirseländerweg,wikidata,,Q259438,way
+Hirseländerweg,wikidata,,Q1434274;Q259438,way
 Hirseweg,wikidata,,Q259438,way
 "Hirsinger Straße",wikidata,,Q381847,way
 Hirtenfließ,wikidata,,Q147276,way
@@ -2630,7 +2642,7 @@ Hochwildpfad,wikidata,,Q223930,way
 Hödurstraße,wikidata,,Q204900,way
 "Hofheimer Straße",wikidata,,Q164009,way
 Hofjagdweg,wikidata,,Q1678262,way
-Hofjägerallee,wikidata,,Q2261272,way
+Hofjägerallee,wikidata,,Q1134237;Q2261272,way
 Hofzeichendamm,wikidata,,Q1623323,way
 Hogenestweg,wikidata,,Q97441365,way
 "Hohe Ähren",wikidata,,Q1434274,way
@@ -2663,8 +2675,10 @@ Hohenzollernring,wikidata,,Q83969,way
 Hohenzollernstraße,wikidata,,Q83969,way
 "Hoher Steinweg",wikidata,,Q3328263,way
 "Hoher Wallgraben",wikidata,,Q1623953,way
+"Hoher Weg",wikidata,,Q12046227,way
 "Hoiruper Straße",wikidata,,Q1652014,way
 "Holenbrunner Weg",wikidata,,Q1539709,way
+Hollabergweg,wikidata,,Q31538258,way
 Holländerstraße,wikidata,,Q1474867,way
 Höllentalweg,wikidata,,Q301685,way
 "Holsteiner Ufer",wikidata,,Q111224,way
@@ -2674,7 +2688,7 @@ Holunderweg,wikidata,,Q131448,way
 Holwedestraße,wikidata,,Q1625301,way
 "Holzhauser Straße",wikidata,,Q103829802,way
 "Holzkircher Straße",wikidata,,Q212480,way
-Holzmarktstraße,wikidata,,Q1625796,way
+Holzmarktstraße,wikidata,,Q1625796;Q287;Q37654,way
 "Holzmindener Straße",wikidata,,Q55425,way
 Holzstraße,wikidata,,Q918088,way
 Holzungsweg,wikidata,,Q3444700,way
@@ -2763,7 +2777,7 @@ Illstraße,wikidata,,Q668472,way
 Ilsenburgstraße,wikidata,,Q529928,way
 Ilsenhof,wikidata,,Q451537,way
 Ilsensteinweg,wikidata,,Q1659244,way
-Ilsestraße,wikidata,,Q533466,way
+Ilsestraße,wikidata,,Q451537;Q533466,way
 Iltisstraße,wikidata,,Q872502,way
 "Im Amseltal",wikidata,,Q25234,way
 "Im Amtmannsgarten",wikidata,,Q592996,way
@@ -2783,6 +2797,7 @@ Iltisstraße,wikidata,,Q872502,way
 "Im Honiggrund",wikidata,,Q10987,way
 "Im Hornisgrund",wikidata,,Q30258,way
 "Im Hufenschlag",wikidata,,Q1757518,way
+"Im Jagen",wikidata,,Q334434,way
 "Im Kinderland",wikidata,,Q474862,way
 "Im Lesachtal",wikidata,,Q21874952,way
 "Im Lichtenhain",wikidata,,Q9169094;Q317056,way
@@ -2804,7 +2819,7 @@ Imchenallee,wikidata,,Q1659793,way
 Imchenplatz,wikidata,,Q1659793,way
 Imkerweg,wikidata,,Q852389,way
 Immanuelkirchstraße,wikidata,,Q1659952,way
-Immenweg,wikidata,,Q30034,way
+Immenweg,wikidata,,Q1251421;Q30034,way
 Immergrünsteig,wikidata,,Q220925,way
 Immortellenweg,wikidata,,Q1587861,way
 "In den Floragärten",wikidata,,Q209644,way
@@ -2832,7 +2847,7 @@ Ingwerweg,wikidata,,Q35625,way
 Innstraße,wikidata,,Q14369,way
 Innungsstraße,wikidata,,Q1325804,way
 Insel-Rügen-Weg,wikidata,,Q3237,way
-Inselstraße,wikidata,,Q178503,way
+Inselstraße,wikidata,,Q1684;Q23442;Q178503,way
 Insterburgallee,wikidata,,Q5655,way
 Invalidensiedlung,wikidata,,Q1671654,way
 Invalidenstraße,wikidata,,Q1671654,way
@@ -2859,8 +2874,8 @@ Jadeweg,wikidata,,Q504571,way
 Jagdschlosspark,wikidata,,Q526909,way
 Jägerallee,wikidata,,Q1714828,way
 "Jägerndorfer Zeile",wikidata,,Q1789604,way
-Jägerstieg,wikidata,,Q2339206,way
-Jägerstraße,wikidata,,Q1714828,way
+Jägerstieg,wikidata,,Q1714828;Q2339206,way
+Jägerstraße,wikidata,,Q1714828;Q2142067,way
 Jägerweg,wikidata,,Q1714828,way
 "Jänickendorfer Weg",wikidata,,Q1714934,way
 "Jänschwalder Straße",wikidata,,Q572540,way
@@ -2873,7 +2888,7 @@ Jasminweg,wikidata,,Q515610,way
 "Jerichower Straße",wikidata,,Q530090,way
 "Jerusalemer Straße",wikidata,,Q502315,way
 Jeverstraße,wikidata,,Q31084,way
-"Joachimsthaler Straße",wikidata,,Q1690674,way
+"Joachimsthaler Straße",wikidata,,Q1690674;Q535551,way
 Jochen-Nüßler-Straße,wikidata,,Q97293043,way
 Jockeyweg,wikidata,,Q846750,way
 Johannisbeere,wikidata,,Q22691,way
@@ -2887,7 +2902,7 @@ Johanniterstraße,wikidata,,Q4498889,way
 Jollenseglerstraße,wikidata,,Q13573011,way
 Jonathanweg,wikidata,,Q494446,way
 Jötunsteig,wikidata,,Q210053,way
-Jüdenstraße,wikidata,,Q1419649,way
+Jüdenstraße,wikidata,,Q1419649;Q7325,way
 Jugendplatz,wikidata,,Q160645,way
 Jugendweg,wikidata,,Q160645,way
 "Jugenheimer Weg",wikidata,,Q1305986,way
@@ -2913,7 +2928,6 @@ Käferpfad,wikidata,,Q22671,way
 "Kageler Weg",wikidata,,Q1721098,way
 Kaiserkronenweg,wikidata,,Q1220245,way
 Kaiserplatz,wikidata,,Q501503,way
-Kaiserstraße,wikidata,,Q39018,way
 Kaiserstuhlstraße,wikidata,,Q701516,way
 "Kaiserswerther Straße",wikidata,,Q678456,way
 "Kalif Storch Weg",wikidata,,Q1722225,way
@@ -2936,9 +2950,11 @@ Kamillenstraße,wikidata,,Q28437,way
 Kammerstraße,wikidata,,Q223497,way
 Kammgasse,wikidata,,Q740445,way
 "Kamminer Straße",wikidata,,Q161887,way
+Kammweg,wikidata,,Q740445,way
 Kampferweg,wikidata,,Q158722,way
 Kampfläuferweg,wikidata,,Q28122714,way
 Kampweg,wikidata,,Q884719,way
+Kanalstraße,wikidata,,Q12284;Q562206,way
 "Kandeler Weg",wikidata,,Q22957,way
 "Kandertaler Weg",wikidata,,Q686114,way
 Kaninchenweg,wikidata,,Q9394,way
@@ -2948,13 +2964,13 @@ Kanzleramtssteg,wikidata,,Q320459,way
 Kanzlerweg,wikidata,,Q7050658,way
 Kapaunenstraße,wikidata,,Q594676,way
 Kapellensteig,wikidata,,Q108325,way
+Kapellenweg,wikidata,,Q1434274,way
 Kappenstraße,wikidata,,Q35051,way
 Kapsperlingweg,wikidata,,Q663335,way
 Kapuzenzeisigweg,wikidata,,Q27075875,way
 Kapverdenweg,wikidata,,Q56293102,way
 Kapweg,wikidata,,Q4092,way
 Karestraße,wikidata,,Q16802352,way
-Karl-Heinrich-Ulrichs-Straße,wikidata,,Q45186823,way
 "Karlsbader Straße",wikidata,,Q384544,way
 Karlsbergallee,wikidata,,Q1733899,way
 "Karlsburger Weg",wikidata,,Q557315,way
@@ -2963,7 +2979,6 @@ Karlshöhe,wikidata,,Q147276,way
 "Karlshorster Straße",wikidata,,Q703218,way
 "Karlsruher Straße",wikidata,,Q1040,way
 "Karlstadter Straße",wikidata,,Q507854,way
-Karlstraße,wikidata,,Q15731830,way
 Karmeliterweg,wikidata,,Q186277,way
 Karmielplatz,wikidata,,Q152418,way
 "Kärntener Straße",wikidata,,Q37985,way
@@ -2980,12 +2995,11 @@ Karwendelstraße,wikidata,,Q671207,way
 "Karwitzer Pfad",wikidata,,Q1734724,way
 Kasinoweg,wikidata,,Q147276,way
 Kasperstraße,wikidata,,Q954170,way
-Kastanienallee,wikidata,,Q129324,way
+Kastanienallee,wikidata,,Q129324;Q26899,way
 Kastaniengasse,wikidata,,Q129324,way
 Kastanienhof,wikidata,,Q129324,way
 Kastanienstraße,wikidata,,Q129324,way
-Kastanienweg,wikidata,,Q26899,way
-Katharinenstraße,wikidata,,Q16277712,way
+Kastanienweg,wikidata,,Q129324;Q26899,way
 Kätheplatz,wikidata,,Q1795511,way
 Käthestraße,wikidata,,Q1795511,way
 Kattegatstraße,wikidata,,Q131716,way
@@ -3028,7 +3042,7 @@ Kiefernallee,wikidata,,Q12024,way
 Kiefernweg,wikidata,,Q12024,way
 Kieferstraße,wikidata,,Q12024,way
 "Kiefheider Weg",wikidata,,Q2100212,way
-Kiefholzstraße,wikidata,,Q12024,way
+Kiefholzstraße,wikidata,,Q12024;Q1740919,way
 Kiefwiesensteig,wikidata,,Q97481706,way
 Kiehnwerderallee,wikidata,,Q1434274,way
 "Kiekemaler Straße",wikidata,,Q1740937,way
@@ -3042,6 +3056,7 @@ Kienhorststraße,wikidata,,Q1434274,way
 "Kienitzer Straße",wikidata,,Q1643646,way
 Kieselweg,wikidata,,Q43010,way
 Kiesstraße,wikidata,,Q133833,way
+Kiesweg,wikidata,,Q133833,way
 Kietz,wikidata,,Q1617788,way
 "Kietzer Straße",wikidata,,Q1617788,way
 "Kilstetter Straße",wikidata,,Q21555,way
@@ -3049,12 +3064,12 @@ Kindelbergweg,wikidata,,Q98219075,way
 Kinzigstraße,wikidata,,Q700095,way
 Kirchblick,wikidata,,Q1698822,way
 "Kirchdorfer Straße",wikidata,,Q489164,way
-Kirchgasse,wikidata,,Q2316617,way
+Kirchgasse,wikidata,,Q1244081;Q16970;Q2316617,way
 "Kirchhainer Damm",wikidata,,Q371098,way
-Kirchhofstraße,wikidata,,Q2749813,way
+Kirchhofstraße,wikidata,,Q2749813;Q39614,way
 Kirchmeisterweg,wikidata,,Q1743354,way
 Kirchsteig,wikidata,,Q562450,way
-Kirchstraße,wikidata,,Q1244711,way
+Kirchstraße,wikidata,,Q1244502;Q1244711;Q1434274;Q14898063;Q1653702;Q1698931;Q2320042,way
 Kirchweg,wikidata,,Q1742647,way
 Kirschallee,wikidata,,Q165137,way
 Kirschbaumallee,wikidata,,Q165137,way
@@ -3063,6 +3078,7 @@ Kirsche,wikidata,,Q165137,way
 Kirschenallee,wikidata,,Q165137,way
 Kirschenweg,wikidata,,Q165137,way
 Kirschlorbeerweg,wikidata,,Q157508,way
+Kirschweg,wikidata,,Q165137,way
 Kisselnallee,wikidata,,Q1740919,way
 Kissingenplatz,wikidata,,Q488346,way
 Kissingenstraße,wikidata,,Q488346,way
@@ -3127,7 +3143,7 @@ Klompenweg,wikidata,,Q167633,way
 Klosterbuschweg,wikidata,,Q1434274,way
 "Klosterfelder Weg",wikidata,,Q1776389,way
 "Klosterheider Weg",wikidata,,Q15057058,way
-Klosterstraße,wikidata,,Q817051,way
+Klosterstraße,wikidata,,Q1543798;Q817051,way
 Klötzesteig,wikidata,,Q1434274,way
 "Klüsserather Weg",wikidata,,Q569589,way
 "Klützer Straße",wikidata,,Q507165,way
@@ -3161,12 +3177,12 @@ Kolkrabenweg,wikidata,,Q25357,way
 "Kolmarer Straße",wikidata,,Q130994,way
 "Kölner Damm",wikidata,,Q365,way
 "Kölner Straße",wikidata,,Q365,way
-Koloniestraße,wikidata,,Q2282602,way
+Koloniestraße,wikidata,,Q2282602;Q8054653,way
 Kolonieweg,wikidata,,Q8054653,way
 "Kölpiner Straße",wikidata,,Q99659282,way
 "Kolpiner Weg",wikidata,,Q54453806,way
 Kölpinseeweg,wikidata,,Q1393194,way
-Kommandantenstraße,wikidata,,Q1270569,way
+Kommandantenstraße,wikidata,,Q1270569;Q2054507,way
 Komturbrücke,wikidata,,Q524980,way
 Komturstraße,wikidata,,Q524980,way
 Kongostraße,wikidata,,Q974,way
@@ -3179,8 +3195,8 @@ Königsheideweg,wikidata,,Q1796367,way
 Königskinderweg,wikidata,,Q21965903,way
 Königsseestraße,wikidata,,Q156715,way
 Königsteinbrücke,wikidata,,Q552122,way
-Königsteinstraße,wikidata,,Q552122,way
-Königstraße,wikidata,,Q3240735,way
+Königsteinstraße,wikidata,,Q552122;Q569661,way
+Königstraße,wikidata,,Q12097;Q3240735,way
 Königstuhlweg,wikidata,,Q1796494,way
 "Königswalder Straße",wikidata,,Q931553,way
 Königswegbrücke,wikidata,,Q3240735,way
@@ -3209,7 +3225,6 @@ Kornaue,wikidata,,Q193110,way
 Kornblumenring,wikidata,,Q156921,way
 Kornblumenweg,wikidata,,Q156921,way
 "Kornburger Weg",wikidata,,Q1784501,way
-Körnerstraße,wikidata,,Q717310,way
 Kornfeld,wikidata,,Q1735182,way
 Kornmandelweg,wikidata,,Q12117;Q2360918,way
 Kornradenstraße,wikidata,,Q147852,way
@@ -3318,13 +3333,13 @@ Kunibertstraße,wikidata,,Q661107,way
 Kürbissteig,wikidata,,Q5339301,way
 "Kürenzer Straße",wikidata,,Q883351,way
 Kurfürstendamm,wikidata,,Q22722,way
-Kurfürstenstraße,wikidata,,Q22722,way
 Kurfürstenweg,wikidata,,Q22722,way
+Kurhausstraße,wikidata,,Q21042623,way
 "Kurländer Allee",wikidata,,Q185072,way
 "Kurmärkische Straße",wikidata,,Q324056,way
 "Kurpark Friedrichshagen",wikidata,,Q1793170;Q563528,way
 Kurpromenade,wikidata,,Q787113,way
-Kurstraße,wikidata,,Q1727131,way
+Kurstraße,wikidata,,Q1727131;Q1792924,way
 "Kurzebracker Weg",wikidata,,Q4487573,way
 "Küstriner Straße",wikidata,,Q156837,way
 Kyffhäuserstraße,wikidata,,Q682596,way
@@ -3366,7 +3381,7 @@ Landréstraße,wikidata,,Q733832,way
 "Landsberger Allee",wikidata,,Q442339,way
 "Landsberger Allee Brücke",wikidata,,Q442339,way
 "Landsberger Chaussee",wikidata,,Q442339,way
-"Landsberger Straße",wikidata,,Q442339,way
+"Landsberger Straße",wikidata,,Q104731;Q442339,way
 "Landschaftspark Johannisthal/Adlershof",wikidata,,Q655012;Q599941,way
 "Landschaftspark Wartenberger Feldmark",wikidata,,Q1760551,way
 Landschöppenpfad,wikidata,,Q19308887,way
@@ -3378,6 +3393,7 @@ Landvogtstraße,wikidata,,Q4122737,way
 "Langensalzaer Straße",wikidata,,Q518368,way
 "Langensteiner Weg",wikidata,,Q704109,way
 "Langer Jammer",wikidata,,Q190866,way
+"Langer Weg",wikidata,,Q12046227,way
 Langer-See-Straße,wikidata,,Q1805169,way
 "Langewahler Weg",wikidata,,Q628371,way
 "Langfuhrer Allee",wikidata,,Q541765,way
@@ -3418,11 +3434,11 @@ Lauterbachstraße,wikidata,,Q1808626,way
 "Lauterberger Straße",wikidata,,Q309505,way
 Lauterstraße,wikidata,,Q563698,way
 Lavendelsteig,wikidata,,Q171892,way
-Lavendelweg,wikidata,,Q171892,way
+Lavendelweg,wikidata,,Q171892;Q42081,way
 "Le Bonheur-Straße",wikidata,,Q8,way
 "Le Pavillon-Straße",wikidata,,Q276173,way
 Lebensbaumweg,wikidata,,Q147255,way
-Leberblumenweg,wikidata,,Q15613598,way
+Leberblumenweg,wikidata,,Q161050,way
 "Lebuser Straße",wikidata,,Q26362,way
 "Lechtaler Weg",wikidata,,Q682350,way
 Leghornweg,wikidata,,Q636806,way
@@ -3445,7 +3461,6 @@ Leise-Park,wikidata,,Q622324,way
 "Leobschützer Straße",wikidata,,Q717947,way
 "Leonberger Ring",wikidata,,Q7010,way
 Leonorenstraße,wikidata,,Q54997874,way
-Leopoldstraße,wikidata,,Q1076652,way
 "Lerbacher Weg",wikidata,,Q4144268,way
 Lerchenstraße,wikidata,,Q29858,way
 Lerchenweg,wikidata,,Q29858,way
@@ -3525,7 +3540,7 @@ Lindenschwärmerweg,wikidata,,Q428187,way
 Lindenstraße,wikidata,,Q127849,way
 "Lindenthaler Allee",wikidata,,Q1113629,way
 Lindenufer,wikidata,,Q127849,way
-Lindenweg,wikidata,,Q127849,way
+Lindenweg,wikidata,,Q127849;Q2010954,way
 Linderhofstraße,wikidata,,Q162052,way
 "Linderoder Weg",wikidata,,Q159634,way
 Lindhorstweg,wikidata,,Q1434274,way
@@ -3594,6 +3609,7 @@ Löwenzahnweg,wikidata,,Q18452297,way
 "Lübbenauer Weg",wikidata,,Q147895,way
 "Lübbener Straße",wikidata,,Q584815,way
 "Lübecker Straße",wikidata,,Q2843,way
+"Lübener Weg",wikidata,,Q237512,way
 "Lubminer Pfad",wikidata,,Q652146,way
 "Lubminer Straße",wikidata,,Q652146,way
 "Lubminer Weg",wikidata,,Q652146,way
@@ -3617,7 +3633,6 @@ Luftschifferweg,wikidata,,Q133585,way
 Lugierring,wikidata,,Q1094816,way
 "Luisenstädtischer Kanal",wikidata,,Q324667,way
 "Luisenstädtischer Kirchpark",wikidata,,Q6701345,way
-Luisenstraße,wikidata,,Q18219764,way
 Lukasstraße,wikidata,,Q20790,way
 Lummenweg,wikidata,,Q838599,way
 Lunagang,wikidata,,Q1235172,way
@@ -3648,6 +3663,7 @@ Machandelweg,wikidata,,Q1882620,way
 Mäckeritzbrücke,wikidata,,Q1434274,way
 Mäckeritzstraße,wikidata,,Q2048319,way
 "Mädewalder Weg",wikidata,,Q12675739,way
+Magazinstraße,wikidata,,Q1883737,way
 Magdalenenstraße,wikidata,,Q842544,way
 "Magdeburger Platz",wikidata,,Q1733,way
 Magellanzeisigweg,wikidata,,Q27075872,way
@@ -3697,10 +3713,9 @@ Marathonallee,wikidata,,Q40244,way
 Märchenweg,wikidata,,Q699,way
 Marderweg,wikidata,,Q25437,way
 Margaretenaue,wikidata,,Q17456902,way
-Margeritenweg,wikidata,,Q27164,way
+Margeritenweg,wikidata,,Q21040;Q27164,way
 Margueritenring,wikidata,,Q27164,way
 "Mariabrunner Weg",wikidata,,Q45744349,way
-Mariannenstraße,wikidata,,Q18760860,way
 Marie-Luise-Straße,wikidata,,Q18091803,way
 "Marienbader Straße",wikidata,,Q523469,way
 "Marienburger Allee",wikidata,,Q146820,way
@@ -3721,10 +3736,8 @@ Marienkäferweg,wikidata,,Q25327,way
 Marienwerderweg,wikidata,,Q326582,way
 Marillengasse,wikidata,,Q37453,way
 Marinesteig,wikidata,,Q4508,way
-Markelstraße,wikidata,,Q1315717,way
 "Markendorfer Straße",wikidata,,Q212045,way
 Markfriedstraße,wikidata,,Q104212154,way
-Markgrafenstraße,wikidata,,Q148499,way
 "Markircher Weg",wikidata,,Q500400,way
 "Märkische Allee",wikidata,,Q148499,way
 "Märkische Spitze",wikidata,,Q148499,way
@@ -3739,7 +3752,7 @@ Markscheiderstraße,wikidata,,Q1743623,way
 Markstraße,wikidata,,Q148499,way
 Markt,wikidata,,Q37654,way
 Marktplatz,wikidata,,Q13033698,way
-Marktstraße,wikidata,,Q37654,way
+Marktstraße,wikidata,,Q13592976;Q37654,way
 Markulfweg,wikidata,,Q6563822,way
 Markusplatz,wikidata,,Q1764970,way
 Marlenestraße,wikidata,,Q16279026,way
@@ -3748,7 +3761,6 @@ Marmorweg,wikidata,,Q40861,way
 Maronensperlingweg,wikidata,,Q1316082,way
 "Marquardter Weg",wikidata,,Q896887,way
 Marseillestraße,wikidata,,Q23482,way
-Marthastraße,wikidata,,Q16279062,way
 Martinstraße,wikidata,,Q22920,way
 "Marwitzer Straße",wikidata,,Q100701039,way
 "Marzahner Brücke",wikidata,,Q702521,way
@@ -3782,7 +3794,6 @@ Mauritiuskirchstraße,wikidata,,Q2321458,way
 "Mauschbacher Steig",wikidata,,Q566940,way
 Mausohrweg,wikidata,,Q223384,way
 Mauswieselweg,wikidata,,Q25311,way
-Maximilianstraße,wikidata,,Q18133228,way
 Maxstraße,wikidata,,Q16422172,way
 "Mayener Weg",wikidata,,Q516611,way
 Mazetstraße,wikidata,,Q16867380,way
@@ -3813,7 +3824,6 @@ Meisenstraße,wikidata,,Q168473,way
 Meisenweg,wikidata,,Q168473,way
 Meistergasse,wikidata,,Q2309621,way
 "Meißner Weg",wikidata,,Q8738,way
-Melanchthonstraße,wikidata,,Q56238121,way
 Meldenweg,wikidata,,Q157801,way
 "Meldorfer Steig",wikidata,,Q498545,way
 "Melker Straße",wikidata,,Q489806,way
@@ -3826,7 +3836,7 @@ Melonensteig,wikidata,,Q5881191,way
 "Meraner Straße",wikidata,,Q131605,way
 Mergelweg,wikidata,,Q184053,way
 "Mergentheimer Straße",wikidata,,Q61942,way
-Merkurstraße,wikidata,,Q1150,way
+Merkurstraße,wikidata,,Q1150;Q308,way
 "Merler Weg",wikidata,,Q1921880,way
 Merlinweg,wikidata,,Q188044,way
 Merowingerweg,wikidata,,Q59488,way
@@ -3861,7 +3871,7 @@ Milchweg,wikidata,,Q8495,way
 Milowstraße,wikidata,,Q37064819,way
 "Miltenberger Weg",wikidata,,Q502681,way
 Mimestraße,wikidata,,Q1420056,way
-Mimosenweg,wikidata,,Q160110,way
+Mimosenweg,wikidata,,Q148532;Q160110,way
 "Mindener Straße",wikidata,,Q3846,way
 "Minheimer Straße",wikidata,,Q524796,way
 Miningstraße,wikidata,,Q97293052,way
@@ -3877,7 +3887,8 @@ Mistelweg,wikidata,,Q147345,way
 Mittelbruchzeile,wikidata,,Q910817,way
 "Mittelbrunner Steig",wikidata,,Q653270,way
 Mittelbuschweg,wikidata,,Q1434274,way
-Mittelheide,wikidata,,Q1434274,way
+Mittelheide,wikidata,,Q1434274;Q571493,way
+Mittelweg,wikidata,,Q12046227;Q23595,way
 "Mittenwalder Straße",wikidata,,Q574811,way
 "Mittenwalder Weg",wikidata,,Q127553,way
 "Mittweidaer Straße",wikidata,,Q71170,way
@@ -3885,6 +3896,7 @@ Möckernbrücke,wikidata,,Q1492924,way
 Möckernstraße,wikidata,,Q1492924,way
 "Mögeldorfer Weg",wikidata,,Q1875426,way
 Mohasistraße,wikidata,,Q3215074,way
+Mohnweg,wikidata,,Q146391,way
 Mohrenfalterstraße,wikidata,,Q924117,way
 Mohrenstraße,wikidata,,Q12681143,way
 "Mohriner Allee",wikidata,,Q988602,way
@@ -3926,7 +3938,6 @@ Moosstraße,wikidata,,Q29993,way
 Moränenweg,wikidata,,Q2610088,way
 "Mörchinger Straße",wikidata,,Q22353,way
 Morgenammerweg,wikidata,,Q587505,way
-Moritzstraße,wikidata,,Q84847980,way
 "Morsbronner Weg",wikidata,,Q21291,way
 "Morschacher Weg",wikidata,,Q67050,way
 "Mosbacher Brücke",wikidata,,Q23008,way
@@ -3938,7 +3949,7 @@ Möserstraße,wikidata,,Q1958174,way
 Mottlaupfad,wikidata,,Q1950176,way
 "Motzener Straße",wikidata,,Q1280357,way
 Mövensteig,wikidata,,Q2699803,way
-Möwenweg,wikidata,,Q2699803,way
+Möwenweg,wikidata,,Q2699803;Q27589,way
 Mückenweg,wikidata,,Q27605,way
 Müggelbergallee,wikidata,,Q451104,way
 Müggelbergplatz,wikidata,,Q451104,way
@@ -3956,14 +3967,14 @@ Mühlenbachring,wikidata,,Q38720,way
 Mühlendamm,wikidata,,Q185187,way
 Mühlendorfstraße,wikidata,,Q38720,way
 Mühlenfeldstraße,wikidata,,Q185187,way
-Mühlenstraße,wikidata,,Q2583740,way
+Mühlenstraße,wikidata,,Q2583740;Q38720;Q44494,way
+Mühlenweg,wikidata,,Q185187;Q44494,way
 Mühlsteinweg,wikidata,,Q670985,way
 "Mühltaler Straße",wikidata,,Q9338801,way
 Mühlweg,wikidata,,Q44494,way
 "Mülhauser Straße",wikidata,,Q79815,way
 "Mülheimer Straße",wikidata,,Q2899,way
 Müllersteinweg,wikidata,,Q100870284,way
-Müllerstraße,wikidata,,Q694116,way
 "Müllroser Straße",wikidata,,Q638607,way
 Mümmelmannweg,wikidata,,Q26838,way
 "Müncheberger Straße",wikidata,,Q202498,way
@@ -4072,6 +4083,8 @@ Netzestraße,wikidata,,Q828869,way
 "Neuenhagener Straße",wikidata,,Q582690,way
 "Neuer Feldweg",wikidata,,Q12046227,way
 "Neuer Schildhornweg",wikidata,,Q2235546,way
+"Neuer Weg",wikidata,,Q12046227,way
+"Neues Ufer",wikidata,,Q468756;Q1067421,way
 "Neufährer Steig",wikidata,,Q1837513,way
 Neufahrwasserweg,wikidata,,Q1837513,way
 "Neuhofer Straße",wikidata,,Q7066994,way
@@ -4092,7 +4105,7 @@ Neumarkplan,wikidata,,Q819411,way
 "Neuzeller Weg",wikidata,,Q635531,way
 Nibelungenpark,wikidata,,Q131554,way
 Nibelungenring,wikidata,,Q1093934,way
-Nibelungenstraße,wikidata,,Q1093934,way
+Nibelungenstraße,wikidata,,Q1093934;Q55011179,way
 Nibelungenweg,wikidata,,Q1093934,way
 "Nickelswalder Straße",wikidata,,Q2521604,way
 Nidecksteig,wikidata,,Q1519303,way
@@ -4130,7 +4143,7 @@ Nogatstraße,wikidata,,Q980095,way
 Nollendorfplatz,wikidata,,Q48253,way
 Nollendorfstraße,wikidata,,Q48253,way
 Nonnendamm,wikidata,,Q191808,way
-Nonnendammallee,wikidata,,Q191808,way
+Nonnendammallee,wikidata,,Q191808;Q817051,way
 Nonnendammbrücke,wikidata,,Q817051,way
 Norastraße,wikidata,,Q250267,way
 Norbertstraße,wikidata,,Q917408,way
@@ -4153,6 +4166,7 @@ Nordpromenade,wikidata,,Q659,way
 Nordsternstraße,wikidata,,Q1365303,way
 Nordstraße,wikidata,,Q659,way
 Nordufer,wikidata,,Q659;Q468756,way
+Nordweg,wikidata,,Q659,way
 "Norheimer Straße",wikidata,,Q651363,way
 Normandieweg,wikidata,,Q15878,way
 Normannenstraße,wikidata,,Q83418,way
@@ -4187,7 +4201,7 @@ Oberlandstraße,wikidata,,Q2010060,way
 Oberonstraße,wikidata,,Q1139234,way
 Oberseeplatz,wikidata,,Q2010954,way
 Oberseestraße,wikidata,,Q2010954,way
-Oberspreestraße,wikidata,,Q644062,way
+Oberspreestraße,wikidata,,Q644062;Q99478163,way
 "Obersteiner Weg",wikidata,,Q16119,way
 Oberwallstraße,wikidata,,Q91203,way
 Oberwasserstraße,wikidata,,Q1422321,way
@@ -4213,7 +4227,7 @@ Odinstraße,wikidata,,Q43610,way
 "Öhringer Weg",wikidata,,Q294783,way
 Okarinastraße,wikidata,,Q187780,way
 Okerstraße,wikidata,,Q701512,way
-Okertalstraße,wikidata,,Q2017202,way
+Okertalstraße,wikidata,,Q2017173;Q2017202,way
 Olafstraße,wikidata,,Q3881452,way
 "Olbendorfer Weg",wikidata,,Q670736,way
 Oldenburgallee,wikidata,,Q693669,way
@@ -4242,6 +4256,7 @@ Oraniendamm,wikidata,,Q2281221,way
 Oranienplatz,wikidata,,Q155483,way
 Oranienstraße,wikidata,,Q155483,way
 Orankeseepark,wikidata,,Q2028278,way
+Orankestrand,wikidata,,Q2028278,way
 Orankestraße,wikidata,,Q2028278,way
 Orankeweg,wikidata,,Q2028278,way
 "Orber Straße",wikidata,,Q574465,way
@@ -4288,7 +4303,7 @@ Oswaldstraße,wikidata,,Q18190932,way
 Oswinsteig,wikidata,,Q2036551,way
 Otawistraße,wikidata,,Q1013965,way
 Othellostraße,wikidata,,Q172324,way
-Otternbuchtstraße,wikidata,,Q29995,way
+Otternbuchtstraße,wikidata,,Q29995;Q29995;Q17018380,way
 Otternweg,wikidata,,Q200184,way
 Otterstraße,wikidata,,Q163656,way
 Ottilienweg,wikidata,,Q1074232,way
@@ -4320,6 +4335,7 @@ Pappelplatz,wikidata,,Q25356,way
 Pappelweg,wikidata,,Q25356,way
 Papstfinkweg,wikidata,,Q932970,way
 Papststeinweg,wikidata,,Q324561,way
+Paradestraße,wikidata,,Q1413045,way
 Paradiesapfelweg,wikidata,,Q15731356,way
 Paradiesstraße,wikidata,,Q19014,way
 Parallelstraße,wikidata,,Q53875,way
@@ -4337,7 +4353,7 @@ Parforceheide,wikidata,,Q1363976,way
 Parkaue,wikidata,,Q22698,way
 Parkerweg,wikidata,,Q15839548,way
 "Parksiedlung Spruch",wikidata,,Q147276,way
-Parkstraße,wikidata,,Q681355,way
+Parkstraße,wikidata,,Q1236813;Q1423690;Q22698;Q681355,way
 Parnemannweg,wikidata,,Q44860123,way
 Parochialstraße,wikidata,,Q1447091,way
 "Parsteiner Ring",wikidata,,Q560215,way
@@ -4378,6 +4394,7 @@ Perlhuhnweg,wikidata,,Q12299829,way
 Perlpilzstraße,wikidata,,Q623485,way
 Persantestraße,wikidata,,Q2071851,way
 "Pertisauer Weg",wikidata,,Q356247,way
+"Perwenitzer Weg",wikidata,,Q57274130,way
 Petersapfelweg,wikidata,,Q15731356,way
 "Petersburger Platz",wikidata,,Q656,way
 "Petersburger Straße",wikidata,,Q656,way
@@ -4454,7 +4471,7 @@ Pirschweg,wikidata,,Q36963,way
 Pittiplatschweg,wikidata,,Q2097307,way
 Planetenstraße,wikidata,,Q634,way
 Plantage,wikidata,,Q188913,way
-Plantagenstraße,wikidata,,Q188913,way
+Plantagenstraße,wikidata,,Q12372955;Q188913,way
 Planufer,wikidata,,Q1434274,way
 Platanenallee,wikidata,,Q163025,way
 Platanenstraße,wikidata,,Q163025,way
@@ -4467,6 +4484,7 @@ Platanenweg,wikidata,,Q163025,way
 "Platz der Befreiung",wikidata,,Q13471431,way
 "Platz der Luftbrücke",wikidata,,Q12177407,way
 "Platz der Märzrevolution",wikidata,,Q808928,way
+"Platz der Republik",wikidata,,Q779851,way
 "Platz der US-Berlin-Brigade",wikidata,,Q127558,way
 "Platz der Vereinten Nationen",wikidata,,Q1065,way
 "Platz der Weißen Rose",wikidata,,Q153364,way
@@ -4525,10 +4543,9 @@ Preußenstraße,wikidata,,Q109073,way
 "Prieborner Straße",wikidata,,Q983908,way
 "Prierosser Straße",wikidata,,Q2109558,way
 Priesterstege,wikidata,,Q1244149;Q2339206,way
-Priesterweg,wikidata,,Q42603,way
+Priesterweg,wikidata,,Q3315492;Q42603,way
 Prignitzstraße,wikidata,,Q316858,way
 Primelweg,wikidata,,Q158974,way
-Prinzenstraße,wikidata,,Q2747456,way
 Prinzessinnenstraße,wikidata,,Q2747456,way
 Prinzregentenstraße,wikidata,,Q729924,way
 "Prisdorfer Straße",wikidata,,Q571444,way
@@ -4615,7 +4632,7 @@ Rapunzelweg,wikidata,,Q4902053,way
 Rathausbrücke,wikidata,,Q155210,way
 Rathauspark,wikidata,,Q323656,way
 Rathauspromenade,wikidata,,Q78069986,way
-Rathausstraße,wikidata,,Q155210,way
+Rathausstraße,wikidata,,Q155210;Q323656;Q543654,way
 "Rathener Straße",wikidata,,Q8224,way
 "Rathenower Straße",wikidata,,Q525425,way
 Ratiborstraße,wikidata,,Q25302,way
@@ -4660,7 +4677,7 @@ Rehkitzsteig,wikidata,,Q1743952,way
 Rehsprung,wikidata,,Q2139042,way
 Rehweg,wikidata,,Q122069,way
 Rehwiese,wikidata,,Q122069,way
-"Reichenberger Straße",wikidata,,Q146351,way
+"Reichenberger Straße",wikidata,,Q1410743;Q146351,way
 "Reichenhaller Straße",wikidata,,Q487971,way
 "Reichenhaller Weg",wikidata,,Q487971,way
 "Reichensteiner Weg",wikidata,,Q249122,way
@@ -4701,6 +4718,7 @@ Renschweg,wikidata,,Q97441457,way
 "Reppener Zeile",wikidata,,Q990823,way
 Reppfuhlring,wikidata,,Q3177968,way
 "Reriker Straße",wikidata,,Q536844,way
+Resedaweg,wikidata,,Q161061,way
 Resedenstraße,wikidata,,Q156369,way
 Residenzstraße,wikidata,,Q1180262,way
 "Retzbacher Weg",wikidata,,Q1332527,way
@@ -4712,7 +4730,6 @@ Rezonvillestraße,wikidata,,Q22278,way
 Rhabarberweg,wikidata,,Q7217716,way
 Rhapsodieweg,wikidata,,Q464769,way
 "Rhedaer Weg",wikidata,,Q936933,way
-Rheinbabenallee,wikidata,,Q2147561,way
 Rheinfelsstraße,wikidata,,Q567643,way
 Rheingaustraße,wikidata,,Q212376,way
 Rheingoldstraße,wikidata,,Q327717,way
@@ -4767,10 +4784,10 @@ Ritterlandweg,wikidata,,Q2116450,way
 Rittersporn,wikidata,,Q160107,way
 Ritterspornweg,wikidata,,Q160107,way
 Ritterstraße,wikidata,,Q102083,way
-"Rixdorfer Straße",wikidata,,Q325748,way
+"Rixdorfer Straße",wikidata,,Q169492;Q325748,way
 "Röbeler Weg",wikidata,,Q20265,way
 Robinienallee,wikidata,,Q157417,way
-Robinienweg,wikidata,,Q157417,way
+Robinienweg,wikidata,,Q157417;Q472943,way
 "Rochlitzer Weg",wikidata,,Q71180,way
 "Rockenhausener Straße",wikidata,,Q22955,way
 "Rodacher Weg",wikidata,,Q491118,way
@@ -4818,10 +4835,10 @@ Rosenbauchfinkweg,wikidata,,Q934861,way
 "Rosenheimer Straße",wikidata,,Q4007,way
 "Rosenorter Steig",wikidata,,Q7633000,way
 Rosenpromenade,wikidata,,Q34687,way
-Rosenrotweg,wikidata,,Q98701481,way
+Rosenrotweg,wikidata,,Q11843;Q98701481,way
 Rosensteg,wikidata,,Q34687,way
 Rosensteig,wikidata,,Q34687,way
-Rosenstraße,wikidata,,Q34687,way
+Rosenstraße,wikidata,,Q1228185;Q34687,way
 Rosental,wikidata,,Q34687,way
 "Rosenthaler Grenzweg",wikidata,,Q693521,way
 "Rosenthaler Straße",wikidata,,Q693521,way
@@ -4895,7 +4912,7 @@ Rüdigerstraße,wikidata,,Q1651599,way
 Ruheplatzstraße,wikidata,,Q2500925,way
 "Ruhlaer Straße",wikidata,,Q494627,way
 "Ruhlebener Straße",wikidata,,Q315966,way
-"Ruhlsdorfer Straße",wikidata,,Q881265,way
+"Ruhlsdorfer Straße",wikidata,,Q66724622;Q881265,way
 Ruhrstraße,wikidata,,Q1664,way
 Ruhwaldweg,wikidata,,Q18558325,way
 "Rummelsburger Landstraße",wikidata,,Q561880,way
@@ -4974,6 +4991,7 @@ Sandhofweg,wikidata,,Q14552191,way
 Sandschurrepfad,wikidata,,Q2220733,way
 Sandsteinweg,wikidata,,Q13085,way
 Sandstraße,wikidata,,Q2220733,way
+Sandweg,wikidata,,Q34679,way
 Sandwiesenweg,wikidata,,Q1434274,way
 Sangebuchtweg,wikidata,,Q1434274,way
 "Sangerhauser Weg",wikidata,,Q502434,way
@@ -4996,7 +5014,7 @@ Savoyenweg,wikidata,,Q14118,way
 Schachtelhalmweg,wikidata,,Q28114,way
 Schackelsterstraße,wikidata,,Q25307,way
 Schäferstege,wikidata,,Q81710;Q2339206,way
-Schäferstraße,wikidata,,Q30121,way
+Schäferstraße,wikidata,,Q30121;Q81710,way
 "Schaffhausener Straße",wikidata,,Q9009,way
 "Schalauer Straße",wikidata,,Q475672,way
 "Schalkauer Straße",wikidata,,Q535603,way
@@ -5061,15 +5079,15 @@ Schleusenufer,wikidata,,Q83951846,way
 Schlierseestraße,wikidata,,Q834157,way
 "Schlitzer Straße",wikidata,,Q552477,way
 "Schlochauer Straße",wikidata,,Q640469,way
-Schlosserweg,wikidata,,Q50989815,way
+Schlosserweg,wikidata,,Q50989815;Q63425406,way
 "Schlosspark Charlottenburg",wikidata,,Q154996,way
 "Schlossparkbrücke I",wikidata,,Q681355,way
 "Schlossparkbrücke II",wikidata,,Q681355,way
 "Schlossparkbrücke III",wikidata,,Q681355,way
 Schloßallee,wikidata,,Q681355,way
-Schloßbrücke,wikidata,,Q154996,way
-Schloßplatz,wikidata,,Q170119,way
-Schloßstraße,wikidata,,Q1315717,way
+Schloßbrücke,wikidata,,Q154996;Q170119,way
+Schloßplatz,wikidata,,Q170119;Q563805,way
+Schloßstraße,wikidata,,Q1315717;Q15106690;Q154996;Q651833,way
 Schlotterkammsteig,wikidata,,Q693868,way
 Schluchseestraße,wikidata,,Q835671,way
 Schlütersteig,wikidata,,Q1236505,way
@@ -5099,7 +5117,7 @@ Schneehuhnweg,wikidata,,Q162029,way
 Schneekoppenweg,wikidata,,Q617511,way
 "Schneeweißchen und Rosenrotweg",wikidata,,Q11843,way
 Schneewittchenstraße,wikidata,,Q11831,way
-Schneewittchenweg,wikidata,,Q11831,way
+Schneewittchenweg,wikidata,,Q11831;Q2739228,way
 "Schnepfenreuther Weg",wikidata,,Q1512850,way
 Schnitterinnenweg,wikidata,,Q2248045,way
 Schnittlauchweg,wikidata,,Q51148,way
@@ -5126,9 +5144,9 @@ Schöllkrautstraße,wikidata,,Q156807,way
 "Schönerlinder Weg",wikidata,,Q835735,way
 "Schönewalder Straße",wikidata,,Q522738,way
 "Schöneweider Straße",wikidata,,Q644448;Q644062,way
-"Schönfließer Straße",wikidata,,Q558719,way
+"Schönfließer Straße",wikidata,,Q1507415;Q558719,way
 "Schönhauser Allee",wikidata,,Q681355,way
-"Schönhauser Straße",wikidata,,Q512959,way
+"Schönhauser Straße",wikidata,,Q512959;Q59974,way
 "Schönholzer Brücke",wikidata,,Q821133,way
 "Schönholzer Straße",wikidata,,Q821133,way
 "Schönholzer Weg",wikidata,,Q821133,way
@@ -5137,7 +5155,7 @@ Schöllkrautstraße,wikidata,,Q156807,way
 "Schönower Straße",wikidata,,Q870611,way
 "Schöntaler Weg",wikidata,,Q5316949,way
 "Schönwalder Allee",wikidata,,Q581715,way
-"Schönwalder Straße",wikidata,,Q876643,way
+"Schönwalder Straße",wikidata,,Q67644261;Q876643,way
 "Schönwalder Straßenbrücke",wikidata,,Q876643,way
 "Schopfheimer Straße",wikidata,,Q61734,way
 "Schöppinger Straße",wikidata,,Q200190,way
@@ -5152,9 +5170,10 @@ Schreckhornweg,wikidata,,Q16539,way
 Schriftsetzerweg,wikidata,,Q4108101,way
 "Schrimmer Weg",wikidata,,Q387260,way
 "Schrodaer Straße",wikidata,,Q52903,way
+Schulstraße,wikidata,,Q1715054;Q3914;Q61769805,way
 Schulweg,wikidata,,Q3914,way
-"Schulzendorfer Straße",wikidata,,Q821127,way
-Schützenstraße,wikidata,,Q1494035,way
+"Schulzendorfer Straße",wikidata,,Q581119;Q821127,way
+Schützenstraße,wikidata,,Q1494035;Q2260125,way
 Schwabenallee,wikidata,,Q11812551,way
 Schwabenplatz,wikidata,,Q11812551,way
 "Schwabinger Weg",wikidata,,Q252119,way
@@ -5177,6 +5196,7 @@ Schwarzbärenweg,wikidata,,Q122783,way
 "Schwarzburger Straße",wikidata,,Q539200,way
 Schwarze-Pumpe-Weg,wikidata,,Q1376457,way
 Schwarzelfenweg,wikidata,,Q174396,way
+"Schwarzer Weg",wikidata,,Q2670777,way
 "Schwarzheider Straße",wikidata,,Q584474,way
 Schwarzkittelweg,wikidata,,Q58697,way
 Schwarzmeerstraße,wikidata,,Q166,way
@@ -5204,12 +5224,12 @@ Sebaldweg,wikidata,,Q521681,way
 Sebastianstraße,wikidata,,Q2323088,way
 "Sebnitzer Straße",wikidata,,Q6483,way
 "Sebnitzer Weg",wikidata,,Q6483,way
-Sedanstraße,wikidata,,Q184371,way
+Sedanstraße,wikidata,,Q156681;Q184371,way
 "Seddiner Straße",wikidata,,Q25158442,way
 "Seddiner Weg",wikidata,,Q2264279,way
 Seddinpromenade,wikidata,,Q2264279,way
 Seeadlerweg,wikidata,,Q25438,way
-Seebadstraße,wikidata,,Q1757063,way
+Seebadstraße,wikidata,,Q1021711;Q1757063,way
 Seebeckstraße,wikidata,,Q37504762,way
 "Seeburger Straße",wikidata,,Q1649132,way
 "Seeburger Weg",wikidata,,Q1649132,way
@@ -5225,7 +5245,7 @@ Seelbuschring,wikidata,,Q1434274,way
 Seerosensteig,wikidata,,Q146628,way
 Seerosenweg,wikidata,,Q146628,way
 "Seesener Straße",wikidata,,Q540934,way
-Seestraße,wikidata,,Q541313,way
+Seestraße,wikidata,,Q1613657;Q2028278;Q541313;Q694789,way
 Seeuferstraße,wikidata,,Q1991313,way
 Segelfalterweg,wikidata,,Q31080,way
 Segelfliegerdamm,wikidata,,Q624161,way
@@ -5244,6 +5264,7 @@ Selbhornweg,wikidata,,Q392190,way
 Selkestraße,wikidata,,Q878343,way
 Sellerbrücke,wikidata,,Q147276,way
 Sellerpark,wikidata,,Q147276,way
+Sellerstraße,wikidata,,Q147276,way
 Sellinstraße,wikidata,,Q541654,way
 Sellinweg,wikidata,,Q541654,way
 Selmaplatz,wikidata,,Q713759,way
@@ -5352,15 +5373,14 @@ Sonnenhöhe,wikidata,,Q525,way
 Sonnenweg,wikidata,,Q525,way
 Soonwaldstraße,wikidata,,Q2302569,way
 Soorstraße,wikidata,,Q1569724,way
-Sophienstraße,wikidata,,Q2302787,way
 Sophienwerderweg,wikidata,,Q1285029,way
 "Sorauer Straße",wikidata,,Q148849,way
 Sorbenstraße,wikidata,,Q146521,way
 Spachtelweg,wikidata,,Q921044,way
 "Spandauer Burgwall",wikidata,,Q23413,way
-"Spandauer Damm",wikidata,,Q569827,way
+"Spandauer Damm",wikidata,,Q158083;Q569827,way
 "Spandauer Havelpromenade",wikidata,,Q1682,way
-"Spandauer Straße",wikidata,,Q158083,way
+"Spandauer Straße",wikidata,,Q158083;Q569827,way
 Spandauer-See-Brücke,wikidata,,Q63284050,way
 "Spanische Allee",wikidata,,Q153324,way
 Spargelweg,wikidata,,Q2853420,way
@@ -5373,17 +5393,17 @@ Spatzenweg,wikidata,,Q14683,way
 Spatzenwinkel,wikidata,,Q14683,way
 Specht,wikidata,,Q25439,way
 Spechtfinkweg,wikidata,,Q976302,way
-Spechtstraße,wikidata,,Q25934,way
+Spechtstraße,wikidata,,Q25439;Q25934,way
 Spechtweg,wikidata,,Q25439,way
 Speerweg,wikidata,,Q44475,way
 Spektebrücke,wikidata,,Q2308776,way
 Spektegrünzug,wikidata,,Q2308776,way
 Spekteweg,wikidata,,Q2308776,way
-Sperberstraße,wikidata,,Q25380,way
+Sperberstraße,wikidata,,Q188737;Q25380,way
 Sperberweg,wikidata,,Q25380,way
 "Sperenberger Straße",wikidata,,Q882100,way
 "Sperlings Ruh",wikidata,,Q28922,way
-Sperlingsgasse,wikidata,,Q1211874,way
+Sperlingsgasse,wikidata,,Q1211874;Q28922,way
 Sperlingstraße,wikidata,,Q28922,way
 Sperlingsweg,wikidata,,Q28922,way
 Spessartstraße,wikidata,,Q182470,way
@@ -5478,6 +5498,7 @@ Steinkauzgasse,wikidata,,Q129958,way
 Steinmeisterweg,wikidata,,Q1344921,way
 Steinsperlingweg,wikidata,,Q736313,way
 Steinträgerweg,wikidata,,Q1633736,way
+Steinweg,wikidata,,Q22731,way
 Stellmacherweg,wikidata,,Q833418,way
 Stelzenweg,wikidata,,Q230042,way
 "Stendaler Straße",wikidata,,Q7082,way
@@ -5545,7 +5566,7 @@ Stresowstraße,wikidata,,Q879712,way
 "Striegauer Straße",wikidata,,Q246288,way
 "Striesower Weg",wikidata,,Q574757,way
 Strohblumenweg,wikidata,,Q28195,way
-Stromstraße,wikidata,,Q1684,way
+Stromstraße,wikidata,,Q1684;Q63565252,way
 Stubbenkammerstraße,wikidata,,Q2358023,way
 Stubbichtweg,wikidata,,Q1434274,way
 Stubnitzstraße,wikidata,,Q2358098,way
@@ -5565,6 +5586,7 @@ Süderbrokweg,wikidata,,Q104712744,way
 "Südliche Seestraßenbrücke",wikidata,,Q541313,way
 Südostallee,wikidata,,Q6452640,way
 Südstraße,wikidata,,Q667,way
+Südweg,wikidata,,Q667,way
 Südwestkorso,wikidata,,Q2381698,way
 Suevenstraße,wikidata,,Q155085,way
 "Suhler Straße",wikidata,,Q14891,way
@@ -5594,6 +5616,7 @@ Takustraße,wikidata,,Q548289,way
 "Talberger Straße",wikidata,,Q97382292,way
 "Taldorfer Weg",wikidata,,Q1748252,way
 Talstraße,wikidata,,Q1367008,way
+Talweg,wikidata,,Q39816,way
 "Tambacher Straße",wikidata,,Q530007,way
 "Tamseler Straße",wikidata,,Q1272538,way
 Tangastraße,wikidata,,Q152902,way
@@ -5610,7 +5633,7 @@ Tannhäuserstraße,wikidata,,Q560619,way
 "Tasdorfer Straße",wikidata,,Q979037,way
 Tasmanienweg,wikidata,,Q34366,way
 Täubchenstraße,wikidata,,Q10856,way
-Taubenstraße,wikidata,,Q2396613,way
+Taubenstraße,wikidata,,Q10856;Q2396613,way
 Taubenweg,wikidata,,Q10856,way
 Taubnesselweg,wikidata,,Q146675,way
 Tauchersteig,wikidata,,Q21695;Q2814783,way
@@ -5656,6 +5679,7 @@ Templiner-See-Straße,wikidata,,Q883094,way
 "Tennstedter Straße",wikidata,,Q534508,way
 "Teplitzer Straße",wikidata,,Q146342,way
 Terrassenstraße,wikidata,,Q828581,way
+Terrassenweg,wikidata,,Q838625,way
 Terwestenstraße,wikidata,,Q768160,way
 "Teschendorfer Weg",wikidata,,Q21039506,way
 "Teschener Weg",wikidata,,Q321197,way
@@ -5679,7 +5703,6 @@ Theklastraße,wikidata,,Q21147318,way
 "Themarer Straße",wikidata,,Q518346,way
 Themsestraße,wikidata,,Q19686,way
 Theobaldstraße,wikidata,,Q19914943,way
-Theodorstraße,wikidata,,Q1165126,way
 Theresenweg,wikidata,,Q18177305,way
 Thiesstraße,wikidata,,Q28150777,way
 Thomashöhe,wikidata,,Q1573508,way
@@ -5700,7 +5723,7 @@ Thymianweg,wikidata,,Q131224,way
 Tieflandstraße,wikidata,,Q1434274,way
 Tiefwerderbrücke,wikidata,,Q1621981,way
 Tiefwerderweg,wikidata,,Q1621981,way
-Tiergartenstraße,wikidata,,Q694020,way
+Tiergartenstraße,wikidata,,Q223930;Q694020,way
 Tiergartenufer,wikidata,,Q694020,way
 Tigerfinkweg,wikidata,,Q73741,way
 Tikehauweg,wikidata,,Q669590,way
@@ -5821,7 +5844,7 @@ Uckermarkstraße,wikidata,,Q338635,way
 Üderseestraße,wikidata,,Q32860719,way
 "Ueckermünder Straße",wikidata,,Q506700,way
 "Uetzer Steig",wikidata,,Q938053,way
-Uferpromenade,wikidata,,Q787113,way
+Uferpromenade,wikidata,,Q468756;Q1684;Q787113,way
 Uferstraße,wikidata,,Q468756,way
 Uferweg,wikidata,,Q468756,way
 Uferzeile,wikidata,,Q468756,way
@@ -5891,6 +5914,7 @@ Vergißmeinnichtweg,wikidata,,Q147149,way
 "Verlängerte Fährstraße",wikidata,,Q25653,way
 "Verlängerte Georgenstraße",wikidata,,Q1985538,way
 "Verlängerte Uferpromenade",wikidata,,Q787113,way
+"Verlängerter Sandbacher Weg",wikidata,,Q393370,way
 Veronikasteig,wikidata,,Q18218258,way
 Veteranenstraße,wikidata,,Q193891,way
 "Vetschauer Allee",wikidata,,Q147633,way
@@ -5905,7 +5929,6 @@ Vierlandenstraße,wikidata,,Q885045,way
 "Viersener Straße",wikidata,,Q3902,way
 "Vierwaldstätter Weg",wikidata,,Q14381,way
 "Vietzer Zeile",wikidata,,Q988636,way
-Viktoriapark,wikidata,,Q308902,way
 "Villacher Straße",wikidata,,Q483522,way
 Vimystraße,wikidata,,Q318759,way
 Vinetaplatz,wikidata,,Q1645268,way
@@ -5934,6 +5957,7 @@ Vulkanstraße,wikidata,,Q188631,way
 Wacholderheide,wikidata,,Q759930,way
 Wacholderweg,wikidata,,Q25662,way
 Wachtelstraße,wikidata,,Q28358,way
+Wachtelweg,wikidata,,Q28358,way
 "Waghäuseler Straße",wikidata,,Q504457,way
 Wahnfriedstraße,wikidata,,Q686109,way
 "Waidmannsluster Damm",wikidata,,Q648245,way
@@ -5966,8 +5990,8 @@ Waldschützpfad,wikidata,,Q1714828,way
 Waldseeweg,wikidata,,Q1236813,way
 "Waldshuter Zeile",wikidata,,Q505433,way
 Waldsteg,wikidata,,Q2369660,way
-Waldstraße,wikidata,,Q4421,way
-Waldweg,wikidata,,Q4421,way
+Waldstraße,wikidata,,Q1796367;Q4421,way
+Waldweg,wikidata,,Q1713427;Q4421,way
 Walhallastraße,wikidata,,Q177860,way
 "Walkenrieder Straße",wikidata,,Q656314,way
 Walkürenstraße,wikidata,,Q324319,way
@@ -5975,7 +5999,7 @@ Walkürenstraße,wikidata,,Q324319,way
 "Wallendorfer Weg",wikidata,,Q1423328,way
 "Wallenroder Straße",wikidata,,Q2542681,way
 "Walliser Straße",wikidata,,Q834,way
-Wallstraße,wikidata,,Q91203,way
+Wallstraße,wikidata,,Q91203;Q98969382,way
 Walnussallee,wikidata,,Q46871,way
 Walnussweg,wikidata,,Q46871,way
 Walnußweg,wikidata,,Q46871,way
@@ -6006,7 +6030,7 @@ Warägerweg,wikidata,,Q48343,way
 "Warnauer Pfad",wikidata,,Q2458495,way
 "Warnemünder Straße",wikidata,,Q311849,way
 Warnenweg,wikidata,,Q161561,way
-"Warnitzer Straße",wikidata,,Q1545067,way
+"Warnitzer Straße",wikidata,,Q1545067;Q874883,way
 Warnowstraße,wikidata,,Q3280,way
 "Warschauer Brücke",wikidata,,Q270,way
 "Warschauer Platz",wikidata,,Q270,way
@@ -6033,6 +6057,7 @@ Wasserstraße,wikidata,,Q1682,way
 Wassertorplatz,wikidata,,Q82117,way
 Wassertorstraße,wikidata,,Q82117,way
 Wasserturmplatz,wikidata,,Q32662967,way
+Wasserweg,wikidata,,Q12046227,way
 Wasserwerkstraße,wikidata,,Q15134506,way
 "Wasunger Weg",wikidata,,Q546530,way
 "Waßmannsdorfer Chaussee",wikidata,,Q144902,way
@@ -6067,7 +6092,7 @@ Weidenanger,wikidata,,Q36050,way
 Weidenkätzchenweg,wikidata,,Q217753,way
 Weidenröschenweg,wikidata,,Q157637,way
 Weidenstraße,wikidata,,Q36050,way
-Weidenweg,wikidata,,Q30121,way
+Weidenweg,wikidata,,Q30121;Q36050,way
 Weideplan,wikidata,,Q30121,way
 Weiderichstraße,wikidata,,Q156022,way
 Weihenweg,wikidata,,Q207796,way
@@ -6176,9 +6201,9 @@ Wiesenkräuterweg,wikidata,,Q1318906,way
 Wiesenpfad,wikidata,,Q7777019,way
 Wiesenpromenade,wikidata,,Q7777019,way
 Wiesenschlag,wikidata,,Q1434274,way
-Wiesenstraße,wikidata,,Q20820178,way
+Wiesenstraße,wikidata,,Q20820178;Q7777019,way
 Wiesenufer,wikidata,,Q1434274,way
-Wiesenweg,wikidata,,Q7777019,way
+Wiesenweg,wikidata,,Q12046227;Q7777019,way
 Wiesenwinkel,wikidata,,Q7777019,way
 "Wigandstaler Straße",wikidata,,Q2100074,way
 Wikingerufer,wikidata,,Q12567,way
@@ -6203,7 +6228,6 @@ Wildstrubelpfad,wikidata,,Q668490,way
 Wildtaubenweg,wikidata,,Q10856,way
 "Wildunger Weg",wikidata,,Q516462,way
 Wilhelminenhofstraße,wikidata,,Q62602544,way
-Wilhelmplatz,wikidata,,Q11027623,way
 "Wilhelmsbrücker Straße",wikidata,,Q11820784,way
 "Wilhelmshavener Straße",wikidata,,Q3857,way
 "Wilhelmshöher Straße",wikidata,,Q687186,way
@@ -6290,7 +6314,7 @@ Wonnegausteig,wikidata,,Q52313,way
 "Wormser Straße",wikidata,,Q3852,way
 Wörnitzweg,wikidata,,Q833846,way
 "Worpsweder Straße",wikidata,,Q269174,way
-"Wörther Straße",wikidata,,Q22762,way
+"Wörther Straße",wikidata,,Q22762;Q684479,way
 Wotanstraße,wikidata,,Q43610,way
 Wotanweg,wikidata,,Q14754536,way
 "Wriezener Karree",wikidata,,Q821343,way
@@ -6335,7 +6359,7 @@ Zantochweg,wikidata,,Q1015339,way
 "Zaucher Weg",wikidata,,Q148498,way
 "Zauchwitzer Straße",wikidata,,Q148506,way
 Zaunkönigsweg,wikidata,,Q25740,way
-Zaunkönigweg,wikidata,,Q25740,way
+Zaunkönigweg,wikidata,,Q1198178;Q25740,way
 Zaunweg,wikidata,,Q148571,way
 Zebrafinkweg,wikidata,,Q331065,way
 "Zechliner Straße",wikidata,,Q1427616,way
@@ -6350,7 +6374,7 @@ Zehntwerderweg,wikidata,,Q2704612,way
 "Zehrensdorfer Straße",wikidata,,Q184707,way
 "Zeiler Weg",wikidata,,Q184873,way
 "Zeisgendorfer Weg",wikidata,,Q9200017,way
-Zeisigweg,wikidata,,Q5261336,way
+Zeisigweg,wikidata,,Q23671781;Q5261336,way
 "Zeitzer Straße",wikidata,,Q16087,way
 "Zellerfelder Straße",wikidata,,Q15377069,way
 "Zellinger Weg",wikidata,,Q189058,way
@@ -6425,6 +6449,7 @@ Zschirnsteinweg,wikidata,,Q227259,way
 "Zum Biesenwerder",wikidata,,Q97387480,way
 "Zum Dahmeufer",wikidata,,Q161455,way
 "Zum Erlengrund",wikidata,,Q1355530,way
+"Zum Festplatz",wikidata,,Q1408777,way
 "Zum Großen Windkanal",wikidata,,Q1549098,way
 "Zum Hechtgraben",wikidata,,Q165278;Q2048319,way
 "Zum Heckeshorn",wikidata,,Q1593016,way
@@ -6465,6 +6490,7 @@ Zweiwinkelweg,wikidata,,Q198438,way
 Zwerg-Nase-Weg,wikidata,,Q8109325,way
 Zwergammerweg,wikidata,,Q216855,way
 Zwergasternweg,wikidata,,Q517130,way
+Zwergenweg,wikidata,,Q214045,way
 Zwerghuhnweg,wikidata,,Q244179,way
 "Zwickauer Damm",wikidata,,Q3778,way
 Zwiebelweg,wikidata,,Q23485,way
@@ -6496,7 +6522,6 @@ Zypressenweg,wikidata,,Q146911,way
 "4. Steig",,,,way
 A-Weg,,,,way
 "ASV Schläusenland e.V.",,,,way
-AVUS,,,,way
 "AVUS Nordkurve",,,,way
 Aagaard-Tunnel,,,,way
 "Ahrensfelder Weg",,,,way
@@ -6508,7 +6533,6 @@ Alpenweg,,,,way
 "Alte Spandauer Poststraße",,,,way
 "Alter Fließweg",,,,way
 "Alter Postweg",,,,way
-"Alter Radelander Weg",,,,way
 "Am Alten Flugplatz",,,,way
 "Am Alten Lokschuppen",,,,way
 "Am Amtsgraben",,,,way
@@ -6516,7 +6540,6 @@ Alpenweg,,,,way
 "Am Bachrain",,,,way
 "Am Bahndamm",,,,way
 "Am Beelitzhof",,,,way
-"Am Berg",,,,way
 "Am Berge",,,,way
 "Am Berghang",,,,way
 "Am Biberbau",,,,way
@@ -6531,7 +6554,6 @@ Alpenweg,,,,way
 "Am Fischtal",,,,way
 "Am Graben",,,,way
 "Am Grüngürtel",,,,way
-"Am Heimhort",,,,way
 "Am Hellespont",,,,way
 "Am Herzbergteich",,,,way
 "Am Kanal",,,,way
@@ -6552,7 +6574,6 @@ Alpenweg,,,,way
 "Am Mühlenberg",,,,way
 "Am Mühlenteich",,,,way
 "Am Nordbahnhof",,,,way
-"Am Oberhafen",,,,way
 "Am Ortsrand",,,,way
 "Am Parkplatz",,,,way
 "Am Posseberg",,,,way
@@ -6576,7 +6597,6 @@ Alpenweg,,,,way
 "Am Tempelgraben",,,,way
 "Am Vierling",,,,way
 "Am Wachtelschlag",,,,way
-"Am Wäldchen",,,,way
 "Am Waldhang",,,,way
 "Am Waldhaus",,,,way
 "Am Wasserbogen",,,,way
@@ -6595,12 +6615,9 @@ Amtsstraße,,,,way
 "An den Freiheitswiesen",,,,way
 "An den Hubertshäusern",,,,way
 "An den Parkbäumen",,,,way
-"An der Bahn",,,,way
-"An der Gatower Heide",,,,way
 "An der Havelspitze",,,,way
 "An der Himmelswiese",,,,way
 "An der Karlshorster Heide",,,,way
-"An der Kieler Brücke",,,,way
 "An der Kolonnade",,,,way
 "An der Laake",,,,way
 "An der Schutzbepflanzung",,,,way
@@ -6614,11 +6631,9 @@ Angersteinweg,,,,way
 Anglersiedlung,,,,way
 Anglerweg,,,,way
 "Anhalter Steg",,,,way
-Ankerweg,,,,way
 "Ankogelbad, Sommerbad",,,,way
 Annenallee,,,,way
 Antonienstraße,,,,way
-Apfelweg,,,,way
 Aralienweg,,,,way
 Argoallee,,,,way
 Arthur-Friedrich-Weg,,,,way
@@ -6633,7 +6648,6 @@ Aussenweg,,,,way
 Aussichtsberg,,,,way
 "Außenanlagen des Caritas- Mehrgenerationenhauses",,,,way
 Außenweg,,,,way
-"Avenue Jean Mermoz",,,,way
 B-Weg,,,,way
 Bäderweg,,,,way
 Bahnhausweg,,,,way
@@ -6652,16 +6666,12 @@ Baumgartensteg,,,,way
 Bausdorfstraße,,,,way
 Beckerweg,,,,way
 Beerenstraße,,,,way
-Beethovenstraße,,,,way
 "Beim Pfarrhof",,,,way
 Bellevuepark,,,,way
 Bellogasse,,,,way
 Benjamin-Vogelsdorff-Straße,,,,way
-"Bentschener Weg",,,,way
 Bergholzstraße,,,,way
-Bergmannstraße,,,,way
 Bergstr.,,,,way
-Bergweg,,,,way
 Berlewitzweg,,,,way
 "Berliner Mauerweg",,,,way
 "Berliner Verbindungsbahn",,,,way
@@ -6669,10 +6679,8 @@ Bernard-Wieck-Promenade,,,,way
 Bernhard-Langwaldt-Weg,,,,way
 Besuchesritze,,,,way
 "Beyer Weg",,,,way
-"Birnbaumer Straße",,,,way
 "Bitterfelder Brücke",,,,way
 Bleichröder-Park,,,,way
-Blissestraße,,,,way
 "Blumberger Chaussee",,,,way
 Blütenweißweg,,,,way
 Bornepfad,,,,way
@@ -6687,20 +6695,13 @@ Brehmestraße,,,,way
 "Breite Straße",,,,way
 Breitehornweg,,,,way
 Breitensteinweg,,,,way
-"Breiter Weg",,,,way
 Brekowweg,,,,way
 Britzer-Allee-Brücke,,,,way
 Bruchweg,,,,way
 "Brücke am Heiligentalhügel",,,,way
 Brückenweg,,,,way
 Bruckweg,,,,way
-Brüderstraße,,,,way
 Brunnenhof,,,,way
-Brunnenstraße,,,,way
-Brunnenweg,,,,way
-Bruno-Baum-Straße,,,,way
-Bruno-Taut-Straße,,,,way
-Brunowpassage,,,,way
 "Buchholzer Feld",,,,way
 Buggenhagenstraße,,,,way
 Bukesweg,,,,way
@@ -6715,7 +6716,6 @@ Burgstraße,,,,way
 Burgunderweg,,,,way
 C-Weg,,,,way
 Carl-Langbecker-Str.,,,,way
-Cautiusstraße,,,,way
 Chantiéweg,,,,way
 Charlottenweg,,,,way
 Colbestraße,,,,way
@@ -6731,7 +6731,6 @@ Doehlweg,,,,way
 "Doktor Dorsch Allee",,,,way
 Don-Ugoletti-Platz,,,,way
 Donathstraße,,,,way
-Dorfstraße,,,,way
 Downhill-Strecke,,,,way
 Dr.-Markus-Straße,,,,way
 Drachenfels,,,,way
@@ -6739,7 +6738,6 @@ Drachenwiese,,,,way
 Dregerhoffstraße,,,,way
 Drostestraße,,,,way
 Dunkweg,,,,way
-"Durchgang Annenhöfe",,,,way
 Dusekestraße,,,,way
 Düsterhauptstraße,,,,way
 E-Gestell,,,,way
@@ -6767,7 +6765,6 @@ Eremitenstraße,,,,way
 Erich-Manteufel-Weg,,,,way
 Erlenbrücke,,,,way
 Ernst-Grube-Park,,,,way
-Ernststraße,,,,way
 Ernststraßensteg,,,,way
 Erwin-Dahlen-Weg,,,,way
 Europaplatz,,,,way
@@ -6780,10 +6777,8 @@ Fahlenbergbrücke,,,,way
 Fahremundstraße,,,,way
 Fährweg,,,,way
 Familiengarten,,,,way
-Fasanenweg,,,,way
 Feldblumenweg,,,,way
 Feldgrabensteig,,,,way
-Feldweg,,,,way
 Fennbrücke,,,,way
 Festplatz,,,,way
 Festplatzweg,,,,way
@@ -6797,18 +6792,15 @@ Florentineweg,,,,way
 Floxweg,,,,way
 Flurende,,,,way
 Flutstraße,,,,way
-Fontanestraße,,,,way
 Forkenzeile,,,,way
 "Forsthaus Müggelheim",,,,way
 Foyer,,,,way
 "Foyer ECC 1",,,,way
 Frank-Schweitzer-Straße,,,,way
 Franz-Meyer-Straße,,,,way
-Franzstraße,,,,way
 Franzweg,,,,way
 Frauenstraße,,,,way
 Freibadweg,,,,way
-Freiheit,,,,way
 Freiligratstraße,,,,way
 "Freizeitpark Marienfelde",,,,way
 Frenzelweg,,,,way
@@ -6819,14 +6811,11 @@ Friedhofsweg,,,,way
 "Friedland Promenade",,,,way
 Friedrich-Haak-Brücke,,,,way
 Friedrich-List-Ufer,,,,way
-Fritz-Reuter-Straße,,,,way
-Frobenstraße,,,,way
 Frommpromenade,,,,way
 Frostraße,,,,way
 Fuchssteinerweg,,,,way
 Fuhrmannstraße,,,,way
 Funkelgang,,,,way
-Fürstenweg,,,,way
 "Fußgängertunnel Grunerstraße",,,,way
 "Fußgängertunnel Schnellerstraße / Brückenstraße",,,,way
 "Fußweg 469",,,,way
@@ -6846,10 +6835,7 @@ Garbátyplatz,,,,way
 "Garten der Blumen und Wasserspiele",,,,way
 "Gärten der Welt",,,,way
 Gartenplatz,,,,way
-Gartenstraße,,,,way
-Gartenweg,,,,way
 Gäßnerweg,,,,way
-Gebrüder-Grimm-Weg,,,,way
 "Gedenkort Güterbahnhof Moabit",,,,way
 "Gemeindepark Lankwitz",,,,way
 "Gemeinschaftsgärten des Centre Français de Berlin",,,,way
@@ -6867,24 +6853,18 @@ Glassstraße,,,,way
 Gleim-Oase,,,,way
 Gloriastraße,,,,way
 "Glück im Winkel",,,,way
-Goethestraße,,,,way
 Golda-Meir-Steg,,,,way
 Golzenweg,,,,way
-Gorgasring,,,,way
 Götelstraße,,,,way
 Goten-Str.,,,,way
-Gottfried-Funeck-Weg,,,,way
 Götzestraße,,,,way
-Grabenstraße,,,,way
 Grabenweg,,,,way
 "Grader Weg",,,,way
 Graetschelsteig,,,,way
 Grenzbergeweg,,,,way
 Grenzburgstraße,,,,way
 Grenzpfad,,,,way
-Grenzstraße,,,,way
 Grenzstraßenbrücke,,,,way
-Grenzweg,,,,way
 Grenzwegbrücke,,,,way
 Griebenweg,,,,way
 Grimnitzpark,,,,way
@@ -6893,7 +6873,6 @@ Grollstraße,,,,way
 "Gropius Passagen, Übergang",,,,way
 "Große Promenade",,,,way
 "Große Querallee",,,,way
-Große-Leege-Straße,,,,way
 "Großer Querweg",,,,way
 "Großer Weg",,,,way
 Großmannweg,,,,way
@@ -6902,11 +6881,8 @@ Grottewitz-Weg,,,,way
 "Grünanlage Eichenhain",,,,way
 "Grünanlage Lilienthalstraße",,,,way
 "Grünanlage Tauernallee",,,,way
-Gründerstraße,,,,way
 Grundweg,,,,way
 "Grunewald West",,,,way
-Grunowstraße,,,,way
-Grünstraße,,,,way
 Grünstraßenbrücke,,,,way
 "Grüntaler Flanier Nord",,,,way
 "Grüntaler Flanier Süd",,,,way
@@ -6920,6 +6896,7 @@ Guido-Treschler-Weg,,,,way
 Gumlichweg,,,,way
 Gummiweg,,,,way
 Günther-Weg,,,,way
+Güntherstraße,,,,way
 Gustav-Hertz-Platz,,,,way
 "Güterbahnhof Reinickendorf",,,,way
 Gütlingstraße,,,,way
@@ -6929,12 +6906,9 @@ Gutspark,,,,way
 "Gutspark Neukladow",,,,way
 H-Weg,,,,way
 Haberechtstraße,,,,way
-Hackerstraße,,,,way
-Haewererweg,,,,way
 Hafeldweg,,,,way
 Hallichpromenade,,,,way
 Hamannweg,,,,way
-Hämmerlingstraße,,,,way
 "Hampelsche Baumschule",,,,way
 Hans-Dannert-Weg,,,,way
 Hans-Schumacher-Straße,,,,way
@@ -6946,11 +6920,9 @@ Hasselwerderpark,,,,way
 Haßlingerweg,,,,way
 Hauptbrücke,,,,way
 Haupttreppe,,,,way
-Hauptweg,,,,way
 "Hauptweg 1",,,,way
 "Hauptweg 2",,,,way
 "Hauptweg 3",,,,way
-Havelhöhenweg,,,,way
 Havelmüllerweg,,,,way
 Havelspitze,,,,way
 Havelwiesen,,,,way
@@ -6958,24 +6930,20 @@ Hechelstraße,,,,way
 Heerruferweg,,,,way
 Heidekrugstraße,,,,way
 "Heidemühler Weg",,,,way
-Heidestraße,,,,way
 Heimat,,,,way
 Heimfriedstraße,,,,way
 Heimstättenweg,,,,way
 Heinrich-Sachs-Straße,,,,way
 Heinrich-Zille-Park,,,,way
-Heinrichstraße,,,,way
 Heinsestraße,,,,way
 Heinweg,,,,way
 Heinz-Gesper-Weg,,,,way
 Heinz-Prillwitz-Weg,,,,way
-Helene-Weigel-Platz,,,,way
 Hentzeweg,,,,way
 Herbert-Krause-Park,,,,way
 Hermann-Günther-Straße,,,,way
 Hewaldstraße,,,,way
 Hilda-Geiringer-Weg,,,,way
-Hildegard-Marcusson-Straße,,,,way
 Hillmannstraße,,,,way
 "Hinter den Gärten",,,,way
 "Historische Ladestraße",,,,way
@@ -6997,12 +6965,11 @@ Hoevelstraße,,,,way
 Hoffmannstraße,,,,way
 "Hohe Brücke",,,,way
 "Hoher Bogen",,,,way
-"Hoher Weg",,,,way
 Hohler-Stein-Weg,,,,way
 Hohlweg,,,,way
+Hohmannstraße,,,,way
 Höhmannstraße,,,,way
 Holderweg,,,,way
-Hollabergweg,,,,way
 Holzweg,,,,way
 Hoppestraße,,,,way
 Hörnersteig,,,,way
@@ -7017,7 +6984,6 @@ I-Weg,,,,way
 "Im Eck",,,,way
 "Im Grund",,,,way
 "Im Grund/Rosenweg",,,,way
-"Im Jagen",,,,way
 "Im Mittelbusch",,,,way
 "Im Vogtland",,,,way
 "Im Winkel",,,,way
@@ -7033,13 +6999,10 @@ Jacobsbrunnenweg,,,,way
 Jakobsweg,,,,way
 Jean-Monnet-Straße,,,,way
 Jelena-Šantić-Friedenspark,,,,way
-Joachimstraße,,,,way
 "Johannes Park",,,,way
 Johannes-Itten-Straße,,,,way
 Johannes-Werner-Straße,,,,way
 Johannisstraße,,,,way
-Jordanstraße,,,,way
-Jostweg,,,,way
 Judengang,,,,way
 Judisgasse,,,,way
 "Jugendclub UFO",,,,way
@@ -7048,15 +7011,11 @@ Jungfernbrücke,,,,way
 K-Straße,,,,way
 K-Weg,,,,way
 "Kaiser Wilhelm Passage",,,,way
-Kaiser-Wilhelm-Platz,,,,way
 Kaisersteg,,,,way
-Kammweg,,,,way
-Kanalstraße,,,,way
 Kanalweg,,,,way
 Kanonenhof,,,,way
 Kantinenweg,,,,way
 Kanzlerpark,,,,way
-Kapellenweg,,,,way
 Karl-F.-Bothe-Weg,,,,way
 Karlinekenweg,,,,way
 "Karlshofer Weg",,,,way
@@ -7068,14 +7027,12 @@ Kastanienwäldchen,,,,way
 Kätchenweg,,,,way
 Katzengraben,,,,way
 Katzengrabensteg,,,,way
-Kaulbachstraße,,,,way
-"Kaumanns Gasse",,,,way
+Kaumannsgasse,,,,way
 Kehrwieder,,,,way
 Kelchsecke,,,,way
 Kellerweg,,,,way
 Kethelitzweg,,,,way
 "Kieselbronner Weg",,,,way
-Kiesweg,,,,way
 Kietzgrabensteg,,,,way
 "Kiezpark Fortuna",,,,way
 Kiezplatz,,,,way
@@ -7083,7 +7040,6 @@ Kinderwagenweg,,,,way
 Kindl-Treppe,,,,way
 Kirchplatz,,,,way
 Kirschblütenplatz,,,,way
-Kirschweg,,,,way
 Kitaweg,,,,way
 Kitzingstraße,,,,way
 "Klappbrücke an der Humboldtmühle",,,,way
@@ -7102,7 +7058,6 @@ Klärwerkstraße,,,,way
 Kleinschewskystraße,,,,way
 Klepschweg,,,,way
 Klinkepark,,,,way
-Klixstraße,,,,way
 Klosterweg,,,,way
 Knieweg,,,,way
 Koblanckstraße,,,,way
@@ -7112,7 +7067,6 @@ Kolonnade,,,,way
 Kolonnenbrücke,,,,way
 Kolonnenstraße,,,,way
 Kolonnenweg,,,,way
-Königsweg,,,,way
 Konkordiastraße,,,,way
 Körnerplatz,,,,way
 Körnerweg,,,,way
@@ -7121,7 +7075,6 @@ Krautweg,,,,way
 Kreuzweg,,,,way
 "Krienicke Park",,,,way
 Krienickesteig,,,,way
-Kronprinzessinnenweg,,,,way
 Krowelstraße,,,,way
 "Krumme Gärten",,,,way
 Krysiakweg,,,,way
@@ -7131,7 +7084,6 @@ Kühneweg,,,,way
 Kulbeweg,,,,way
 Künstlerweg,,,,way
 Kupfergraben,,,,way
-Kurhausstraße,,,,way
 Kürißweg,,,,way
 Kurt-Pfennig-Platz,,,,way
 "Kurze Straße",,,,way
@@ -7150,7 +7102,6 @@ Landfliegerstraße,,,,way
 Landweg,,,,way
 "Lange Brücke",,,,way
 "Lange Straße",,,,way
-"Langer Weg",,,,way
 Lasensteinweg,,,,way
 "Laubnitzer Pfad",,,,way
 "Laufstrecke 1100m",,,,way
@@ -7173,49 +7124,38 @@ Lossebergplatz,,,,way
 Lossowweg,,,,way
 "Lotos Vihara",,,,way
 Louis-Schmidt-Straße,,,,way
-"Lübener Weg",,,,way
 Lückstraße,,,,way
 Lüdickeweg,,,,way
 Ludwigshöheweg,,,,way
 Luisenhain,,,,way
-Luisenweg,,,,way
 M-Weg,,,,way
-Magazinstraße,,,,way
 "Malchower Teichweg",,,,way
 Malevkeweg,,,,way
-Manteuffelstraße,,,,way
 Margaretenbrücke,,,,way
-Margaretenstraße,,,,way
 Margaretenweg,,,,way
 Marienlust,,,,way
-Marienstraße,,,,way
 Marienweg,,,,way
 Marksstraße,,,,way
 Marksweg,,,,way
 "Marktplatz Griechische Allee",,,,way
-Marschallbrücke,,,,way
 Mathildesweg,,,,way
 Mauerweg,,,,way
 Mäusetunnel,,,,way
-Max-Herrmann-Straße,,,,way
 Max-Koch-Passage,,,,way
 Max-Kollo-Weg,,,,way
 Mayschweg,,,,way
 Meckerweg,,,,way
 Mehringpark,,,,way
 Menzelweg,,,,way
-Mertensstraße,wikidata,,,way
 Metropole-Passage,,,,way
 Minerva-Passage,,,,way
 Mittelallee,,,,way
 Mittelsteg,,,,way
 Mittelstraße,,,,way
 Mitteltunnel,,,,way
-Mittelweg,,,,way
 Moabiter-Brücke,,,,way
 Möbelweg,,,,way
 Möckernkiez,,,,way
-Mohnweg,,,,way
 Möllentordamm,,,,way
 Möllentorsteg,,,,way
 Moßkopfring,,,,way
@@ -7224,7 +7164,6 @@ Mudrackzeile,,,,way
 Mügelweg,,,,way
 Müggelschlößchenweg,,,,way
 Müggelwerderweg,,,,way
-Mühlenweg,,,,way
 Mühlenwinkel,,,,way
 Mulackstraße,,,,way
 Müller-Weg,,,,way
@@ -7248,12 +7187,9 @@ Neptunweg,,,,way
 "Neue Kreisstraße",,,,way
 "Neue Mittelstraße",,,,way
 "Neue Promenade",,,,way
-"Neue Späthstraße",,,,way
 "Neue Straße",,,,way
 "Neue Wiesen",,,,way
 "Neuer Steg",,,,way
-"Neuer Weg",,,,way
-"Neues Ufer",,,,way
 Neuland,,,,way
 Neulandweg,,,,way
 Neumannsgasse,,,,way
@@ -7270,7 +7206,6 @@ Nord-Süd-Grünzug,,,,way
 Nordpark,,,,way
 Nordring,,,,way
 Nordsternweg,,,,way
-Nordweg,,,,way
 Nuscheweg,,,,way
 O-Weg,,,,way
 "Oberer Weg",,,,way
@@ -7278,7 +7213,6 @@ O-Weg,,,,way
 Obstgarten,,,,way
 Olympiastraße,,,,way
 Oppermannstraße,,,,way
-Orankestrand,,,,way
 "Orthstraße/ Walter-Nicklitz-Promenade",,,,way
 Ortwinweg,,,,way
 Osasteig,,,,way
@@ -7288,14 +7222,11 @@ Ostendstraße,,,,way
 "Östlicher Parksteg",,,,way
 Osttunnel,,,,way
 "Otto's Weg",,,,way
-Otto-Krüger-Zeile,,,,way
 Otto-Miethke-Weg,,,,way
 Otto-Reuter-Weg,,,,way
-Ottostraße,,,,way
 Ottoweg,,,,way
 P-Weg,,,,way
 Panoramastraße,,,,way
-Paradestraße,,,,way
 Pardemannstraße,,,,way
 "Park Hellwichstorp",,,,way
 "Park Hewald",,,,way
@@ -7316,11 +7247,10 @@ Patientenpark,,,,way
 Paul-Hepprich-Weg,,,,way
 Paul-Koenig-Straße,,,,way
 Paul-Kreklow-Weg,,,,way
-Paul-Schwarz-Promenade,,,,way
 Paul-Singer-Straße,,,,way
 Paulinenplatz,,,,way
 "Perleberger Brücke",,,,way
-"Perwenitzer Weg",,,,way
+Pfad,,,,way
 Pfahlerstraße,,,,way
 Pfefferweg,,,,way
 Pflanzerweg,,,,way
@@ -7332,7 +7262,6 @@ Plansche,,,,way
 "Planstraße C",,,,way
 Plateautreppe,,,,way
 "Platz A",,,,way
-"Platz der Republik",,,,way
 "Platz des 23. April",,,,way
 "Platz des Picknicks",,,,way
 "Platz des Sonnens",,,,way
@@ -7368,7 +7297,6 @@ Pritstabelstraße,,,,way
 "Privatstraße 8",,,,way
 "Privatstraße 9",,,,way
 Prozessweg,,,,way
-Prühßstraße,,,,way
 Puchertweg,,,,way
 Pyramidenbrücke,,,,way
 Pyramidenringbrücke,,,,way
@@ -7399,23 +7327,19 @@ Radtkestraße,,,,way
 Randsteig,,,,way
 Randweg,,,,way
 Ranftweg,,,,way
-Rathenauplatz,,,,way
 Rattenweg,,,,way
 Ravelinplatz,,,,way
 Ravensteinstraße,,,,way
 "Regenwasser Rückhaltebecken",,,,way
 Reichartstraße,,,,way
 Reinbeckstraße,,,,way
-Reinhardtstraße,,,,way
 "Reinickes Hof",,,,way
 Reintrautweg,,,,way
 Renate-Privatstraße,,,,way
 "Rendsburger Brücke",,,,way
-Resedaweg,,,,way
 Reulestraße,,,,way
 Ribbeweg,,,,way
 Richard-John-Weg,,,,way
-Richterstraße,,,,way
 Riebekeweg,,,,way
 Riensbergstraße,,,,way
 "Ring I",,,,way
@@ -7424,7 +7348,6 @@ Riensbergstraße,,,,way
 "Ring IV",,,,way
 Ringweg,,,,way
 Rittersteinweg,,,,way
-Robert-Stolz-Anlage,,,,way
 Rodelbahn,,,,way
 Rödelstraße,,,,way
 Rohdestraße,,,,way
@@ -7459,7 +7382,6 @@ Salzufer,,,,way
 "Sandhauser Brücke",,,,way
 "Sandhauser Straße",,,,way
 Sandkrugbrücke,,,,way
-Sandweg,,,,way
 Sangeallee,,,,way
 Sängerweg,,,,way
 Sangestraße,,,,way
@@ -7468,7 +7390,6 @@ Schendelgasse,,,,way
 Schendelpark,,,,way
 Schenkestraße,,,,way
 Schiffbauerdammbrücke,,,,way
-Schillingstraße,,,,way
 Schinderbrücke,,,,way
 Schirnerstraße,,,,way
 Schlangenweg,,,,way
@@ -7488,7 +7409,6 @@ Schmetstorpweg,,,,way
 Schmetterlingshorst,,,,way
 Schmiedebankplatz,,,,way
 Schmollwinkel,,,,way
-Schoelerpark,wikidata,,,way
 Schönagelstraße,,,,way
 "Schönauer Weg",,,,way
 "Schöneberger Schleife",,,,way
@@ -7497,7 +7417,6 @@ Schrobsdorffstraße,,,,way
 Schrockstraße,,,,way
 "Schulgartenfahrbrücke (Steinerne Brücke)",,,,way
 Schulgartenweg,,,,way
-Schulstraße,,,,way
 Schulzenstraße,,,,way
 Schulzenweg,,,,way
 Schulzestraße,,,,way
@@ -7506,7 +7425,6 @@ Schulzweg,,,,way
 Schürstraße,,,,way
 Schwanblumenweg,,,,way
 Schwartzstraße,,,,way
-"Schwarzer Weg",,,,way
 Schwarzkogelweg,,,,way
 Schweizerhofpark,,,,way
 Schwimmeistertreppe,,,,way
@@ -7520,7 +7438,6 @@ Segewaldweg,,,,way
 Seidelweg,,,,way
 Seidenweg,,,,way
 Seifertweg,,,,way
-Sellerstraße,,,,way
 Semkensteig,,,,way
 Sennockstraße,,,,way
 Separationsweg,,,,way
@@ -7558,8 +7475,6 @@ Stawesdamm,,,,way
 Stechowstraße,,,,way
 Steengravenweg,,,,way
 Steinkleeweg,,,,way
-Steinstraße,,,,way
-Steinweg,,,,way
 "Steller Weg",,,,way
 Stellerweg,,,,way
 Sterckmannweg,,,,way
@@ -7782,14 +7697,12 @@ Strandschlossweg,,,,way
 "Straße zur Parksiedlung Spruch",,,,way
 Strauchwiesenbrücke,,,,way
 Strömannstraße,,,,way
-Stubenrauchbrücke,,,,way
 Studentenbad,,,,way
 Studentenweg,,,,way
 "Süd-Ost-Verbindung (SOV)",,,,way
 Südpark,,,,way
 Südplateau,,,,way
 Südstern,,,,way
-Südweg,,,,way
 "TWY EAST I",,,,way
 "TWY EAST II",,,,way
 "TWY NORTH-EAST",,,,way
@@ -7802,13 +7715,11 @@ Takuweg,,,,way
 Tälchenbrücke,,,,way
 Tälchenweg,,,,way
 Talsandweg,,,,way
-Talweg,,,,way
 "Tangentiale Verbindung Ost",,,,way
 "Tangentiale Verbindung Ost - Kombivariante (in Planung)",,,,way
 Tanzplatz,,,,way
 "Tegeler Hafenbrücke ""Sechserbrücke""",,,,way
 Teilestraße,,,,way
-Terrassenweg,,,,way
 "Teupitzer Park",,,,way
 "Thaters Privatweg",,,,way
 Thaterstraße,,,,way
@@ -7850,7 +7761,6 @@ Vereinshausbrücke,,,,way
 Vereinsstraße,,,,way
 Vereinsweg,,,,way
 "Verlängerte Koloniestraße",,,,way
-"Verlängerter Sandbacher Weg",,,,way
 "Verlorener Weg",,,,way
 Vier-Kolonien-Weg,,,,way
 "Villa Lemm",,,,way
@@ -7868,7 +7778,6 @@ Volkmarstraße,,,,way
 Volkswohlpark,,,,way
 "Vor den Toren",,,,way
 Wachsmuthstraße,,,,way
-Wachtelweg,,,,way
 Wackenbergstraße,,,,way
 Wackerweg,,,,way
 Waffenschmiedstraße,,,,way
@@ -7894,7 +7803,6 @@ Wäscherinnenweg,,,,way
 Washingtonplatz,,,,way
 Wassergrundstraße,,,,way
 Wasserkräuterweg,,,,way
-Wasserweg,,,,way
 Wasserwegbrücke,,,,way
 "Wasserwerk an der Wuhlheide",,,,way
 Wateweg,,,,way
@@ -7963,8 +7871,6 @@ Winklerstraße,,,,way
 Winterfeldtmarkt,,,,way
 Wlikesweg,,,,way
 "Wriezener Freiraum-Labor",,,,way
-Wundtstraße,,,,way
-Wüsthoffstraße,,,,way
 Zanderstraße,,,,way
 Zastrowstraße,,,,way
 "Zeile 10",,,,way
@@ -7988,7 +7894,6 @@ Zentralweg,,,,way
 Zernickstraße,,,,way
 Zinienweg,,,,way
 "Zu den Müggelheimer Wiesen",,,,way
-"Zum Festplatz",,,,way
 "Zum Klötzbecken",,,,way
 "Zum Klötzhain",,,,way
 "Zum Rübländer Graben",,,,way
@@ -7997,7 +7902,6 @@ Zinienweg,,,,way
 "Zur Blauen Lagune",,,,way
 "Zur Drachenwiese",,,,way
 "Zur Haveldüne",,,,way
-Zwergenweg,,,,way
 "Zwischen den Giebeln",,,,way
 "ehem. Friedhof Rathausstraße",,,,way
 "ehem. Fußgängertunnel",,,,way
