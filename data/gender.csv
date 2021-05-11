@@ -337,6 +337,7 @@ Rahel-Hirsch-Straße,wikidata,F,Q105722,way
 Rahel-Varnhagen-Promenade,wikidata,F,Q61793,way
 Regine-Hildebrandt-Park,wikidata,F,Q77980,way
 Renée-Sintenis-Platz,wikidata,F,Q64341,way
+Rio-Reiser-Platz,wikidata,F,Q155483;Q261889,way
 Romy-Schneider-Straße,wikidata,F,Q78469,way
 Rosa-Luxemburg-Platz,wikidata,F,Q7231,way
 Rosa-Luxemburg-Steg,wikidata,F,Q7231,way
@@ -1557,7 +1558,6 @@ Heinrich-Seidel-Straße,wikidata,M,Q74585,way
 Heinrich-Stahl-Weg,wikidata,M,Q1598924,way
 Heinrich-Zille-Weg,wikidata,M,Q498211,way
 Heinrich-von-Gagern-Straße,wikidata,M,Q65230,way
-Heinrichplatz,wikidata,M,Q115282,way
 Heinrichstraße,wikidata,M,Q57569,way
 Heinz-Bartsch-Straße,wikidata,M,Q96194308,way
 Heinz-Brandt-Straße,wikidata,M,Q1513090,way
@@ -1602,7 +1602,6 @@ Hermann-Oxfort-Promenade,wikidata,M,Q113495,way
 Hermann-Piper-Straße,wikidata,M,Q103829308,way
 Hermann-Schmidt-Weg,wikidata,M,Q1321198,way
 Hermann-Stöhr-Platz,wikidata,M,Q1612871,way
-Hermannbrücke,wikidata,M,Q68880,way
 Hermannplatz,wikidata,M,Q68880,way
 Hermannstraße,wikidata,M,Q1158570;Q68880,way
 Herrfurthplatz,wikidata,M,Q92010,way
@@ -2235,7 +2234,6 @@ Max-Dohrn-Straße,wikidata,M,Q18025488,way
 Max-Eyth-Straße,wikidata,M,Q78267,way
 Max-Herrmann-Straße,wikidata,M,Q85078,way
 Max-Josef-Metzger-Platz,wikidata,M,Q77874,way
-Max-Koska-Straße,wikidata,M,Q104710850,way
 Max-Liebermann-Allee,wikidata,M,Q158062,way
 Max-Lingner-Straße,wikidata,M,Q74543,way
 Max-Pallenberg-Pfad,wikidata,M,Q85865,way
@@ -2406,6 +2404,7 @@ Olof-Palme-Platz,wikidata,M,Q53713,way
 Onckenstraße,wikidata,M,Q87004,way
 Opelweg,wikidata,M,Q57479,way
 Opitzstraße,wikidata,M,Q60946,way
+Oranienstraße,wikidata,M,Q115282;Q155483,way
 Orelzeile,wikidata,M,Q12788209,way
 Orthstraße,wikidata,M,Q86479,way
 Osianderweg,wikidata,M,Q435547,way
