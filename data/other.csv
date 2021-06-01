@@ -1192,7 +1192,6 @@ Caligariplatz,wikidata,,Q5812209,way
 Campingweg,wikidata,,Q455550,way
 Cannaweg,wikidata,,Q161182,way
 Cantalweg,wikidata,,Q3259,way
-Carl-Weder-Park,wikidata,,Q97362737,way
 "Caseler Straße",wikidata,,Q659935,way
 Cedernstraße,wikidata,,Q128550,way
 Cedernweg,wikidata,,Q128550,way
@@ -1541,7 +1540,6 @@ Eigerstraße,wikidata,,Q4425,way
 "Einbecker Straße",wikidata,,Q47244,way
 Einhornstraße,wikidata,,Q10428,way
 Einsiedelring,wikidata,,Q147276,way
-Einsiedlerweg,wikidata,,Q20825911,way
 Eintrachtstraße,wikidata,,Q3223055,way
 Eisackstraße,wikidata,,Q596901,way
 Eisblumensteig,wikidata,,Q161473,way
@@ -3115,7 +3113,6 @@ Kleinbeerenstraße,wikidata,,Q60698112,way
 "Kleiner Bär",wikidata,,Q10478,way
 "Kleiner Mohnweg",wikidata,,Q146391,way
 "Kleiner Muck Weg",wikidata,,Q98700255,way
-"Kleiner Plutoweg",wikidata,,Q41410,way
 "Kleiner Stern",wikidata,,Q1678403,way
 Kleingartenstraße,wikidata,,Q8054653,way
 "Kleinmachnower Weg",wikidata,,Q104192,way
@@ -3755,8 +3752,6 @@ Maronensperlingweg,wikidata,,Q1316082,way
 Marseillestraße,wikidata,,Q23482,way
 Martinstraße,wikidata,,Q22920,way
 "Marwitzer Straße",wikidata,,Q100701039,way
-"Marzahner Brücke",wikidata,,Q702521,way
-"Marzahner Brücken",wikidata,,Q702521,way
 "Marzahner Chaussee",wikidata,,Q702521,way
 "Marzahner Promenade",wikidata,,Q702521,way
 "Marzahner Straße",wikidata,,Q702521,way
@@ -4151,6 +4146,7 @@ Nordhafenpark,wikidata,,Q1998012,way
 Nordhellesteig,wikidata,,Q1998043,way
 "Nordkap Weg",wikidata,,Q4069,way
 Nordkapstraße,wikidata,,Q4069,way
+"Nördliche Grenzgrabenbrücke",wikidata,,Q916974,way
 "Nördliche Monbijoubrücke",wikidata,,Q694382,way
 Nordlichtallee,wikidata,,Q40609,way
 Nordlichtstraße,wikidata,,Q40609,way
@@ -4831,6 +4827,7 @@ Rosensteig,wikidata,,Q34687,way
 Rosenstraße,wikidata,,Q1228185;Q34687,way
 Rosental,wikidata,,Q34687,way
 "Rosenthaler Grenzweg",wikidata,,Q693521,way
+"Rosenthaler Platz",wikidata,,Q693521,way
 "Rosenthaler Straße",wikidata,,Q693521,way
 "Rosenthaler Weg",wikidata,,Q693521,way
 Rosenweg,wikidata,,Q34687,way
@@ -6054,7 +6051,6 @@ Watzmannweg,wikidata,,Q163919,way
 Weberwiese,wikidata,,Q437512;Q100163675,way
 Weddingplatz,wikidata,,Q675187,way
 Weddingstraße,wikidata,,Q675187,way
-Wederstraße,wikidata,,Q97362737,way
 Weg,wikidata,,Q516462,way
 "Weg 1 (Hasenweg)",wikidata,,Q25900,way
 "Weg 3 (Kornblumenweg)",wikidata,,Q156921,way
@@ -6508,7 +6504,6 @@ Zypressenweg,wikidata,,Q146911,way
 A-Weg,,,,way
 "ASV Schläusenland e.V.",,,,way
 "AVUS Nordkurve",,,,way
-Aagaard-Tunnel,,,,way
 Aaron-Bernstein-Platz,,,,way
 "Ahrensfelder Weg",,,,way
 Aktionspark,,,,way
@@ -6701,6 +6696,7 @@ Burgunderweg,,,,way
 C-Weg,,,,way
 "Carl Leid Weg",,,,way
 Carl-Langbecker-Str.,,,,way
+Carl-Weder-Park,,,,way
 Chantiéweg,,,,way
 Charlottenweg,,,,way
 Colbestraße,,,,way
@@ -6733,6 +6729,7 @@ Edmundweg,,,,way
 "Ehemaliger Güteraußenring",,,,way
 Ehrenhof,,,,way
 Eichenhofweg,,,,way
+Einsiedlerweg,,,,way
 Elcknerplatz,,,,way
 Elfiwiese,,,,way
 Elise-Tilse-Park,,,,way
@@ -6746,6 +6743,7 @@ Endweg,,,,way
 "Enger Steig",,,,way
 Eremitenstraße,,,,way
 "Erholungsfläche der HOWOGE-Mieter",,,,way
+"Erich-Kästner Straße",,,,way
 Erich-Manteufel-Weg,,,,way
 Erlenbrücke,,,,way
 Ernst-Grube-Park,,,,way
@@ -6837,7 +6835,6 @@ Glassstraße,,,,way
 Gleim-Oase,,,,way
 Gloriastraße,,,,way
 "Glück im Winkel",,,,way
-Golda-Meir-Steg,,,,way
 Golzenweg,,,,way
 Götelstraße,,,,way
 Goten-Str.,,,,way
@@ -7180,7 +7177,6 @@ Nietheweg,,,,way
 Nisbléstraße,,,,way
 Nord-Süd-Grünzug,,,,way
 "Nordhafenpark West",,,,way
-"Nördliche Grenzgrabenbrücke",,,,way
 "Nördliche Rhinstraßenbrücke",,,,way
 "Nördlicher Berliner Ring",,,,way
 "Nördlicher Uferweg",,,,way
@@ -7337,7 +7333,6 @@ Rosengarten,,,,way
 Rosengasse,,,,way
 Rosenhöfe,,,,way
 Rosensteinweg,,,,way
-"Rosenthaler Platz",,,,way
 Rosestraße,,,,way
 "Roter Platz",,,,way
 Rothenbücherweg,,,,way
@@ -7780,12 +7775,12 @@ Wandelgang,,,,way
 Wankstraße,,,,way
 "Wartestelle Sport",,,,way
 Wäscherinnenweg,,,,way
-Washingtonplatz,,,,way
 Wassergrundstraße,,,,way
 Wasserkräuterweg,,,,way
 Wasserwegbrücke,,,,way
 "Wasserwerk an der Wuhlheide",,,,way
 Wateweg,,,,way
+Wederstraße,,,,way
 "Weg 1",,,,way
 "Weg 10",,,,way
 "Weg 11",,,,way
