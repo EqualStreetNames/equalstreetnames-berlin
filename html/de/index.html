@@ -19,34 +19,35 @@
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
-        <a class="navbar-brand" href="#">EqualStreetNames.Berlin</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+        <div class="container-fluid">
+            <a class="navbar-brand" href="https://equalstreetnames.org/">EqualStreetNames.Berlin</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link" class="btn btn-primary" data-toggle="modal" href="#contact">
-                        <i class="fas fa-envelope"></i>
-                        Kontakt
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" target="_blank" href="https://github.com/openknowledgebe/equalstreetnames/">
-                        <i class="fab fa-github"></i>
-                        GitHub
-                    </a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                        aria-haspopup="true" aria-expanded="false">Deutsch</a>
-                    <div class="dropdown-menu dropdown-menu-right">
-                        <a class="dropdown-item" href="../en/index.html">English</a>
-                    </div>
-                </li>
-            </ul>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" class="btn btn-primary" data-toggle="modal" href="#contact">
+                            <i class="fas fa-envelope"></i>
+                            Kontakt
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" target="_blank" href="https://github.com/EqualStreetNames/equalstreetnames/">
+                            <i class="fab fa-github"></i>
+                            GitHub
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                            aria-haspopup="true" aria-expanded="false">Deutsch</a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a class="dropdown-item" href="../en/index.html">English</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
     </nav>
 
@@ -59,44 +60,44 @@
                         <tr class="gender-chart-label" data-gender="m">
                             <td class="text-center"><i class="fas fa-lg fa-mars"></i></td>
                             <td>Männlich (cis)</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
+                            <td class="text-end gender-chart-count"></td>
+                            <td class="text-end gender-chart-pct"></td>
                         </tr>
                         <tr class="gender-chart-label" data-gender="f">
                             <td class="text-center"><i class="fas fa-lg fa-venus"></i></td>
                             <td>Weiblich (cis)</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
+                            <td class="text-end gender-chart-count"></td>
+                            <td class="text-end gender-chart-pct"></td>
                         </tr>
                         <tr class="gender-chart-label" data-gender="mx">
                             <td class="text-center"><i class="fas fa-lg fa-transgender-alt"></i></td>
                             <td>Männlich (trans)</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
+                            <td class="text-end gender-chart-count"></td>
+                            <td class="text-end gender-chart-pct"></td>
                         </tr>
                         <tr class="gender-chart-label" data-gender="fx">
                             <td class="text-center"><i class="fas fa-lg fa-transgender-alt"></i></td>
                             <td>Weiblich (trans)</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
+                            <td class="text-end gender-chart-count"></td>
+                            <td class="text-end gender-chart-pct"></td>
                         </tr>
                         <tr class="gender-chart-label" data-gender="x">
                             <td class="text-center"><i class="fas fa-lg fa-mercury"></i></td>
                             <td>Intersex</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
+                            <td class="text-end gender-chart-count"></td>
+                            <td class="text-end gender-chart-pct"></td>
                         </tr>
                         <tr class="gender-chart-label" data-gender="p">
                             <td class="text-center"><i class="fas fa-lg fa-user-plus"></i></td>
                             <td>Mehrfach</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
+                            <td class="text-end gender-chart-count"></td>
+                            <td class="text-end gender-chart-pct"></td>
                         </tr>
                         <tr class="gender-chart-label" data-gender="u">
                             <td class="text-center"><i class="fas fa-lg fa-question"></i></td>
                             <td>Unbekannt</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
+                            <td class="text-end gender-chart-count"></td>
+                            <td class="text-end gender-chart-pct"></td>
                         </tr>
                     </tbody>
                 </table>
@@ -105,6 +106,7 @@
             <div id="count-information" class="small">
                 Von <span id="count-total"></span> Straßennamen sind <span id="count-person"></span> auf einer Person basiert.
             </div>
+        </div>
     </main>
 
     <div id="contact" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
@@ -115,13 +117,11 @@
                         <i class="fas fa-envelope"></i>
                         Kontakt
                     </h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <p>
-                        Weitere Informationen zu equalstreetnames findest du im <a href="https://github.com/openknowledgebe/equalstreetnames">equalstreetnames Repository</a>.
+                        Weitere Informationen zu equalstreetnames findest du im <a href="https://github.com/EqualStreetNames/equalstreetnames">equalstreetnames Repository</a>.
                         Weitere Informationen zu equalstreetnames-berlin findest du im <a href="https://github.com/gislars/equalstreetnames-berlin">equalstreetnames-berlin Repository</a>.
                     </p>
                 </div>
@@ -130,15 +130,6 @@
     </div>
 
     <script src="../../../website/src/script/index.ts"></script>
-    <script>
-        app.center = [13.382183,52.519954];
-        app.zoom = 11;
-        app.bbox = [13.104778,52.335311,13.768764,52.679269];
-        app.countries = "de";
-        app.style = "mapbox://styles/mapbox/dark-v10";
-        app.init();
-    </script>
-
 </body>
 
 </html>
