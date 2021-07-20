@@ -2040,7 +2040,6 @@ Gendarmenmarkt,wikidata,,Q1502587,way
 Genossenschaftssteg,wikidata,,Q4539,way
 Genossenschaftsstraße,wikidata,,Q812774,way
 Genossenschaftsweg,wikidata,,Q13574663,way
-Genovevastraße,wikidata,,Q269052,way
 "Gensinger Brücke",wikidata,,Q678407,way
 "Gensinger Straße",wikidata,,Q678407,way
 "Genter Straße",wikidata,,Q1296,way
@@ -2428,6 +2427,7 @@ Hasenlauf,wikidata,,Q25900,way
 Hasenmark,wikidata,,Q1434274,way
 Hasenpfad,wikidata,,Q25900,way
 Hasensprung,wikidata,,Q25900;Q571737,way
+Hasensteg,wikidata,,Q25900,way
 Hasenweg,wikidata,,Q25900,way
 "Hasselfelder Weg",wikidata,,Q50867,way
 Hasselwerderstraße,wikidata,,Q993497,way
@@ -5972,7 +5972,7 @@ Waldseeweg,wikidata,,Q1236813,way
 "Waldshuter Zeile",wikidata,,Q505433,way
 Waldsteg,wikidata,,Q2369660,way
 Waldstraße,wikidata,,Q1796367;Q4421,way
-Waldweg,wikidata,,Q1713427;Q4421,way
+Waldweg,wikidata,,Q4421,way
 Walhallastraße,wikidata,,Q177860,way
 "Walkenrieder Straße",wikidata,,Q656314,way
 Walkürenstraße,wikidata,,Q324319,way
@@ -6849,6 +6849,7 @@ Grimnitzpark,,,,way
 Grohsteig,,,,way
 Grollstraße,,,,way
 "Gropius Passagen, Übergang",,,,way
+Groß-Berliner-Damm,,,,way
 "Große Promenade",,,,way
 "Große Querallee",,,,way
 "Großer Querweg",,,,way
@@ -6992,6 +6993,7 @@ K-Straße,,,,way
 K-Weg,,,,way
 "Kaiser Wilhelm Passage",,,,way
 Kaisersteg,,,,way
+Kaisertreppe,,,,way
 Kanalweg,,,,way
 Kanonenhof,,,,way
 Kantinenweg,,,,way
@@ -7849,6 +7851,7 @@ Winklerstraße,,,,way
 Winterfeldtmarkt,,,,way
 Wlikesweg,,,,way
 "Wriezener Freiraum-Labor",,,,way
+"Zalando BM1 Entrance",,,,way
 Zanderstraße,,,,way
 Zastrowstraße,,,,way
 "Zeile 10",,,,way
