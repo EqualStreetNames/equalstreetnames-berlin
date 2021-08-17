@@ -19,7 +19,7 @@
 <body class="d-flex align-items-center flex-column">
 
     <div class="list-group text-center mt-3">
-		<a href="de/index.html" class="list-group-item list-group-item-action">
+        <a href="de/index.html" class="list-group-item list-group-item-action">
             Deutsch
         </a>
         <a href="en/index.html" class="list-group-item list-group-item-action">
@@ -27,12 +27,12 @@
         </a>
     </div>
 
-    <script>
+    <script type="module">
         (function () {
             var language = navigator.language || navigator.browserLanguage;
 
             switch (language.slice(0, 2)) {
-				case "de": document.location.href = "de/index.html"; break;
+                case "de": document.location.href = "de/index.html"; break;
                 case "en": document.location.href = "en/index.html"; break;
             }
         })();
