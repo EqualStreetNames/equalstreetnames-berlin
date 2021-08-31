@@ -820,7 +820,6 @@ Bergweg,wikidata,,Q8502,way
 "Berkaer Straße",wikidata,,Q630334,way
 "Berkenbrücker Steig",wikidata,,Q627935,way
 "Berliner Allee",wikidata,,Q64,way
-"Berliner Freiheit",wikidata,,Q682258,way
 "Berliner Ring",wikidata,,Q64,way
 "Berliner Straße",wikidata,,Q321674;Q63410243;Q64,way
 "Berliner Weg",wikidata,,Q64,way
@@ -1201,7 +1200,6 @@ Cevennenstraße,wikidata,,Q626655,way
 "Chamer Weg",wikidata,,Q257859,way
 Champagneweg,wikidata,,Q273827,way
 Champignonstraße,wikidata,,Q390456,way
-Charitéplatz,wikidata,,Q162684,way
 Charitéstraße,wikidata,,Q162684,way
 "Charlottenbrunner Straße",wikidata,,Q987991,way
 "Charlottenburger Chaussee",wikidata,,Q162049,way
@@ -2002,7 +2000,7 @@ Garzweg,wikidata,,Q161898,way
 Gasag,wikidata,,Q1343030,way
 Gascogneweg,wikidata,,Q191085,way
 "Gasteiner Straße",wikidata,,Q254835,way
-"Gatower Straße",wikidata,,Q515832,way
+"Gatower Straße",wikidata,,Q515832;Q6857854,way
 "Gatower Weg",wikidata,,Q515832,way
 "Gaudacher Straße",wikidata,,Q22301,way
 "Gautinger Weg",wikidata,,Q74057,way
@@ -6714,7 +6712,6 @@ Drachenfels,,,,way
 Drachenwiese,,,,way
 Dregerhoffstraße,,,,way
 Drostestraße,,,,way
-Dunkweg,,,,way
 Dusekestraße,,,,way
 Düsterhauptstraße,,,,way
 E-Gestell,,,,way
