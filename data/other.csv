@@ -849,7 +849,6 @@ Besingweg,wikidata,,Q5413585,way
 Beskidenstraße,wikidata,,Q215573,way
 Bethaniendamm,wikidata,,Q831173,way
 Bethlehemkirchplatz,wikidata,,Q14236388,way
-Betulaweg,wikidata,,Q25243,way
 "Betzdorfer Pfad",wikidata,,Q543583,way
 Beutenweg,wikidata,,Q165107,way
 "Beuthener Straße",wikidata,,Q102350,way
@@ -1571,7 +1570,6 @@ Elfriedestraße,wikidata,,Q18327552,way
 Elisabethkirchstraße,wikidata,,Q321105,way
 Elise-und-Otto-Hampel-Weg,wikidata,,Q12403525,way
 Elkesteig,wikidata,,Q440735,way
-Ellaweg,wikidata,,Q988912,way
 "Ellerbeker Straße",wikidata,,Q574193,way
 Ellernweg,wikidata,,Q25239,way
 Ellistraße,wikidata,,Q19850781,way
@@ -3392,7 +3390,6 @@ Lankestrand,wikidata,,Q19697563,way
 Lanzelotstraße,wikidata,,Q215681,way
 "Lanzendorfer Weg",wikidata,,Q1265344,way
 "Lappiner Straße",wikidata,,Q2595554,way
-Laraweg,wikidata,,Q3217808,way
 Lärchenweg,wikidata,,Q25618,way
 "Lasdehner Straße",wikidata,,Q155606,way
 "Lassaner Straße",wikidata,,Q426353,way
@@ -3753,7 +3750,6 @@ Maskenzeisigweg,wikidata,,Q27075859,way
 Masurenallee,wikidata,,Q815834,way
 Masurenstraße,wikidata,,Q815834,way
 Masurenweg,wikidata,,Q815834,way
-Maßholderweg,wikidata,,Q158785,way
 Maßliebweg,wikidata,,Q26158,way
 Matenzeile,wikidata,,Q1434274,way
 Matestraße,wikidata,,Q1434274,way
@@ -3970,7 +3966,6 @@ Münsterlandstraße,wikidata,,Q1700,way
 Münzstraße,wikidata,,Q464780,way
 Murellenweg,wikidata,,Q1953639,way
 Müritzstraße,wikidata,,Q3369,way
-Murmeltierweg,wikidata,,Q131567,way
 "Murtener Straße",wikidata,,Q68283,way
 "Murtzaner Ring",wikidata,,Q702521,way
 "Mürwiker Straße",wikidata,,Q881904,way
@@ -6489,7 +6484,6 @@ Zypressenweg,wikidata,,Q146911,way
 33-Straße,,,,way
 "4. Steig",,,,way
 A-Weg,,,,way
-"AS 5 Holzhauser Straße",,,,way
 "ASV Schläusenland e.V.",,,,way
 "AVUS Nordkurve",,,,way
 Aaron-Bernstein-Platz,,,,way
@@ -6503,6 +6497,7 @@ Alpenweg,,,,way
 "Alte Spandauer Poststraße",,,,way
 "Alter Fließweg",,,,way
 "Alter Postweg",,,,way
+Alter-Robert-Park,,,,way
 "Am Alten Flugplatz",,,,way
 "Am Alten Lokschuppen",,,,way
 "Am Amtsgraben",,,,way
@@ -6915,6 +6910,7 @@ Helene-Jacobs-Straße,,,,way
 Hentzeweg,,,,way
 Herbert-Krause-Park,,,,way
 Hermann-Günther-Straße,,,,way
+Hermesweg,,,,way
 Hilda-Geiringer-Weg,,,,way
 Hillmannstraße,,,,way
 "Hinter dem Zeughaus",,,,way
@@ -6950,6 +6946,7 @@ Hörnersteig,,,,way
 Horterweg,,,,way
 Hospitalstraße,,,,way
 Humboldtsteg,,,,way
+Hummelweg,,,,way
 Hunckemüllerweg,,,,way
 I-Weg,,,,way
 Igelkolbensteig,,,,way
@@ -6978,6 +6975,7 @@ Johannes-Itten-Straße,,,,way
 Johannes-Werner-Straße,,,,way
 Johannisplatz,,,,way
 Johannisstraße,,,,way
+Joseph-von-Eichendorff-Gasse,,,,way
 Judengang,,,,way
 Judisgasse,,,,way
 "Jugendclub UFO",,,,way
@@ -7102,6 +7100,7 @@ Lüdickeweg,,,,way
 Ludwigshöheweg,,,,way
 Luisenhain,,,,way
 M-Weg,,,,way
+Magnolienweg,,,,way
 "Malchower Teichweg",,,,way
 Malevkeweg,,,,way
 Margaretenbrücke,,,,way
@@ -7123,6 +7122,7 @@ Melissenweg,,,,way
 Menzelweg,,,,way
 Metropole-Passage,,,,way
 "Metropolitan Park",,,,way
+Mezitli-Park,,,,way
 Minerva-Passage,,,,way
 Mittelallee,,,,way
 Mittelsteg,,,,way
@@ -7274,6 +7274,7 @@ Pyramidenringbrücke,,,,way
 "Quartierspark Hauptstraße",,,,way
 "Quartierspark Neubrandenburger Straße",,,,way
 "Quartierspark Rosenfelder Ring",,,,way
+Quartiersweg,,,,way
 Quastenhornweg,,,,way
 Querstraße,,,,way
 Querweg,,,,way
@@ -7335,9 +7336,9 @@ Rosestraße,,,,way
 Rothenbücherweg,,,,way
 Rotkopfweg,,,,way
 Rückerstraße,,,,way
+Rudolf-von-Gneist-Gasse,,,,way
 "Rudower Fließ",,,,way
 "Rudower Spinne",,,,way
-Ruhwaldpark,,,,way
 Rundweg,,,,way
 Russenbrücke,,,,way
 Rutnikstraße,,,,way
