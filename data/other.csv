@@ -338,7 +338,6 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Osrücken",wikidata,,Q1434274,way
 "Am Ostbahnhof",wikidata,,Q683239,way
 "Am Petersberg",wikidata,,Q1434274,way
-"Am Pfarracker",wikidata,,Q188869,way
 "Am Pfingstberg",wikidata,,Q54050,way
 "Am Pfuhl",wikidata,,Q291099,way
 "Am Pichelssee",wikidata,,Q33084959,way
@@ -358,7 +357,6 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Rheinischen Viertel",wikidata,,Q584,way
 "Am Ried",wikidata,,Q1681353,way
 "Am Ritterholz",wikidata,,Q9200005,way
-"Am Rodelberg",wikidata,,Q3266340;Q54050,way
 "Am Rohrgarten",wikidata,,Q1434274,way
 "Am Rollberg",wikidata,,Q2164006,way
 "Am Römersgrün",wikidata,,Q147276,way
@@ -612,7 +610,6 @@ Arkonastraße,wikidata,,Q4110,way
 Arkonaweg,wikidata,,Q4110,way
 Armbrustweg,wikidata,,Q181947,way
 "Armenische Straße",wikidata,,Q399,way
-"Arneburger Straße",wikidata,,Q493437,way
 Arnfriedstraße,wikidata,,Q693486,way
 Arnfriedweg,wikidata,,Q693486,way
 Arnheidstraße,wikidata,,Q33084013,way
@@ -1164,7 +1161,7 @@ Burgwallstraße,wikidata,,Q88598,way
 "Bürstadter Weg",wikidata,,Q524974,way
 Buschgraben,wikidata,,Q2048319,way
 Buschgrabenbrücke,wikidata,,Q2048319,way
-Buschgrabenweg,wikidata,,Q2048319,way
+Buschgrabenweg,wikidata,,Q20819363,way
 "Buschhüttener Weg",wikidata,,Q1017351,way
 "Buschiner Straße",wikidata,,Q2207800,way
 Buschkrugallee,wikidata,,Q97380780,way
@@ -2690,7 +2687,6 @@ Höpfertsteig,wikidata,,Q83358653,way
 "Hoppegarten Weg",wikidata,,Q375199,way
 "Hoppegartener Straße",wikidata,,Q375199,way
 "Hoppendorfer Straße",wikidata,,Q2269587,way
-"Hoppenrader Weg",wikidata,,Q104757864,way
 Horandweg,wikidata,,Q1627960,way
 "Horber Straße",wikidata,,Q82690,way
 "Horchheimer Weg",wikidata,,Q1777941,way
@@ -2870,7 +2866,6 @@ Jasminweg,wikidata,,Q515610,way
 "Jastrower Weg",wikidata,,Q199970,way
 "Jenaer Straße",wikidata,,Q3150,way
 "Jenbacher Weg",wikidata,,Q668227,way
-"Jerichower Straße",wikidata,,Q530090,way
 "Jerusalemer Straße",wikidata,,Q502315,way
 Jeverstraße,wikidata,,Q31084,way
 "Joachimsthaler Straße",wikidata,,Q1690674;Q535551,way
@@ -3384,7 +3379,6 @@ Langobardenallee,wikidata,,Q130900,way
 Langohrzeile,wikidata,,Q26838,way
 Langschanweg,wikidata,,Q840205,way
 "Lanker Straße",wikidata,,Q1805509,way
-Lankestrand,wikidata,,Q19697563,way
 "Lankwitzer Brücke",wikidata,,Q671474,way
 "Lankwitzer Straße",wikidata,,Q671474,way
 Lanzelotstraße,wikidata,,Q215681,way
@@ -3580,7 +3574,6 @@ Lötschbergstraße,wikidata,,Q870342,way
 "Löwenbrucher Weg",wikidata,,Q1794167,way
 Löwenmaulsteig,wikidata,,Q157646,way
 Löwenzahnweg,wikidata,,Q18452297,way
-"Lübarser Aue",wikidata,,Q11177275,way
 "Lübarser Straße",wikidata,,Q563664,way
 "Lübarser Weg",wikidata,,Q563664,way
 "Lübbenauer Weg",wikidata,,Q147895,way
@@ -4286,7 +4279,6 @@ Ottilienweg,wikidata,,Q1074232,way
 "Oxforder Straße",wikidata,,Q34217,way
 Oybinweg,wikidata,,Q502504,way
 "Paarener Straße",wikidata,,Q63539978,way
-Paddlerweg,wikidata,,Q1546758,way
 "Paderborner Straße",wikidata,,Q2971,way
 Palisadenstraße,wikidata,,Q90685,way
 Palmkernzeile,wikidata,,Q2048273,way
@@ -4865,7 +4857,6 @@ Rübländerstraße,wikidata,,Q1434274,way
 Rubusweg,wikidata,,Q602740,way
 Rudelsburgbrücke,wikidata,,Q896555,way
 Rudelsburgstraße,wikidata,,Q896555,way
-Rudererweg,wikidata,,Q159354,way
 "Rüdersdorfer Straße",wikidata,,Q39791,way
 "Rüdersdorfer Weg",wikidata,,Q39791,way
 "Rüdesheimer Platz",wikidata,,Q628118,way
@@ -5189,7 +5180,6 @@ Schwedenstraße,wikidata,,Q34,way
 Schwertlilienweg,wikidata,,Q156901,way
 "Schwiebusser Straße",wikidata,,Q387463,way
 Schwielowseestraße,wikidata,,Q318313,way
-Schwimmerweg,wikidata,,Q6388,way
 Schwirrammerweg,wikidata,,Q645203,way
 "Schwyzer Straße",wikidata,,Q68155,way
 Sderotplatz,wikidata,,Q123196,way
@@ -6467,6 +6457,7 @@ Zypressenweg,wikidata,,Q146911,way
 "ehem. Görlitzer Bahn",wikidata,,Q162558,way
 "ehem. Görlitzer Tunnel",wikidata,,Q4077,way
 "ehemalige Industriebahn Tegel–Friedrichsfelde",wikidata,,Q1391709,way
+"zum Bechstedter Weg",wikidata,,Q556764,way
 "1. Querweg",,,,way
 "2. Querweg",,,,way
 "2. Westtunnel",,,,way
@@ -6487,6 +6478,10 @@ A-Weg,,,,way
 "ASV Schläusenland e.V.",,,,way
 "AVUS Nordkurve",,,,way
 Aaron-Bernstein-Platz,,,,way
+"Achse der Kontinuität",,,,way
+"Achse des Exils",,,,way
+"Achse des Holocaust",,,,way
+Adolf-Kiepert-Steg,,,,way
 "Ahrensfelder Weg",,,,way
 Aktionspark,,,,way
 Alerichstraße,,,,way
@@ -6540,6 +6535,7 @@ Alter-Robert-Park,,,,way
 "Am Nordbahnhof",,,,way
 "Am Ortsrand",,,,way
 "Am Parkplatz",,,,way
+"Am Pfarracker",,,,way
 "Am Posseberg",,,,way
 "Am Rathauspark",,,,way
 "Am Reiherhorst",,,,way
@@ -6694,6 +6690,7 @@ Dechertstraße,,,,way
 Dessinstraße,,,,way
 Doehlweg,,,,way
 "Doktor Dorsch Allee",,,,way
+Doldenweg,,,,way
 Don-Ugoletti-Platz,,,,way
 Donathstraße,,,,way
 Downhill-Strecke,,,,way
@@ -6788,7 +6785,6 @@ Funkelgang,,,,way
 "Fußweg 475",,,,way
 "Fußweg 552",,,,way
 G-Weg,,,,way
-Gabrielensteg,,,,way
 Gajusstraße,,,,way
 Gallipoliweg,,,,way
 "Gang 1",,,,way
@@ -6837,7 +6833,6 @@ Grimnitzpark,,,,way
 Grohsteig,,,,way
 Grollstraße,,,,way
 "Gropius Passagen, Übergang",,,,way
-Groß-Berliner-Damm,,,,way
 "Große Promenade",,,,way
 "Große Querallee",,,,way
 "Großer Querweg",,,,way
@@ -6865,7 +6860,6 @@ Gummiweg,,,,way
 Günther-Weg,,,,way
 Güntherstraße,,,,way
 Gustav-Hertz-Platz,,,,way
-"Güterbahnhof Reinickendorf",,,,way
 Gütlingstraße,,,,way
 Gutspark,,,,way
 "Gutspark Groß Glienicke",,,,way
@@ -7053,6 +7047,7 @@ Krienickesteig,,,,way
 Krowelstraße,,,,way
 "Krumme Gärten",,,,way
 Krysiakweg,,,,way
+Kuckuckweg,,,,way
 "Kühler Grund",,,,way
 Kuhnertstraße,,,,way
 Kühneweg,,,,way
@@ -7067,6 +7062,7 @@ Kurt-Pfennig-Platz,,,,way
 Küsterstraße,,,,way
 L-Straße,,,,way
 L-Weg,,,,way
+Ladestraße,,,,way
 Lahmertstraße,,,,way
 Lakegrund,,,,way
 "Landeskalibrierstrecke Berlin",,,,way
@@ -7082,6 +7078,7 @@ Lasensteinweg,,,,way
 "Laufstrecke 1100m",,,,way
 Lederhülsenweg,,,,way
 Leharweg,,,,way
+Leonore-Goldschmidt-Straße,,,,way
 "Lern- und Nachbarschaftsgarten",,,,way
 Lesegarten,,,,way
 Libboldallee,,,,way
@@ -7103,6 +7100,7 @@ Ludwigshöheweg,,,,way
 Luisenhain,,,,way
 M-Weg,,,,way
 Magnolienweg,,,,way
+"Main Street",,,,way
 "Malchower Teichweg",,,,way
 Malevkeweg,,,,way
 Margaretenbrücke,,,,way
@@ -7406,6 +7404,7 @@ See-Terasse,,,,way
 Seeblick,,,,way
 Seeblickstraße,,,,way
 Seebrücke,,,,way
+Seelgrabenpark,,,,way
 Seepark,,,,way
 Seeweg,,,,way
 Segewaldweg,,,,way
@@ -7671,6 +7670,7 @@ Strandschlossweg,,,,way
 "Straße zur Albert-Kuntz-Straße",,,,way
 "Straße zur Parksiedlung Spruch",,,,way
 Strauchwiesenbrücke,,,,way
+"Straupitzer Steig",,,,way
 Strömannstraße,,,,way
 Studentenbad,,,,way
 Studentenweg,,,,way
@@ -7678,12 +7678,6 @@ Studentenweg,,,,way
 Südpark,,,,way
 Südplateau,,,,way
 Südstern,,,,way
-"TWY EAST I",,,,way
-"TWY EAST II",,,,way
-"TWY NORTH-EAST",,,,way
-"TWY WEST",,,,way
-"TWY WEST I",,,,way
-"TWY WEST II",,,,way
 Tabbertweg,,,,way
 Tacitusweg,,,,way
 Takuweg,,,,way
@@ -7806,7 +7800,6 @@ Wederstraße,,,,way
 "Weg C",,,,way
 "Weg D",,,,way
 "Weg E",,,,way
-"Weg G",,,,way
 "Weg I",,,,way
 "Weg II",,,,way
 "Weg III",,,,way
@@ -7823,6 +7816,7 @@ Weislingenstraße,,,,way
 Wellenpark,,,,way
 Werftstraße,,,,way
 Werkstättenweg,,,,way
+Werner-Richard-Heymann-Platz,,,,way
 Wernickestraße,,,,way
 Wernickeweg,,,,way
 Westendstraße,,,,way
@@ -7885,8 +7879,6 @@ Zinienweg,,,,way
 "Zwischen den Giebeln",,,,way
 "ehem. Friedhof Rathausstraße",,,,way
 "ehem. Fußgängertunnel",,,,way
-"ehemalige nördliche Start- und Landebahn",,,,way
-"ehemalige südliche Start- und Landebahn",,,,way
 "ehemaliger Zollweg",,,,way
 "kleiner Platz",,,,way
 "zur Anna-Maria-Müller-Straße",,,,way

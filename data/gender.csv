@@ -465,7 +465,6 @@ Alvenslebenstraße,wikidata,M,Q62653,way
 "Am Karlsbad",wikidata,M,Q442587,way
 "Am Rudolfplatz",wikidata,M,Q1305988,way
 Amendestraße,wikidata,M,Q101068576,way
-"An den Feldtmanngärten",wikidata,M,Q33085958,way
 Ancillonweg,wikidata,M,Q213768,way
 Andersenstraße,wikidata,M,Q5673,way
 Andersenweg,wikidata,M,Q5673,way
@@ -1071,6 +1070,7 @@ Essenplatz,wikidata,M,Q28872791,way
 Estersstraße,wikidata,M,Q1730905,way
 Etkar-André-Straße,wikidata,M,Q74697,way
 Eugen-Bolz-Kehre,wikidata,M,Q62666,way
+Eugen-Gerstenmaier-Platz,wikidata,M,Q66447,way
 Eugen-Kleine-Brücke,wikidata,M,Q55853513,way
 Eugen-Roth-Weg,wikidata,M,Q45294,way
 Eugen-Schönhaar-Straße,wikidata,M,Q1372884,way
@@ -1328,6 +1328,7 @@ Goerdelerdamm,wikidata,M,Q57430,way
 Goerdelerdammbrücke,wikidata,M,Q57430,way
 Goerdelersteg,wikidata,M,Q57430,way
 Goerzallee,wikidata,M,Q90200,way
+Goethepark,wikidata,M,Q5879,way
 Goethestraße,wikidata,M,Q5879,way
 Goetheweg,wikidata,M,Q5879,way
 Goldbeckweg,wikidata,M,Q104541937,way
@@ -1490,6 +1491,7 @@ Hans-Sachs-Straße,wikidata,M,Q19543,way
 Hans-Schiftan-Straße,wikidata,M,Q99229107,way
 Hans-Schmidt-Straße,wikidata,M,Q98231653,way
 Hans-Schomburgk-Promenade,wikidata,M,Q91999,way
+Hans-Söhnker-Platz,wikidata,M,Q76383,way
 Hans-Thoma-Straße,wikidata,M,Q678094,way
 Hans-Werner-Klünner-Weg,wikidata,M,Q104776176,way
 Hans-von-Bülow-Straße,wikidata,M,Q155540,way
@@ -1687,7 +1689,6 @@ Hugo-Wolf-Steig,wikidata,M,Q215747,way
 Hülsenplatz,wikidata,M,Q98677,way
 Humannplatz,wikidata,M,Q64445,way
 Humannstraße,wikidata,M,Q103827201,way
-Humboldtinsel,wikidata,M,Q6694;Q77888,way
 Humboldtstraße,wikidata,M,Q6694;Q77888,way
 Hummelstraße,wikidata,M,Q444252,way
 Humperdinckstraße,wikidata,M,Q55010,way
@@ -2531,7 +2532,6 @@ Pflügerstraße,wikidata,M,Q101561375,way
 Pflugstraße,wikidata,M,Q1458009,way
 Pfuelstraße,wikidata,M,Q64037,way
 Philipp-Franck-Weg,wikidata,M,Q2086720,way
-Philipp-Gerlach-Weg,wikidata,M,Q101655,way
 Philippistraße,wikidata,M,Q214994,way
 Pietschkerstraße,wikidata,M,Q2560676,way
 Pietschweg,wikidata,M,Q896273,way
@@ -3375,7 +3375,6 @@ Yitzhak-Rabin-Straße,wikidata,M,Q34060,way
 "Yorckbrücke 10",wikidata,M,Q65432,way
 "Yorckbrücke 11",wikidata,M,Q65432,way
 "Yorckbrücke 14",wikidata,M,Q65432,way
-"Yorckbrücke 15",wikidata,M,Q65432,way
 "Yorckbrücke 17",wikidata,M,Q65432,way
 Yorckstraße,wikidata,M,Q65432,way
 Zabel-Krüger-Damm,wikidata,M,Q92541153,way
