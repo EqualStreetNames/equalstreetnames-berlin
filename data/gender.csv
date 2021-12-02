@@ -272,6 +272,7 @@ Lotte-Lenya-Bogen,wikidata,F,Q93604,way
 Louise-Henry-Straße,wikidata,F,Q23645741,way
 Louise-Schroeder-Platz,wikidata,F,Q104581,way
 Lowise-Reuter-Ring,wikidata,F,Q1876655,way
+Lucie-Strewe-Platz,wikidata,F,Q37939169,way
 Lucy-Lameck-Straße,wikidata,F,Q42753123,way
 Lüdersstraße,wikidata,F,Q1333678,way
 Luise-Henriette-Straße,wikidata,F,Q196301,way
@@ -551,7 +552,6 @@ Baumbachstraße,wikidata,M,Q322628,way
 Baumeisterstraße,wikidata,M,Q24890,way
 Bäumerplan,wikidata,M,Q71091,way
 Baumertweg,wikidata,M,Q104776079,way
-Baußnernweg,wikidata,M,Q76216,way
 Bebelplatz,wikidata,M,Q76520,way
 Becherweg,wikidata,M,Q60808,way
 Bechsteinweg,wikidata,M,Q66379,way
@@ -787,6 +787,7 @@ Buttenstedtweg,wikidata,M,Q1037213,way
 Buttmannstraße,wikidata,M,Q2086620,way
 Büxensteinallee,wikidata,M,Q1462959,way
 Byronweg,wikidata,M,Q5679,way
+Calandrelli-Anlage,wikidata,M,Q569182,way
 Calandrellistraße,wikidata,M,Q569182,way
 Calvinstraße,wikidata,M,Q37577,way
 Campestraße,wikidata,M,Q45245,way
@@ -1560,6 +1561,7 @@ Heinrich-Seidel-Straße,wikidata,M,Q74585,way
 Heinrich-Stahl-Weg,wikidata,M,Q1598924,way
 Heinrich-Zille-Weg,wikidata,M,Q498211,way
 Heinrich-von-Gagern-Straße,wikidata,M,Q65230,way
+Heinrich-von-Kleist-Park,wikidata,M,Q28494,way
 Heinrichstraße,wikidata,M,Q57569,way
 Heinz-Bartsch-Straße,wikidata,M,Q96194308,way
 Heinz-Brandt-Straße,wikidata,M,Q1513090,way
@@ -1894,7 +1896,6 @@ Kleinaustraße,wikidata,M,Q15842690,way
 "Kleine Homeyerstraße",wikidata,M,Q96595,way
 "Kleine Wiltbergstraße",wikidata,M,Q99735728,way
 Kleineweg,wikidata,M,Q17325972,way
-Kleistpark,wikidata,M,Q28494,way
 Kleiststraße,wikidata,M,Q213784;Q28494,way
 Kleistweg,wikidata,M,Q28494,way
 Klemkestraße,wikidata,M,Q91558817,way
@@ -2221,7 +2222,6 @@ Maßmannstraße,wikidata,M,Q68085,way
 Matkowskystraße,wikidata,M,Q347567,way
 Matternstraße,wikidata,M,Q2417980,way
 Matthäusweg,wikidata,M,Q43600,way
-Matthesstraße,wikidata,M,Q104004900,way
 Matthiasstraße,wikidata,M,Q2803399,way
 Maurice-Ravel-Straße,wikidata,M,Q1178,way
 Mauserstraße,wikidata,M,Q66665,way
@@ -2532,6 +2532,7 @@ Pflügerstraße,wikidata,M,Q101561375,way
 Pflugstraße,wikidata,M,Q1458009,way
 Pfuelstraße,wikidata,M,Q64037,way
 Philipp-Franck-Weg,wikidata,M,Q2086720,way
+Philipp-Gerlach-Weg,wikidata,M,Q101655,way
 Philippistraße,wikidata,M,Q214994,way
 Pietschkerstraße,wikidata,M,Q2560676,way
 Pietschweg,wikidata,M,Q896273,way
@@ -3177,12 +3178,12 @@ Voigtstraße,wikidata,M,Q101252092,way
 Volmerstraße,wikidata,M,Q65226,way
 Voltairestraße,wikidata,M,Q9068,way
 Voltastraße,wikidata,M,Q680,way
-"Von der Schulenburg Park",wikidata,M,Q2174321,way
 Von-Laue-Straße,wikidata,M,Q57067,way
 Von-Luck-Straße,wikidata,M,Q94922601,way
 Von-Wettstein-Straße,wikidata,M,Q86471,way
 Von-der-Gablentz-Straße,wikidata,M,Q2039101,way
 Von-der-Heydt-Straße,wikidata,M,Q765327,way
+Von-der-Schulenburg-Park,wikidata,M,Q2174321,way
 Von-der-Trenck-Straße,wikidata,M,Q84363,way
 Vopeliuspfad,wikidata,M,Q2150809,way
 Vorbergstraße,wikidata,M,Q102355206,way
