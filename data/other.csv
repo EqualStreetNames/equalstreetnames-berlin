@@ -86,7 +86,6 @@ Aloisiusweg,wikidata,,Q21142305,way
 "Alpenberger Straße",wikidata,,Q99735523,way
 Alpenrose,wikidata,,Q255516,way
 Alpenrosenweg,wikidata,,Q255516,way
-Alpenveilchenweg,wikidata,,Q147295,way
 "Alpnacher Weg",wikidata,,Q69296,way
 Alsaceweg,wikidata,,Q1142,way
 Alsenstraße,wikidata,,Q165383,way
@@ -460,7 +459,6 @@ Amanlisweg,wikidata,,Q19601990,way
 Amberbaumallee,wikidata,,Q183543,way
 Amboßweg,wikidata,,Q104363,way
 Ameisenweg,wikidata,,Q7386,way
-Amelieweg,wikidata,,Q18171830,way
 Amfortasweg,wikidata,,Q55010983,way
 Ammerseestraße,wikidata,,Q265336,way
 "Amorbacher Weg",wikidata,,Q474051,way
@@ -660,7 +658,6 @@ Augenfalterstraße,wikidata,,Q612468,way
 "Aumetzer Weg",wikidata,,Q22100,way
 "Aumühler Straße",wikidata,,Q59977,way
 "Auraser Weg",wikidata,,Q9366988,way
-Aurikelweg,wikidata,,Q164186,way
 Aurorafalterweg,wikidata,,Q322180,way
 Axenstraße,wikidata,,Q792468,way
 Azaleenstraße,wikidata,,Q5986917,way
@@ -1178,6 +1175,7 @@ Campingweg,wikidata,,Q455550,way
 Cannaweg,wikidata,,Q161182,way
 Cantalweg,wikidata,,Q3259,way
 "Caseler Straße",wikidata,,Q659935,way
+Cassinohof,wikidata,,Q116592,way
 Cedernstraße,wikidata,,Q128550,way
 Cedernweg,wikidata,,Q128550,way
 Centweg,wikidata,,Q58093,way
@@ -1669,7 +1667,6 @@ Ewaldstraße,wikidata,,Q18343061,way
 "Fachinger Straße",wikidata,,Q771685,way
 Fafnerstraße,wikidata,,Q745315,way
 Fagottstraße,wikidata,,Q159998,way
-Fähenweg,wikidata,,Q1400844,way
 Fahlenbergstraße,wikidata,,Q1434274,way
 Fährallee,wikidata,,Q25653,way
 "Fahrlander Weg",wikidata,,Q1392441,way
@@ -2242,6 +2239,7 @@ Großcreutzweg,wikidata,,Q97440857,way
 "Große Seestraße",wikidata,,Q2557099,way
 "Große Sternallee",wikidata,,Q564929,way
 "Großenhainer Weg",wikidata,,Q8714,way
+"Großer Spreering",wikidata,,Q1684,way
 "Großer Stern",wikidata,,Q1678403,way
 Großgörschenstraße,wikidata,,Q329534,way
 "Grottkauer Straße",wikidata,,Q941844,way
@@ -2447,7 +2445,6 @@ Heidebergplan,wikidata,,Q1434274,way
 Heidefalterweg,wikidata,,Q1306216,way
 Heidekampweg,wikidata,,Q1124741,way
 Heidekrautbahnring,wikidata,,Q1593971,way
-Heidekrautweg,wikidata,,Q975872,way
 Heidelandstraße,wikidata,,Q27590,way
 Heideläuferweg,wikidata,,Q97441341,way
 Heidelbeerweg,wikidata,,Q5413585,way
@@ -3507,7 +3504,6 @@ Lissabonallee,wikidata,,Q597,way
 "Livländische Straße",wikidata,,Q183464,way
 "Löbauer Weg",wikidata,,Q987188,way
 "Lobber Steig",wikidata,,Q1712959,way
-Lobelienweg,wikidata,,Q158182,way
 Lobitzweg,wikidata,,Q36974413,way
 "Löblauer Pfad",wikidata,,Q2615354,way
 Locarnoweg,wikidata,,Q11935,way
@@ -4597,7 +4593,7 @@ Rebhuhnweg,wikidata,,Q26106,way
 "Recklinghauser Weg",wikidata,,Q3050,way
 "Reetzer Weg",wikidata,,Q989432,way
 Reformationsplatz,wikidata,,Q12562,way
-Regattastraße,wikidata,,Q126701,way
+Regattastraße,wikidata,,Q126701;Q2137263,way
 Regattaufer,wikidata,,Q2137251,way
 "Regener Straße",wikidata,,Q489059,way
 "Regensburger Straße",wikidata,,Q2978,way
@@ -5895,7 +5891,6 @@ Waldfriedenstraße,wikidata,,Q31910828,way
 Waldhornstraße,wikidata,,Q163759,way
 Waldhüterpfad,wikidata,,Q27949260,way
 Waldkauzstraße,wikidata,,Q25756,way
-Waldkiefernring,wikidata,,Q133128,way
 "Waldkraiburger Straße",wikidata,,Q282458,way
 Waldläuferweg,wikidata,,Q51073293,way
 Waldmeisterstraße,wikidata,,Q161090,way
@@ -6475,7 +6470,6 @@ Alter-Robert-Park,,,,way
 "Am Kanal",,,,way
 "Am Kienhorstgraben",,,,way
 "Am Kiesberg",,,,way
-"Am Kirchendreieck",,,,way
 "Am Kirchenland",,,,way
 "Am Kirschgarten",,,,way
 "Am Kleinen Platz",,,,way
@@ -6538,7 +6532,6 @@ Amtsstraße,,,,way
 "An der Karlshorster Heide",,,,way
 "An der Kolonnade",,,,way
 "An der Laake",,,,way
-"An der Schutzbepflanzung",,,,way
 "An der Spitze",,,,way
 "An der Spreeschanze",,,,way
 "An der Straße",,,,way
@@ -7072,6 +7065,7 @@ Marksweg,,,,way
 Mathildesweg,,,,way
 Mauerweg,,,,way
 Mäusetunnel,,,,way
+Max-Fettling-Platz,,,,way
 Max-Koch-Passage,,,,way
 Max-Kollo-Weg,,,,way
 Mayschweg,,,,way
@@ -7160,6 +7154,7 @@ Otto-Reuter-Weg,,,,way
 Ottoweg,,,,way
 P-Weg,,,,way
 Panoramastraße,,,,way
+"Papenberger Weg",,,,way
 Pardemannstraße,,,,way
 "Park Hellwichstorp",,,,way
 "Park Hewald",,,,way
@@ -7526,7 +7521,6 @@ Strandschlossweg,,,,way
 "Straße 34",,,,way
 "Straße 35",,,,way
 "Straße 354",,,,way
-"Straße 357",,,,way
 "Straße 36",,,,way
 "Straße 366",,,,way
 "Straße 367",,,,way
