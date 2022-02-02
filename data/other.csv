@@ -1085,7 +1085,7 @@ Brüderstraße,wikidata,,Q548320;Q131479;Q996839,way
 Brunhildstraße,wikidata,,Q33093599,way
 Brunnenkresseweg,wikidata,,Q150452,way
 Brunnenpassage,wikidata,,Q43483,way
-Brunnenplatz,wikidata,,Q26821734;Q43483,way
+Brunnenplatz,wikidata,,Q26821734,way
 Brunnenstraße,wikidata,,Q26821734,way
 Brunnenweg,wikidata,,Q43483,way
 Brünnhildestraße,wikidata,,Q850506,way
@@ -4717,7 +4717,6 @@ Ritterspornweg,wikidata,,Q160107,way
 Ritterstraße,wikidata,,Q102083,way
 "Rixdorfer Straße",wikidata,,Q169492;Q325748,way
 "Röbeler Weg",wikidata,,Q20265,way
-Robinienallee,wikidata,,Q157417,way
 Robinienweg,wikidata,,Q157417;Q472943,way
 "Rochlitzer Weg",wikidata,,Q71180,way
 "Rockenhausener Straße",wikidata,,Q22955,way
@@ -6173,7 +6172,7 @@ Winzerstraße,wikidata,,Q897317,way
 Wipperstraße,wikidata,,Q663709,way
 "Wippraer Weg",wikidata,,Q701343,way
 "Wirsitzer Weg",wikidata,,Q988588,way
-"Wisbyer Platz",wikidata,,Q54757,way
+"Wisbyer Platz / Park an der Baumbachstraße",wikidata,,Q54757,way
 "Wisbyer Straße",wikidata,,Q54757,way
 Wischbergeweg,wikidata,,Q1759191,way
 Wischmattenweg,wikidata,,Q7777019,way
@@ -6608,6 +6607,7 @@ Brehmestraße,,,,way
 Breitehornweg,,,,way
 Breitensteinweg,,,,way
 Brekowweg,,,,way
+Brigitte-Reimann-Straße,,,,way
 Britzer-Allee-Brücke,,,,way
 Bruchweg,,,,way
 "Brücke am Heiligentalhügel",,,,way
@@ -6629,7 +6629,6 @@ Burgunderweg,,,,way
 C-Weg,,,,way
 "Carl Leid Weg",,,,way
 Carl-Langbecker-Str.,,,,way
-Carl-Weder-Park,,,,way
 Chantiéweg,,,,way
 Charlottenweg,,,,way
 Colbestraße,,,,way
@@ -6761,6 +6760,7 @@ Georgeweg,,,,way
 Georgsteg,,,,way
 "Gerader Weg",,,,way
 Gerlach-Wiese,,,,way
+Gertrud-Pincus-Platz,,,,way
 "Gewerbegebiet zum Wasserwerk",,,,way
 Gipsdreieck,,,,way
 Glassstraße,,,,way
@@ -6794,6 +6794,7 @@ Grottewitz-Weg,,,,way
 "Grünanlage Eichenhain",,,,way
 "Grünanlage Lilienthalstraße",,,,way
 "Grünanlage Tauernallee",,,,way
+Grundackerweg,,,,way
 Grundweg,,,,way
 Grüner-Hahn-Weg,,,,way
 "Grunewald West",,,,way
@@ -6854,6 +6855,7 @@ Heinweg,,,,way
 Heinz-Gesper-Weg,,,,way
 Heinz-Prillwitz-Weg,,,,way
 Helene-Jacobs-Straße,,,,way
+Helgolandweg,,,,way
 Hentzeweg,,,,way
 Herbert-Krause-Park,,,,way
 Hermann-Günther-Straße,,,,way
@@ -6893,7 +6895,6 @@ Hörnersteig,,,,way
 "Hortensienplatz WG",,,,way
 Horterweg,,,,way
 Hospitalstraße,,,,way
-Humboldtsteg,,,,way
 Hummelweg,,,,way
 Hunckemüllerweg,,,,way
 I-Weg,,,,way
@@ -7156,7 +7157,6 @@ P-Weg,,,,way
 Panoramastraße,,,,way
 "Papenberger Weg",,,,way
 Pardemannstraße,,,,way
-"Park Hellwichstorp",,,,way
 "Park Hewald",,,,way
 "Park am Nordbahnhof",,,,way
 "Park am Weidengrund",,,,way
@@ -7231,6 +7231,7 @@ Pyramidenringbrücke,,,,way
 "Quartierspark Neubrandenburger Straße",,,,way
 "Quartierspark Rosenfelder Ring",,,,way
 Quartiersweg,,,,way
+Quartierweg,,,,way
 Quastenhornweg,,,,way
 Querstraße,,,,way
 Querweg,,,,way
@@ -7361,7 +7362,6 @@ See-Terasse,,,,way
 Seeblick,,,,way
 Seeblickstraße,,,,way
 Seebrücke,,,,way
-Seelgrabenpark,,,,way
 Seepark,,,,way
 Seeweg,,,,way
 Segewaldweg,,,,way
@@ -7572,8 +7572,6 @@ Strandschlossweg,,,,way
 "Straße 614",,,,way
 "Straße 618",,,,way
 "Straße 62",,,,way
-"Straße 63",,,,way
-"Straße 64",,,,way
 "Straße 645",,,,way
 "Straße 65",,,,way
 "Straße 659",,,,way
@@ -7735,7 +7733,6 @@ Wasserkräuterweg,,,,way
 Wasserwegbrücke,,,,way
 "Wasserwerk an der Wuhlheide",,,,way
 Wateweg,,,,way
-Wederstraße,,,,way
 "Weg 1",,,,way
 "Weg 10",,,,way
 "Weg 11",,,,way
@@ -7826,6 +7823,7 @@ Zentralweg,,,,way
 Zernickstraße,,,,way
 Zinienweg,,,,way
 "Zu den Müggelheimer Wiesen",,,,way
+"Zum Forsthaus",,,,way
 "Zum Klötzbecken",,,,way
 "Zum Klötzhain",,,,way
 "Zum Rübländer Graben",,,,way
