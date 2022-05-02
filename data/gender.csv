@@ -64,7 +64,6 @@ Bettinastraße,wikidata,F,Q57236,way
 Betty-Hirsch-Platz,wikidata,F,Q850357,way
 Boenkestraße,wikidata,F,Q1510954,way
 Bohm-Schuch-Weg,wikidata,F,Q1095244,way
-Bona-Peiser-Weg,wikidata,F,Q892042,way
 Boraweg,wikidata,F,Q77239,way
 Carola-Neher-Straße,wikidata,F,Q85450,way
 Caroline-Herschel-Platz,wikidata,F,Q76948,way
@@ -173,7 +172,6 @@ Hedwig-Wachenheim-Straße,wikidata,F,Q1593412,way
 Hedwigstraße,wikidata,F,Q107435841;Q19689438;Q271509;Q57520,way
 Helen-Ernst-Straße,wikidata,F,Q1478650,way
 Helen-Keller-Weg,wikidata,F,Q38203,way
-Helene-Jung-Platz,wikidata,F,Q97480624,way
 Helene-Nathan-Weg,wikidata,F,Q1602002,way
 Helene-Weber-Straße,wikidata,F,Q95851,way
 Helene-Weigel-Platz,wikidata,F,Q60528,way
@@ -207,6 +205,7 @@ Ingrid-Goltzsche-Schwarz-Straße,wikidata,F,Q99529441,way
 Irenenstraße,wikidata,F,Q233990,way
 Jeanette-Wolff-Straße,wikidata,F,Q123313,way
 Jeanne-Mammen-Bogen,wikidata,F,Q548298,way
+Jelena-Šantić-Friedenspark,wikidata,F,Q1686678,way
 Jenny-Lind-Straße,wikidata,F,Q231345,way
 Johanna-Hofer-Straße,wikidata,F,Q87272,way
 Johanna-Spyri-Weg,wikidata,F,Q123053,way
@@ -228,7 +227,6 @@ Katharina-Heinroth-Ufer,wikidata,F,Q1670522,way
 Katharina-Paulus-Straße,wikidata,F,Q125288,way
 Katharinenstraße,wikidata,F,Q16277712;Q267483,way
 Käthe-Dorsch-Ring,wikidata,F,Q109505,way
-Käthe-Heinemann-Weg,wikidata,F,Q15824771,way
 Käthe-Niederkirchner-Straße,wikidata,F,Q1795540,way
 Käthe-Paulus-Zeile,wikidata,F,Q125288,way
 Kirchnerpfad,wikidata,F,Q87358,way
@@ -292,6 +290,7 @@ Margarete-Walter-Straße,wikidata,F,Q1546023,way
 Margaretenstraße,wikidata,F,Q17456902;Q61338,way
 Maria-Jankowski-Park,wikidata,F,Q98831535,way
 Maria-Matray-Straße,wikidata,F,Q108306,way
+Maria-von-Maltzan-Platz,wikidata,F,Q85201,way
 Mariane-von-Rantzau-Straße,wikidata,F,Q33103677,way
 Marianne-Hapig-Weg,wikidata,F,Q44528742,way
 Mariannenplatz,wikidata,F,Q261889,way
@@ -326,6 +325,7 @@ Minna-Cauer-Straße,wikidata,F,Q75202,way
 Minna-Flake-Platz,wikidata,F,Q22236692,way
 Minna-Todenhagen-Brücke,wikidata,F,Q21031894,way
 Minna-Todenhagen-Straße,wikidata,F,Q21031894,way
+Mittelweg,wikidata,F,Q12046227;Q1337337;Q23595,way
 Mutter-Mochow-Weg,wikidata,F,Q97460633,way
 Nelly-Sachs-Park,wikidata,F,Q57074,way
 Nelly-Sachs-Straße,wikidata,F,Q57074,way
@@ -442,7 +442,7 @@ Alfred-Lion-Steg,wikidata,M,Q68260,way
 Alfred-Randt-Straße,wikidata,M,Q2645704,way
 Alfred-Rojek-Weg,wikidata,M,Q15518371,way
 Alfred-Siggel-Weg,wikidata,M,Q2645908,way
-"Allée St. Exupéry",wikidata,M,Q2908,way
+"Allée St. Exupéry",wikidata,M,Q2908;Q63351038,way
 Allendeweg,wikidata,M,Q440,way
 Allmersweg,wikidata,M,Q74511,way
 Almstadtstraße,wikidata,M,Q824696,way
@@ -1241,6 +1241,7 @@ Galvanistraße,wikidata,M,Q1589,way
 Ganghoferstraße,wikidata,M,Q77475,way
 Gansbergsteig,wikidata,M,Q106269,way
 Ganzhornweg,wikidata,M,Q98767,way
+Garbátyplatz,wikidata,M,Q1704637,way
 Garibaldistraße,wikidata,M,Q539,way
 Garystraße,wikidata,M,Q1912560,way
 Gätzschmannpfad,wikidata,M,Q1947898,way
@@ -1805,7 +1806,6 @@ Kafkastraße,wikidata,M,Q905,way
 Kahlstraße,wikidata,M,Q85295,way
 Kainzstraße,wikidata,M,Q697592,way
 Kaiser-Friedrich-Straße,wikidata,M,Q58600,way
-Kaiser-Wilhelm-Platz,wikidata,M,Q150652,way
 Kaiser-Wilhelm-Straße,wikidata,M,Q150652,way
 Kaiserallee,wikidata,M,Q2677,way
 Kaiserdamm,wikidata,M,Q2677,way
@@ -2324,7 +2324,6 @@ Morusstraße,wikidata,M,Q42544,way
 Mosischstraße,wikidata,M,Q100524363,way
 Motardstraße,wikidata,M,Q82721981,way
 Motzstraße,wikidata,M,Q1463898,way
-Mozartring,wikidata,M,Q254,way
 Mozartstraße,wikidata,M,Q254,way
 Mudrastraße,wikidata,M,Q73400,way
 Mühsamstraße,wikidata,M,Q61722,way
@@ -2612,7 +2611,6 @@ Rauchstraße,wikidata,M,Q50810;Q714972,way
 Raumerstraße,wikidata,M,Q100278,way
 Räuschstraße,wikidata,M,Q104215737,way
 Rausendorffweg,wikidata,M,Q104577531,way
-Raußendorffplatz,wikidata,M,Q55674411,way
 Ravenéstraße,wikidata,M,Q1282622,way
 Réaumurstraße,wikidata,M,Q310779,way
 Reckeweg,wikidata,M,Q99453186,way
@@ -2655,6 +2653,7 @@ Richard-Tauber-Damm,wikidata,M,Q78632,way
 Richard-Wagner-Platz,wikidata,M,Q1511,way
 Richard-Wagner-Straße,wikidata,M,Q1511,way
 Richard-Willstätter-Straße,wikidata,M,Q77072,way
+Richard-von-Weizsäcker-Platz,wikidata,M,Q150652;Q2567,way
 Richnowstraße,wikidata,M,Q104767270,way
 Richterstraße,wikidata,M,Q761234;Q85794303,way
 Riedemannweg,wikidata,M,Q125007,way
@@ -3218,7 +3217,6 @@ Walter-Linse-Straße,wikidata,M,Q84420,way
 Walter-May-Weg,wikidata,M,Q2545498,way
 "Walter-Nicklitz Promenade",wikidata,M,Q1230223,way
 Walter-Nicklitz-Promenade,wikidata,M,Q1230223,way
-Walter-Röber-Brücke,wikidata,M,Q19513838,way
 Walterhöferstraße,wikidata,M,Q97924969,way
 Waltharistraße,wikidata,M,Q505630,way
 Walther-Huth-Straße,wikidata,M,Q101801,way
@@ -3329,7 +3327,6 @@ Wintersteinstraße,wikidata,M,Q1583141,way
 Wintgensstraße,wikidata,M,Q75225,way
 Wirmerzeile,wikidata,M,Q75415,way
 Wisserweg,wikidata,M,Q105040,way
-Wissmannstraße,wikidata,M,Q77401,way
 Wißlerstraße,wikidata,M,Q98831627,way
 Wittekindstraße,wikidata,M,Q320348,way
 Wittestraße,wikidata,M,Q2079091,way
@@ -3394,6 +3391,7 @@ Zeuschelstraße,wikidata,M,Q104215648,way
 Ziegrastraße,wikidata,M,Q104034278,way
 Ziehrerweg,wikidata,M,Q696576,way
 Ziekowstraße,wikidata,M,Q66818897,way
+Zietenplatz,wikidata,M,Q63053,way
 Zietenstraße,wikidata,M,Q63053;Q67913,way
 Zillepromenade,wikidata,M,Q498211,way
 Zillestraße,wikidata,M,Q498211,way
