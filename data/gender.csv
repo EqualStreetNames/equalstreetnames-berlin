@@ -104,6 +104,7 @@ Edith-Stein-Straße,wikidata,F,Q76749,way
 Eisenblätterstraße,wikidata,F,Q99930,way
 Elfriede-Kuhr-Straße,wikidata,F,Q29556678,way
 Elfriede-Tygör-Straße,wikidata,F,Q1328674,way
+Elisabeth-Abegg-Straße,wikidata,F,Q90838,way
 Elisabeth-Christinen-Straße,wikidata,F,Q60262,way
 Elisabeth-Feller-Weg,wikidata,F,Q1329895,way
 Elisabeth-Flickenschildt-Straße,wikidata,F,Q92249,way
@@ -151,7 +152,6 @@ Gabrielenstraße,wikidata,F,Q15447620,way
 Genovevastraße,wikidata,F,Q269052,way
 Gertraudenbrücke,wikidata,F,Q235619,way
 Gertraudenstraße,wikidata,F,Q235619,way
-Gertrud-Classen-Platz,wikidata,F,Q15713781,way
 Gertrud-Dorka-Weg,wikidata,F,Q1515544,way
 Gertrud-Hanna-Promenade,wikidata,F,Q1515567,way
 Gertrud-Kolmar-Straße,wikidata,F,Q68204,way
@@ -1339,7 +1339,7 @@ Gontardstraße,wikidata,M,Q68768,way
 Gontermannstraße,wikidata,M,Q71225,way
 Gorgasring,wikidata,M,Q104541871,way
 Gorissenstraße,wikidata,M,Q1332064,way
-Gorkistraße,wikidata,M,Q12706,way
+Gorkistraße,wikidata,M,Q12706;Q1998000,way
 Gormannstraße,wikidata,M,Q96140597,way
 Görresstraße,wikidata,M,Q215730,way
 Görschstraße,wikidata,M,Q104711930,way
@@ -2850,7 +2850,6 @@ Schnellerstraße,wikidata,M,Q1360122,way
 Schneppenhorstweg,wikidata,M,Q97306,way
 Schoelerpark,wikidata,M,Q18280229,way
 Schomburgstraße,wikidata,M,Q98271253,way
-Schönbergerweg,wikidata,M,Q154770,way
 Schönbergweg,wikidata,M,Q154770,way
 Schönburgstraße,wikidata,M,Q104767231,way
 Schongauerstraße,wikidata,M,Q155575,way
@@ -2936,7 +2935,6 @@ Shakespeareplatz,wikidata,M,Q692,way
 Shawweg,wikidata,M,Q19185,way
 Sibeliusweg,wikidata,M,Q45682,way
 Sickingenstraße,wikidata,M,Q143108,way
-Siddharthaweg,wikidata,M,Q9441,way
 Siegfried-Aufhäuser-Platz,wikidata,M,Q95488,way
 Siegfried-Baruch-Weg,wikidata,M,Q104709483,way
 Siegfried-Berger-Straße,wikidata,M,Q2283219,way
