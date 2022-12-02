@@ -2623,7 +2623,6 @@ Hottengrundweg,wikidata,,Q2499829,way
 "Hoyerswerdaer Straße",wikidata,,Q14904,way
 "Hubertusbader Straße",wikidata,,Q1633634,way
 Hufenweg,wikidata,,Q1634068,way
-Hüfnerweg,wikidata,,Q1634104,way
 Hügelschanze,wikidata,,Q91203,way
 Hugenottenplatz,wikidata,,Q101935,way
 "Hultschiner Damm",wikidata,,Q158257,way
@@ -3232,6 +3231,7 @@ Länderallee,wikidata,,Q1221156,way
 Landgartenweg,wikidata,,Q1434274,way
 Landgrafenstraße,wikidata,,Q841633,way
 Landhausstraße,wikidata,,Q16884952,way
+Landhausweg,wikidata,,Q16884952,way
 Landjägerstraße,wikidata,,Q690378,way
 Landreiterweg,wikidata,,Q94646114,way
 Landréstraße,wikidata,,Q733832,way
@@ -3470,7 +3470,6 @@ Ludwigkirchstraße,wikidata,,Q1754571,way
 "Ludwigsfelder Straße",wikidata,,Q574170,way
 "Ludwigsluster Straße",wikidata,,Q156119,way
 Luftschifferweg,wikidata,,Q133585,way
-Lugierring,wikidata,,Q1094816,way
 "Luisenstädtischer Kirchpark",wikidata,,Q6701345,way
 Lukasstraße,wikidata,,Q20790,way
 Lummenweg,wikidata,,Q838599,way
@@ -4310,7 +4309,6 @@ Pohleseestraße,wikidata,,Q1236041,way
 Pöhligsteinweg,wikidata,,Q101002854,way
 "Polcher Weg",wikidata,,Q629314,way
 Poleigrund,wikidata,,Q161235,way
-Polierweg,wikidata,,Q15669672,way
 "Pölitzer Straße",wikidata,,Q208022,way
 "Polkwitzer Straße",wikidata,,Q246685,way
 "Pollnower Weg",wikidata,,Q988622,way
@@ -4872,7 +4870,6 @@ Schluchseestraße,wikidata,,Q835671,way
 Schlütersteig,wikidata,,Q1236505,way
 "Schmaler Weg",wikidata,,Q12046227,way
 "Schmargendorfer Straße",wikidata,,Q641689,way
-"Schmellwitzer Weg",wikidata,,Q37850673,way
 Schmetterlingsplatz,wikidata,,Q28319,way
 Schmetterlingswiesen,wikidata,,Q28319,way
 Schmidtstraße,wikidata,,Q15240355,way
@@ -5269,7 +5266,6 @@ Steinmeisterweg,wikidata,,Q1344921,way
 Steinsperlingweg,wikidata,,Q736313,way
 Steinträgerweg,wikidata,,Q1633736,way
 Steinweg,wikidata,,Q22731,way
-Stellmacherweg,wikidata,,Q833418,way
 Stelzenweg,wikidata,,Q230042,way
 "Stendaler Straße",wikidata,,Q7082,way
 "Stepenitzer Weg",wikidata,,Q7767291,way
@@ -6101,7 +6097,6 @@ Zampastraße,wikidata,,Q145935,way
 Zangenbergweg,wikidata,,Q146899,way
 Zangengasse,wikidata,,Q13049940,way
 "Zanower Weg",wikidata,,Q988586,way
-Zantochweg,wikidata,,Q1015339,way
 "Zaucher Weg",wikidata,,Q148498,way
 "Zauchwitzer Straße",wikidata,,Q148506,way
 Zaunkönigsweg,wikidata,,Q25740,way
@@ -6320,6 +6315,7 @@ Alter-Robert-Park,,,,way
 "Am Kutscherhaus",,,,way
 "Am Langen Weg",,,,way
 "Am Müggelpark",,,,way
+"Am Mühlanger",,,,way
 "Am Mühlenberg",,,,way
 "Am Mühlenteich",,,,way
 "Am Nordbahnhof",,,,way
@@ -6354,6 +6350,7 @@ Alter-Robert-Park,,,,way
 "Am Wasserbunker",,,,way
 "Am Weingarten",,,,way
 "Am Weißen Steg",,,,way
+"Am Werkstor",,,,way
 "Am Wiesenhang",,,,way
 "Am Windbruch",,,,way
 "Am Winkel",,,,way
@@ -6363,9 +6360,11 @@ Amalienhofstraße,,,,way
 Amorweg,,,,way
 Amtsstraße,,,,way
 "An den Berggärten",,,,way
+"An den Buckower Feldern",,,,way
 "An den Freiheitswiesen",,,,way
 "An den Hubertshäusern",,,,way
 "An den Parkbäumen",,,,way
+"An den Weiden",,,,way
 "An der Festwiese",,,,way
 "An der Feuerwache",,,,way
 "An der Havelspitze",,,,way
@@ -6435,6 +6434,7 @@ Besuchesritze,,,,way
 "Beyer Weg",,,,way
 BigCityGreens,,,,way
 "Bitterfelder Brücke",,,,way
+Blockpark,,,,way
 "Blumberger Chaussee",,,,way
 Blütenachse,,,,way
 Blütenweißweg,,,,way
@@ -6473,6 +6473,7 @@ Burgunderweg,,,,way
 C-Weg,,,,way
 Carl-Langbecker-Str.,,,,way
 Carl-Leid-Weg,,,,way
+Cecilienplatz,,,,way
 Chantiéweg,,,,way
 Charkiw-Park,,,,way
 Charlottenweg,,,,way
@@ -6501,6 +6502,7 @@ Drostestraße,,,,way
 "Durlacher Platz",,,,way
 Dusekestraße,,,,way
 Düsterhauptstraße,,,,way
+Dyrekeweg,,,,way
 E-Gestell,,,,way
 E-Weg,,,,way
 Ebersteinweg,,,,way
@@ -6608,6 +6610,7 @@ Gatterweg,,,,way
 "Gemeinschaftsgärten des Centre Français de Berlin",,,,way
 "Gemeinschaftspavillion Parksiedlung",,,,way
 Genfenbergstraße,,,,way
+Gensweg,,,,way
 Georg-Klingenberg-Straße,,,,way
 Georg-Steger-Weg,,,,way
 George-Stephenson-Straße,,,,way
@@ -6720,6 +6723,7 @@ Heinweg,,,,way
 Heinz-Gesper-Weg,,,,way
 Heinz-Prillwitz-Weg,,,,way
 Helene-Jacobs-Straße,,,,way
+Helga-Hahnemann-Straße,,,,way
 Helgolandweg,,,,way
 Helmut-Rupprecht-Straße,,,,way
 Hentzeweg,,,,way
@@ -6773,6 +6777,7 @@ Igelkolbensteig,,,,way
 "Im Mittelbusch",,,,way
 "Im Vogtland",,,,way
 "Im Winkel",,,,way
+"In den Bauerngärten",,,,way
 "In den Gärten",,,,way
 "In den Ministergärten",,,,way
 "Inline-Skate Rundkurs",,,,way
@@ -6850,6 +6855,7 @@ Klepschweg,,,,way
 Klinkepark,,,,way
 Klosterweg,,,,way
 Knieweg,,,,way
+Knyphausenweg,,,,way
 Koblanckstraße,,,,way
 Kokoschkaplatz,,,,way
 "Kolonie Friedensgarten I",,,,way
@@ -6881,6 +6887,7 @@ Kühneweg,,,,way
 Kulbeweg,,,,way
 Künstlerweg,,,,way
 Kupfergraben,,,,way
+Kupferkamp,,,,way
 Kürißweg,,,,way
 Kurt-Pfennig-Platz,,,,way
 "Kurze Straße",,,,way
@@ -6889,7 +6896,6 @@ Kurt-Pfennig-Platz,,,,way
 Küsterstraße,,,,way
 L-Straße,,,,way
 L-Weg,,,,way
-Ladestraße,,,,way
 Lahmertstraße,,,,way
 Lakegrund,,,,way
 "Landeskalibrierstrecke Berlin",,,,way
@@ -6925,6 +6931,7 @@ Lossowweg,,,,way
 Louis-Schmidt-Straße,,,,way
 Lückstraße,,,,way
 Lüdickeweg,,,,way
+Ludwig-Turek-Platz,,,,way
 Ludwigshöheweg,,,,way
 Luisenhain,,,,way
 "Luisenstädtischer Kanal Blütensträuchergarten",,,,way
@@ -6953,6 +6960,7 @@ Max-Kollo-Weg,,,,way
 Mayschweg,,,,way
 Meckerweg,,,,way
 Mehringpark,,,,way
+Meinolfstraße,,,,way
 Melissenweg,,,,way
 Menzelweg,,,,way
 Metropole-Passage,,,,way
@@ -6990,11 +6998,9 @@ Naturlehrpfad,,,,way
 "Naturpark Schöneberger Südgelände",,,,way
 "Nebenweg 1",,,,way
 Nentwigstraße,,,,way
-Neptunweg,,,,way
 "Neubrücker Straße",,,,way
 "Neue Bergstraße",,,,way
 "Neue Brücke",,,,way
-"Neue Fahlenbergbrücke",,,,way
 "Neue Heimat",,,,way
 "Neue Hochstraße",,,,way
 "Neue Kreisstraße",,,,way
@@ -7024,7 +7030,7 @@ O-Weg,,,,way
 "Oberer Weg",,,,way
 "Oberhaardter Weg",,,,way
 Obstgarten,,,,way
-Odesaplatz,,,,way
+Odessaplatz,,,,way
 Olympiastraße,,,,way
 Oppermannstraße,,,,way
 "Orthstraße/ Walter-Nicklitz-Promenade",,,,way
@@ -7202,7 +7208,6 @@ S-Weg,,,,way
 Saalmannsteig,,,,way
 Saalmannstraße,,,,way
 Sackgasse,,,,way
-Salvador-Allende-Brücke,,,,way
 Salzmannstraße,,,,way
 Salzufer,,,,way
 Samuel-Lewin-Straße,,,,way
@@ -7239,6 +7244,7 @@ Schmuckhof,,,,way
 Schönagelstraße,,,,way
 "Schönauer Weg",,,,way
 "Schöneberger Schleife",,,,way
+Schonungsweg,,,,way
 "Schräger Weg",,,,way
 Schrobsdorffstraße,,,,way
 Schrockstraße,,,,way
@@ -7277,10 +7283,12 @@ Siedlungsweg,,,,way
 Siegertweg,,,,way
 Siekeweg,,,,way
 Simonring,,,,way
+Simrockplatz,,,,way
 Simsonweg,,,,way
 Siverstorpstraße,,,,way
 Skutaristraße,,,,way
 Söhtstraße,,,,way
+Sonnenkieker,,,,way
 Spechtweg,,,,way
 "Spielplatz Grüntaler End",,,,way
 Spilstraße,,,,way
@@ -7351,7 +7359,6 @@ Strandschloßweg,,,,way
 "Straße 141",,,,way
 "Straße 142",,,,way
 "Straße 147",,,,way
-"Straße 15",,,,way
 "Straße 150",,,,way
 "Straße 151",,,,way
 "Straße 152",,,,way
@@ -7572,7 +7579,6 @@ Umgehungschaussee,,,,way
 Unterfeld,,,,way
 Unterwasserstraße,,,,way
 Uwe-Lieschied-Straße,,,,way
-"Vabali Spa",,,,way
 "Varian-Fry-Straße/Potsdamer Platz",,,,way
 Veitstraße,,,,way
 Verbindungschaussee,,,,way
@@ -7655,10 +7661,10 @@ Wateweg,,,,way
 "Weg III",,,,way
 "Weg IV",,,,way
 "Weg N",,,,way
+"Weg P",,,,way
 "Weg V",,,,way
 "Weg am Kulturhaus",,,,way
 "Weg zum Block B",,,,way
-"Weg zur Marienlust",,,,way
 Wehrmathen,,,,way
 "Weihenzeller Steig",,,,way
 Weislingenstraße,,,,way
@@ -7728,4 +7734,5 @@ Zinienweg,,,,way
 "ehem. Fußgängertunnel",,,,way
 "ehemaliger Zollweg",,,,way
 "kleiner Platz",,,,way
+rampe,,,,way
 "zur Anna-Maria-Müller-Straße",,,,way
