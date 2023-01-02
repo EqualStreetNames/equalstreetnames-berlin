@@ -252,7 +252,6 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Grünen Hof",wikidata,,Q147276,way
 "Am Grünen Zipfel",wikidata,,Q147276,way
 "Am Gutshof",wikidata,,Q12292478,way
-"Am Gutspark",wikidata,,Q50333431,way
 "Am Hain",wikidata,,Q1124363,way
 "Am Hang",wikidata,,Q944588,way
 "Am Haselbusch",wikidata,,Q145889,way
@@ -677,7 +676,7 @@ Baikalstraße,wikidata,,Q5513,way
 Bäkebrücke,wikidata,,Q1018973,way
 Bäkepark,wikidata,,Q1018973,way
 Bäkestraße,wikidata,,Q1018973,way
-Balatonstraße,wikidata,,Q6383,way
+Balatonstraße,wikidata,,Q131574;Q6383,way
 "Balbronner Straße",wikidata,,Q22793,way
 "Baldersheimer Weg",wikidata,,Q274688,way
 Baldurstraße,wikidata,,Q131658,way
@@ -827,7 +826,6 @@ Beutenweg,wikidata,,Q165107,way
 Biberpelzstraße,wikidata,,Q1192529,way
 Bibersteig,wikidata,,Q261363,way
 Biberweg,wikidata,,Q261363,way
-Bidenswinkel,wikidata,,Q200,way
 "Biebersdorfer Weg",wikidata,,Q19835455,way
 "Biebricher Straße",wikidata,,Q656680,way
 "Biedenkopfer Straße",wikidata,,Q552554,way
@@ -1167,6 +1165,7 @@ Charitéstraße,wikidata,,Q162684,way
 Chartronstraße,wikidata,,Q27921781,way
 Chaukenstraße,wikidata,,Q168549,way
 Chaussee,wikidata,,Q1418214,way
+Chaussee­-straßenbrücke,wikidata,,Q564361,way
 Chausseestraße,wikidata,,Q1418214,way
 "Chemnitzer Straße",wikidata,,Q2795,way
 Cheruskerpark,wikidata,,Q268307,way
@@ -1814,7 +1813,6 @@ Frauenschuhweg,wikidata,,Q133773,way
 Fredericiastraße,wikidata,,Q21181,way
 "Fredersdorfer Straße",wikidata,,Q581470,way
 "Fredersdorfer Weg",wikidata,,Q581470,way
-Freesienweg,wikidata,,Q157392,way
 "Freester Weg",wikidata,,Q1453627,way
 Freiaplatz,wikidata,,Q1647325,way
 Freiastraße,wikidata,,Q1647325,way
@@ -2115,7 +2113,7 @@ Götzkeweg,wikidata,,Q83352845,way
 "Graacher Straße",wikidata,,Q648808,way
 "Graaler Weg",wikidata,,Q570568,way
 Grabensprung,wikidata,,Q1434274,way
-Grabenstraße,wikidata,,Q2048319,way
+Grabenstraße,wikidata,,Q192810;Q2048319,way
 "Grafenauer Weg",wikidata,,Q507945,way
 "Gräfenberger Weg",wikidata,,Q954611,way
 "Gräfentaler Straße",wikidata,,Q529809,way
@@ -2253,7 +2251,6 @@ Haardtweg,wikidata,,Q837186,way
 "Habelschwerdter Allee",wikidata,,Q991022,way
 Habichtshorst,wikidata,,Q25353,way
 Habichtstraße,wikidata,,Q25353,way
-Habichtweg,wikidata,,Q25353,way
 Habsburgerstraße,wikidata,,Q65968,way
 "Habsheimer Straße",wikidata,,Q325043,way
 Hadburgpfad,wikidata,,Q101363532,way
@@ -2955,7 +2952,6 @@ Kirschweg,wikidata,,Q165137,way
 Kisselnallee,wikidata,,Q1740919,way
 Kissingenplatz,wikidata,,Q488346,way
 Kissingenstraße,wikidata,,Q488346,way
-Kissingenweg,wikidata,,Q488346,way
 "Kissinger Platz",wikidata,,Q488346,way
 "Kissinger Straße",wikidata,,Q488346,way
 "Kladower Damm",wikidata,,Q519632,way
@@ -3834,7 +3830,6 @@ Nachodstraße,wikidata,,Q695680,way
 Nachtalbenweg,wikidata,,Q1262457,way
 Nachtigallensteig,wikidata,,Q25393,way
 Nachtigallenweg,wikidata,,Q25393,way
-Nachtigallweg,wikidata,,Q25393,way
 Nachtweideweg,wikidata,,Q2499829,way
 "Nackenheimer Weg",wikidata,,Q683933,way
 Nackthalsweg,wikidata,,Q990357,way
@@ -4051,7 +4046,6 @@ Oldenburgallee,wikidata,,Q693669,way
 "Oldesloer Weg",wikidata,,Q155226,way
 Oleanderstraße,wikidata,,Q155833,way
 "Olivaer Platz",wikidata,,Q1775766,way
-Olivzeisigweg,wikidata,,Q27075871,way
 Olmweg,wikidata,,Q743692,way
 Olpererweg,wikidata,,Q360824,way
 Olwenstraße,wikidata,,Q63567925,way
@@ -4132,7 +4126,6 @@ Oybinweg,wikidata,,Q502504,way
 Palisadenstraße,wikidata,,Q90685,way
 Palmkernzeile,wikidata,,Q2048273,way
 "Panke Grünzug Nord",wikidata,,Q564361,way
-Pankenbrücke,wikidata,,Q564361,way
 Pankeweg,wikidata,,Q564361,way
 Pankewegbrücke,wikidata,,Q564361,way
 Pankgrafenbrücke,wikidata,,Q2049560,way
@@ -4229,7 +4222,6 @@ Pfarrsiedlung,wikidata,,Q1434274,way
 Pfarrstraße,wikidata,,Q102496,way
 Pfarrwöhrde,wikidata,,Q607241;Q188869,way
 Pfauenkehre,wikidata,,Q61865,way
-Pfauenweg,wikidata,,Q3917160,way
 "Pfeddersheimer Weg",wikidata,,Q315735,way
 Pfennigkrautweg,wikidata,,Q147305,way
 Pfifferlingweg,wikidata,,Q188749,way
@@ -4391,7 +4383,6 @@ Quitzowstraße,wikidata,,Q536605,way
 Rabenhorststraße,wikidata,,Q25565;Q4785,way
 "Rabensteiner Straße",wikidata,,Q623891,way
 Rabenstraße,wikidata,,Q43365,way
-Rabenweg,wikidata,,Q43365,way
 "Rackebüller Weg",wikidata,,Q834580,way
 "Räcknitzer Steig",wikidata,,Q1252764,way
 "Rackwitzer Straße",wikidata,,Q16063,way
@@ -4540,7 +4531,6 @@ Rhenaniastraße,wikidata,,Q2148024,way
 "Rhinower Straße",wikidata,,Q532037,way
 Rhinstraße,wikidata,,Q21198444,way
 Rhodeländerweg,wikidata,,Q899978,way
-Rhododendronweg,wikidata,,Q189393,way
 Rhönstraße,wikidata,,Q148988,way
 Rhumeweg,wikidata,,Q521276,way
 Rialtoring,wikidata,,Q1190585,way
@@ -6263,6 +6253,7 @@ Aaron-Bernstein-Platz,,,,way
 "Achse der Kontinuität",,,,way
 "Achse des Exils",,,,way
 "Achse des Holocaust",,,,way
+Ackerhummelweg,,,,way
 Adlerplatz,,,,way
 Adlersteg,,,,way
 Adolf-Kiepert-Steg,,,,way
@@ -6405,7 +6396,9 @@ Aussichtsberg,,,,way
 "Außenanlagen des Caritas- Mehrgenerationenhauses",,,,way
 Außenweg,,,,way
 B-Weg,,,,way
+Badbrücke,,,,way
 Bäderweg,,,,way
+Bahamasbogen,,,,way
 Bahnhausweg,,,,way
 Bahnhofsweg,,,,way
 "Bahnsteig U6",,,,way
@@ -6433,6 +6426,7 @@ Bernhard-Langwaldt-Weg,,,,way
 Besuchesritze,,,,way
 "Beyer Weg",,,,way
 BigCityGreens,,,,way
+Bismarcksteg,,,,way
 "Bitterfelder Brücke",,,,way
 Blockpark,,,,way
 "Blumberger Chaussee",,,,way
@@ -6455,11 +6449,14 @@ Brigitte-Reimann-Straße,,,,way
 Britzer-Allee-Brücke,,,,way
 Bruchweg,,,,way
 "Brücke am Heiligentalhügel",,,,way
+"Brücke am Platz des Sports",,,,way
 Brückenweg,,,,way
 Bruckweg,,,,way
+Brüder-Grimm-Gasse,,,,way
 Brunnenhof,,,,way
 Bruno-Baum-Grünzug,,,,way
 "Buchholzer Feld",,,,way
+Buckower-Felder-Mauerweg,,,,way
 Buggenhagenstraße,,,,way
 Bukesweg,,,,way
 Bundesplatztunnel,,,,way
@@ -6477,6 +6474,7 @@ Cecilienplatz,,,,way
 Chantiéweg,,,,way
 Charkiw-Park,,,,way
 Charlottenweg,,,,way
+Christiansteg,,,,way
 Clara-Mleinek-Straße,,,,way
 Colbestraße,,,,way
 Crusemarkstraße,,,,way
@@ -6513,17 +6511,19 @@ Egelpfuhlbrücke,,,,way
 "Ehemaliger Güteraußenring",,,,way
 Ehrenhof,,,,way
 Eichenhofweg,,,,way
-"Eichwerder Steg",,,,way
+Eichwerdersteg,,,,way
 Eidechsenweg,,,,way
 Einsiedlerweg,,,,way
 Elcknerplatz,,,,way
 Elfiwiese,,,,way
+Elfriede-Brüning-Straße,,,,way
 Elise-Tilse-Park,,,,way
 Elisenstraße,,,,way
 Ella-Augustin-Platz,,,,way
 Ella-Trebe-Straße,,,,way
 Elsenweg,,,,way
 Elsnerweg,,,,way
+Emilie-Mayer-Weg,,,,way
 Emilienstraße,,,,way
 Endweg,,,,way
 "Enger Steig",,,,way
@@ -6536,6 +6536,7 @@ Ernststraßensteg,,,,way
 Erwin-Dahlen-Weg,,,,way
 Eulensteg,,,,way
 Europaplatz,,,,way
+Eva-Strittmacher-Straße,,,,way
 Eweststraße,,,,way
 Exerzierstraße,,,,way
 F-Weg,,,,way
@@ -6681,6 +6682,7 @@ Gummiweg,,,,way
 Günther-Weg,,,,way
 Güntherstraße,,,,way
 Gustav-Hertz-Platz,,,,way
+"Gut Hellersdorf",,,,way
 Gütlingstraße,,,,way
 Gutspark,,,,way
 "Gutspark Groß Glienicke",,,,way
@@ -6688,6 +6690,7 @@ Gutspark,,,,way
 "Gutspark Neukladow",,,,way
 H-Weg,,,,way
 Haberechtstraße,,,,way
+Habichtweg,,,,way
 Hafeldweg,,,,way
 Hainbuchenweg,,,,way
 Hallichpromenade,,,,way
@@ -6777,9 +6780,11 @@ Igelkolbensteig,,,,way
 "Im Mittelbusch",,,,way
 "Im Vogtland",,,,way
 "Im Winkel",,,,way
+"In den Alboingärten",,,,way
 "In den Bauerngärten",,,,way
 "In den Gärten",,,,way
 "In den Ministergärten",,,,way
+Ingeborg-Feustel-Straße,,,,way
 "Inline-Skate Rundkurs",,,,way
 Inselbrücke,,,,way
 Irmtraud-Morgner-Straße,,,,way
@@ -6787,6 +6792,7 @@ Irrgarten,,,,way
 J-Straße,,,,way
 Jacobsbrunnenweg,,,,way
 "Jagen 37",,,,way
+Jamaikaweg,,,,way
 Jean-Monnet-Straße,,,,way
 "Johannes Park",,,,way
 Johannes-Itten-Straße,,,,way
@@ -6905,7 +6911,6 @@ Landfliegerstraße,,,,way
 "Landschaftspark des Gutshauses Mahlsdorf",,,,way
 Landweg,,,,way
 "Lange Brücke",,,,way
-"Lange Straße",,,,way
 "Laubnitzer Pfad",,,,way
 "Laufstrecke 1100m",,,,way
 Lauterplatz,,,,way
@@ -6913,6 +6918,7 @@ Lederhülsenweg,,,,way
 Leharweg,,,,way
 Lenné-Meyer-Garten,,,,way
 Leonore-Goldschmidt-Straße,,,,way
+Lerchennest,,,,way
 "Lern- und Nachbarschaftsgarten",,,,way
 Lesegarten,,,,way
 Libboldallee,,,,way
@@ -7029,8 +7035,9 @@ Nuscheweg,,,,way
 O-Weg,,,,way
 "Oberer Weg",,,,way
 "Oberhaardter Weg",,,,way
+Obrikatstraße,,,,way
 Obstgarten,,,,way
-Odessaplatz,,,,way
+Odesaplatz,,,,way
 Olympiastraße,,,,way
 Oppermannstraße,,,,way
 "Orthstraße/ Walter-Nicklitz-Promenade",,,,way
@@ -7080,8 +7087,6 @@ Philipp-Jacob-Rauch-Straße,,,,way
 Philippstraße,,,,way
 Piazza,,,,way
 Pionierweg,,,,way
-"Planstraße A",,,,way
-"Planstraße B",,,,way
 "Planstraße C",,,,way
 Plantanenallee,,,,way
 Plateautreppe,,,,way
@@ -7191,6 +7196,7 @@ Rosengarten,,,,way
 Rosengasse,,,,way
 Rosensteinweg,,,,way
 Rosestraße,,,,way
+Rosmarinstraße,,,,way
 "Roter Platz",,,,way
 Rothenbücherweg,,,,way
 Rotkopfweg,,,,way
@@ -7217,6 +7223,7 @@ Sandkrugbrücke,,,,way
 Sangeallee,,,,way
 Sängerweg,,,,way
 Sangestraße,,,,way
+Sarah-Kirsch-Straße,,,,way
 Schälingsweg,,,,way
 Schendelgasse,,,,way
 Schendelpark,,,,way
@@ -7275,6 +7282,7 @@ Semkensteig,,,,way
 Sennockstraße,,,,way
 Separationsweg,,,,way
 Seufzerbrücke,,,,way
+Sewanstraßenbrücke,,,,way
 Sickingenbrücke,,,,way
 Sieben-Raben-Weg,,,,way
 "Siedlung Roedernau",,,,way
@@ -7299,6 +7307,7 @@ Sporthalle,,,,way
 "Sportpark Neues Ufer",,,,way
 Sportweg,,,,way
 Spreeschlossstraße,,,,way
+Springpfuhlbrücke,,,,way
 Stabholzgarten,,,,way
 Stadionstraße,,,,way
 "Stadtplatz am Glambecker Ring",,,,way
@@ -7575,6 +7584,7 @@ Ullrichstraße,,,,way
 Ulrikenstraße,,,,way
 Umgehungschaussee,,,,way
 "Universum Landes-Ausstellungs-Park (ULAP)",,,,way
+Unkenpfad,,,,way
 "Unter der Kranbahn",,,,way
 Unterfeld,,,,way
 Unterwasserstraße,,,,way

@@ -131,7 +131,6 @@ Else-Ury-Bogen,wikidata,F,Q316818,way
 Emma-Herwegh-Straße,wikidata,F,Q1338039,way
 Emma-Ihrer-Straße,wikidata,F,Q108635,way
 Emmy-Zehden-Weg,wikidata,F,Q96887,way
-Erika-Gräfin-von-Brockdorff-Platz,wikidata,F,Q105948,way
 Erna-Berger-Straße,wikidata,F,Q289895,way
 Erna-Sack-Straße,wikidata,F,Q72186,way
 Erna-Samuel-Straße,wikidata,F,Q56098848,way
@@ -1034,6 +1033,7 @@ Erich-Weinert-Straße,wikidata,M,Q62115,way
 Erkelenzdamm,wikidata,M,Q589196,way
 Erkstraße,wikidata,M,Q108653,way
 Ermanstraße,wikidata,M,Q61421,way
+Erna-Koschwitz-Weg,wikidata,M,Q1730854,way
 Ernemannzeile,wikidata,M,Q1597152,way
 Ernst-Arndt-Weg,wikidata,M,Q97440476,way
 Ernst-Augustin-Straße,wikidata,M,Q98234656,way
@@ -1432,6 +1432,8 @@ Gustav-Zahnke-Straße,wikidata,M,Q1556572,way
 Gustave-Courbet-Straße,wikidata,M,Q34618,way
 Gutenbergstraße,wikidata,M,Q8958,way
 Gutschmidtstraße,wikidata,M,Q84975742,way
+Gutsmuthsstraße,wikidata,M,Q60825,way
+Gutsmuthsweg,wikidata,M,Q60825,way
 Gutzkowstraße,wikidata,M,Q76755,way
 Gutzmannstraße,wikidata,M,Q97207,way
 Haackzeile,wikidata,M,Q2638066,way
@@ -2019,6 +2021,7 @@ Laehrstraße,wikidata,M,Q90567,way
 Lambertstraße,wikidata,M,Q122999,way
 Landoltweg,wikidata,M,Q124248,way
 Landoltwegbrücke,wikidata,M,Q124248,way
+"Lange Straße",wikidata,M,Q455664,way
 Langenbeckplatz,wikidata,M,Q66339,way
 Langenbeckstraße,wikidata,M,Q66339,way
 Langenscheidtbrücke,wikidata,M,Q90535,way
@@ -3396,5 +3399,3 @@ Zornstraße,wikidata,M,Q91091,way
 "Zur Kühleweinstraße",wikidata,M,Q1041373,way
 "Zur Scabellstraße",wikidata,M,Q1874945,way
 Zwinglistraße,wikidata,M,Q123034,way
-Gutsmuthsstraße,wikidata,MX,Q60825,way
-Gutsmuthsweg,wikidata,MX,Q60825,way
