@@ -148,7 +148,6 @@ Friederike-Nadig-Straße,wikidata,F,Q110920,way
 Fritzi-Massary-Straße,wikidata,F,Q79102,way
 Gabriele-Tergit-Promenade,wikidata,F,Q1490603,way
 Gabrielenstraße,wikidata,F,Q15447620,way
-Genovevastraße,wikidata,F,Q269052,way
 Gertraudenbrücke,wikidata,F,Q235619,way
 Gertraudenstraße,wikidata,F,Q235619,way
 Gertrud-Dorka-Weg,wikidata,F,Q1515544,way
@@ -1415,6 +1414,7 @@ Guntherstraße,wikidata,M,Q339094;Q62113179,way
 Güntzelstraße,wikidata,M,Q78507604,way
 Gurlittstraße,wikidata,M,Q466299,way
 Gustav-Adolf-Straße,wikidata,M,Q1305526,way
+Gustav-Böß-Straße,wikidata,M,Q119374,way
 Gustav-Freytag-Straße,wikidata,M,Q58811,way
 Gustav-Haestskau-Straße,wikidata,M,Q1380224,way
 Gustav-Hartmann-Platz,wikidata,M,Q1555917,way
@@ -1513,7 +1513,6 @@ Hartmannstraße,wikidata,M,Q77057,way
 Hartwichzeile,wikidata,M,Q111335,way
 Hatzfeldtallee,wikidata,M,Q215381,way
 Haubachstraße,wikidata,M,Q107855,way
-Hauffallee,wikidata,M,Q57966,way
 Hauffstraße,wikidata,M,Q57966,way
 Hauffweg,wikidata,M,Q57966,way
 Hausburgpark,wikidata,M,Q2039063,way
@@ -1587,7 +1586,6 @@ Hentigstraße,wikidata,M,Q2041221,way
 Herbartstraße,wikidata,M,Q76685,way
 Herbergerweg,wikidata,M,Q97590221,way
 Herbert-Baum-Straße,wikidata,M,Q77513,way
-Herbert-Bayer-Straße,wikidata,M,Q213637,way
 Herbert-Lewin-Platz,wikidata,M,Q1608732,way
 Herbert-Tschäpe-Straße,wikidata,M,Q1609216,way
 Herbert-von-Karajan-Straße,wikidata,M,Q154895,way
@@ -1797,6 +1795,7 @@ Jungstraße,wikidata,M,Q101251587,way
 Junker-Jörg-Straße,wikidata,M,Q9554,way
 Jurek-Becker-Straße,wikidata,M,Q77317,way
 Jürgen-Fuchs-Platz,wikidata,M,Q90750,way
+Jürgen-Kuczynski-Park,wikidata,M,Q88427,way
 Jürgen-Schramm-Straße,wikidata,M,Q98000081,way
 Justus-von-Liebig-Straße,wikidata,M,Q16571,way
 Kafkastraße,wikidata,M,Q905,way
@@ -1900,6 +1899,7 @@ Klindworthsteig,wikidata,M,Q703406,way
 Klingelhöferstraße,wikidata,M,Q98482,way
 Klingenbergbrücke,wikidata,M,Q1505011,way
 Klingerstraße,wikidata,M,Q44252,way
+Klinkepark,wikidata,M,Q1039232,way
 Klinkeplatz,wikidata,M,Q1039232,way
 Klinnerweg,wikidata,M,Q103841326,way
 Klistostraße,wikidata,M,Q97706997,way
@@ -2005,6 +2005,7 @@ Kurfürstenstraße,wikidata,M,Q152727;Q22722,way
 Kurt-Exner-Straße,wikidata,M,Q1793511,way
 Kurt-Hiller-Park,wikidata,M,Q66458,way
 Kurt-Marzahn-Straße,wikidata,M,Q98000091,way
+Kurt-Pfennig-Platz,wikidata,M,Q113005655,way
 Kurt-Schumacher-Damm,wikidata,M,Q57465,way
 Kurt-Schumacher-Platz,wikidata,M,Q57465,way
 Kurt-Weill-Gasse,wikidata,M,Q55004,way
@@ -2407,7 +2408,6 @@ Ostendorfstraße,wikidata,M,Q1461383,way
 Oswald-Schumann-Platz,wikidata,M,Q1599023,way
 Otisstraße,wikidata,M,Q171413,way
 Otto-Appel-Straße,wikidata,M,Q96152,way
-Otto-Brahm-Straße,wikidata,M,Q71903,way
 Otto-Braun-Straße,wikidata,M,Q58667,way
 Otto-Dibelius-Platz,wikidata,M,Q85808,way
 Otto-Dibelius-Straße,wikidata,M,Q85808,way
@@ -2721,7 +2721,6 @@ Rudeloffweg,wikidata,M,Q1913311,way
 Rudi-Arndt-Straße,wikidata,M,Q2171990,way
 Rudi-Dutschke-Straße,wikidata,M,Q57218,way
 Rudi-Dutschke-Weg,wikidata,M,Q57218,way
-Rudolf-Baschant-Straße,wikidata,M,Q21484627,way
 Rudolf-Beyendorff-Ring,wikidata,M,Q15843211,way
 Rudolf-Breitscheid-Straße,wikidata,M,Q70890,way
 Rudolf-Ditzen-Weg,wikidata,M,Q76539,way
@@ -2761,7 +2760,6 @@ Rumeyplan,wikidata,M,Q67301,way
 Rumplerzeile,wikidata,M,Q84530,way
 Runebergweg,wikidata,M,Q215339,way
 Rungestraße,wikidata,M,Q1598664,way
-Rungiusbrücke,wikidata,M,Q97320131,way
 Rungiusstraße,wikidata,M,Q97320131,way
 Rupprechtstraße,wikidata,M,Q44893,way
 Rutherfordstraße,wikidata,M,Q9123,way
@@ -2997,6 +2995,7 @@ Sredzkistraße,wikidata,M,Q110705,way
 Staehleweg,wikidata,M,Q98263,way
 Stauffenbergstraße,wikidata,M,Q21209,way
 Steegerstraße,wikidata,M,Q104520595,way
+Stefan-Heym-Platz,wikidata,M,Q76534,way
 Steffelbauerstraße,wikidata,M,Q1748389,way
 Stegerwaldstraße,wikidata,M,Q63434,way
 Stegerwaldweg,wikidata,M,Q63434,way
@@ -3284,7 +3283,6 @@ Wilhelm-Ostwald-Straße,wikidata,M,Q12658,way
 Wilhelm-Pasewaldt-Straße,wikidata,M,Q2574418,way
 Wilhelm-Spindler-Brücke,wikidata,M,Q1695047,way
 Wilhelm-Stolze-Straße,wikidata,M,Q124806,way
-Wilhelm-Wagenfeld-Straße,wikidata,M,Q77378,way
 Wilhelm-Wolff-Straße,wikidata,M,Q71110,way
 Wilhelm-Zermin-Weg,wikidata,M,Q102174723,way
 Wilhelm-von-Siemens-Straße,wikidata,M,Q77274,way
