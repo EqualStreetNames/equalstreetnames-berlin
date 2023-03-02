@@ -23,6 +23,7 @@ Ackerstraße,wikidata,,Q188869,way
 Adlerbrücke,wikidata,,Q2092297,way
 Adlergestell,wikidata,,Q2092297;Q334434;Q487843,way
 "Adlershofer Straße",wikidata,,Q599941,way
+Adlersteg,wikidata,,Q2092297,way
 Adlerstraße,wikidata,,Q2092297,way
 Adlerweg,wikidata,,Q2092297,way
 Adolfstraße,wikidata,,Q18145837,way
@@ -166,12 +167,14 @@ Altvaterstraße,wikidata,,Q280987,way
 Alwineweg,wikidata,,Q20202925,way
 Alzeyweg,wikidata,,Q2531389,way
 "Am Alten Fenn",wikidata,,Q20826048,way
+"Am Alten Flugplatz",wikidata,,Q62447,way
 "Am Alten Friedhof",wikidata,,Q1381232,way
 "Am Amselsteg",wikidata,,Q25234,way
 "Am Anger",wikidata,,Q57743,way
 "Am Ansitz",wikidata,,Q569909,way
 "Am Appelhorst",wikidata,,Q97382834,way
 "Am Arkenberg",wikidata,,Q821038,way
+"Am Bahndamm",wikidata,,Q892168,way
 "Am Bahnhof Grunewald",wikidata,,Q457266,way
 "Am Bahnhof Spandau",wikidata,,Q654980,way
 "Am Bahnhof Westend",wikidata,,Q323214,way
@@ -304,7 +307,6 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Laubwald",wikidata,,Q1211122,way
 "Am Lehnshof",wikidata,,Q188063,way
 "Am Leitbruch",wikidata,,Q992065,way
-"Am Lindenplatz",wikidata,,Q127849,way
 "Am Löwentor",wikidata,,Q538360,way
 "Am Lübarser Feld",wikidata,,Q563664;Q188869,way
 "Am Luchgraben",wikidata,,Q1873156,way
@@ -508,7 +510,6 @@ Amtsgerichtsplatz,wikidata,,Q480608,way
 "An der Michaelbrücke",wikidata,,Q1533412,way
 "An der Mühle",wikidata,,Q185187,way
 "An der Nachtbucht",wikidata,,Q1434274,way
-"An der Neumark",wikidata,,Q819411,way
 "An der Oberrealschule",wikidata,,Q1636896,way
 "An der Obstwiese",wikidata,,Q236371,way
 "An der Ostbahn",wikidata,,Q445563,way
@@ -1144,7 +1145,7 @@ Cajamarcaplatz,wikidata,,Q205119,way
 "Calauer Straße",wikidata,,Q532803,way
 Caligariplatz,wikidata,,Q5812209,way
 "Cambridger Straße",wikidata,,Q350,way
-Campingweg,wikidata,,Q455550,way
+Campingweg,wikidata,,Q180910;Q455550,way
 Cannaweg,wikidata,,Q161182,way
 "Caseler Straße",wikidata,,Q659935,way
 Cassinohof,wikidata,,Q116592,way
@@ -1479,6 +1480,7 @@ Eigerstraße,wikidata,,Q4425,way
 "Einbecker Straße",wikidata,,Q47244,way
 Einhornstraße,wikidata,,Q10428,way
 Einsiedelring,wikidata,,Q147276,way
+Einsiedlerweg,wikidata,,Q2303143,way
 Eintrachtstraße,wikidata,,Q3223055,way
 Eisackstraße,wikidata,,Q596901,way
 Eisblumensteig,wikidata,,Q161473,way
@@ -1828,7 +1830,6 @@ Freischütztunnel,wikidata,,Q672789,way
 "Freitaler Straße",wikidata,,Q5870,way
 "Freiwaldauer Weg",wikidata,,Q954611,way
 "Freizeitpark Malche",wikidata,,Q1548786,way
-Freizeitweg,wikidata,,Q180910,way
 Frettchenweg,wikidata,,Q178973,way
 "Freudenberger Weg",wikidata,,Q10946,way
 "Freystadter Weg",wikidata,,Q142101,way
@@ -2585,7 +2586,7 @@ Homburgstraße,wikidata,,Q4165,way
 "Honnefer Straße",wikidata,,Q12434,way
 "Hönower Straße",wikidata,,Q176778,way
 "Hönower Weg",wikidata,,Q176778,way
-"Hönower Wiesenweg",wikidata,,Q176778;Q7777019,way
+"Hönower Wiesenweg",wikidata,,Q176778;Q176778;Q7777019,way
 "Honsfelder Straße",wikidata,,Q2181389,way
 Hopfenweg,wikidata,,Q158790,way
 Höpfertsteig,wikidata,,Q83358653,way
@@ -5150,7 +5151,6 @@ Spechtfinkweg,wikidata,,Q976302,way
 Spechtstraße,wikidata,,Q25439;Q25934,way
 Speerweg,wikidata,,Q44475,way
 Spektebrücke,wikidata,,Q2308776,way
-Spektegrünzug,wikidata,,Q2308776,way
 Spekteweg,wikidata,,Q2308776,way
 Sperberstraße,wikidata,,Q188737;Q25380,way
 Sperberweg,wikidata,,Q25380,way
@@ -6249,9 +6249,7 @@ Aaron-Bernstein-Platz,,,,way
 "Achse des Holocaust",,,,way
 Ackerhummelweg,,,,way
 Adlerplatz,,,,way
-Adlersteg,,,,way
 Adolf-Kiepert-Steg,,,,way
-Adolf-Wermuth-Allee,,,,way
 Aktionspark,,,,way
 Alerichstraße,,,,way
 Alpenhöhe,,,,way
@@ -6264,11 +6262,9 @@ Alpenweg,,,,way
 "Alter Radelander Weg",,,,way
 Alter-Robert-Park,,,,way
 "Altglienicker Aue",,,,way
-"Am Alten Flugplatz",,,,way
 "Am Alten Lokschuppen",,,,way
 "Am Amtsgraben",,,,way
 "Am Ausblick",,,,way
-"Am Bahndamm",,,,way
 "Am Barnim",,,,way
 "Am Beelitzhof",,,,way
 "Am Berghang",,,,way
@@ -6364,7 +6360,6 @@ Amtsstraße,,,,way
 "An der Trainierbahn",,,,way
 "An der Villa Bolle",,,,way
 "An der Waldsiedlung",,,,way
-"An der alten Gärtnerei",,,,way
 "Andersen Weg",,,,way
 Andersonweg,,,,way
 Anemonenweg,,,,way
@@ -6507,7 +6502,6 @@ Ehrenhof,,,,way
 Eichenhofweg,,,,way
 Eichwerdersteg,,,,way
 Eidechsenweg,,,,way
-Einsiedlerweg,,,,way
 Elcknerplatz,,,,way
 Elfiwiese,,,,way
 Elfriede-Brüning-Straße,,,,way
@@ -6569,6 +6563,7 @@ Frauenstraße,,,,way
 Freibadweg,,,,way
 Freiligratstraße,,,,way
 "Freizeitpark Marienfelde",,,,way
+Freizeitweg,,,,way
 Frenzelweg,,,,way
 Fresienweg,,,,way
 Freundschaftsplatz,,,,way
@@ -6607,7 +6602,6 @@ Gatterweg,,,,way
 Generationenpark,,,,way
 Genfenbergstraße,,,,way
 Gensweg,,,,way
-Georg-Klingenberg-Straße,,,,way
 Georg-Steger-Weg,,,,way
 George-Stephenson-Straße,,,,way
 Georgeweg,,,,way
@@ -6714,7 +6708,6 @@ Heidekrugstraße,,,,way
 Heimat,,,,way
 Heimfriedstraße,,,,way
 Heimstättenweg,,,,way
-Heiner-Müller-Straße,,,,way
 Heinrich-Zille-Park,,,,way
 Heinsestraße,,,,way
 Heinweg,,,,way
@@ -6783,7 +6776,6 @@ Igelsteig,,,,way
 Ingeborg-Feustel-Straße,,,,way
 "Inline-Skate Rundkurs",,,,way
 Inselbrücke,,,,way
-Irmtraud-Morgner-Straße,,,,way
 Irrgarten,,,,way
 J-Straße,,,,way
 Jacobsbrunnenweg,,,,way
@@ -6799,6 +6791,7 @@ Joseph-von-Eichendorff-Gasse,,,,way
 Judengang,,,,way
 Judisgasse,,,,way
 "Jugendclub UFO",,,,way
+Jugendpark,,,,way
 Jugendstilpark,,,,way
 Jungfernbrücke,,,,way
 K-Straße,,,,way
@@ -6875,7 +6868,7 @@ Krausnickpark,,,,way
 Kräuterweg,,,,way
 Krautweg,,,,way
 Kreuzweg,,,,way
-"Krienicke Park",,,,way
+Krienickepark,,,,way
 Krienickesteig,,,,way
 "Krontaler Steg",,,,way
 Krowelstraße,,,,way
@@ -6944,6 +6937,7 @@ Magnolienweg,,,,way
 Malevkeweg,,,,way
 Margaretenbrücke,,,,way
 Margaretenweg,,,,way
+Maria-Rimkus-Weg,,,,way
 Marienlust,,,,way
 Marienuferallee,,,,way
 Marienweg,,,,way
@@ -7201,7 +7195,6 @@ Rudolf-von-Gneist-Gasse,,,,way
 "Rummelsburger Platz",,,,way
 Rundweg,,,,way
 Russenbrücke,,,,way
-Ruth-Baumgarte-Straße,,,,way
 Rutnikstraße,,,,way
 "S Frohnau",,,,way
 S-Weg,,,,way
@@ -7210,7 +7203,6 @@ Saalmannstraße,,,,way
 Sackgasse,,,,way
 Salzmannstraße,,,,way
 Salzufer,,,,way
-Samuel-Lewin-Straße,,,,way
 "Sandhauser Brücke",,,,way
 "Sandhauser Straße",,,,way
 Sandkrugbrücke,,,,way
@@ -7518,7 +7510,6 @@ Strandschloßweg,,,,way
 "Straße P",,,,way
 "Straße Q",,,,way
 "Straße R",,,,way
-"Straße T",,,,way
 "Straße der Erinnerung",,,,way
 "Straße zum FEZ",,,,way
 "Straße zum Müggelhort",,,,way
@@ -7565,6 +7556,7 @@ Treutelstraße,,,,way
 Trompeterweg,,,,way
 Tulpengang,,,,way
 "Tunnel Alexanderplatz",,,,way
+"Tunnel Schlangenbader Straße",,,,way
 "Tunnel am Adenauerplatz",,,,way
 Türrschmidtpark,,,,way
 "U Pankow",,,,way
@@ -7581,7 +7573,6 @@ Unkenpfad,,,,way
 "Unter der Kranbahn",,,,way
 Unterfeld,,,,way
 Unterwasserstraße,,,,way
-Ursula-Mamlok-Park,,,,way
 Uwe-Lieschied-Straße,,,,way
 "Varian-Fry-Straße/Potsdamer Platz",,,,way
 Veitstraße,,,,way
@@ -7633,6 +7624,7 @@ Wankstraße,,,,way
 "Wartestelle Sport",,,,way
 Wäscherinnenweg,,,,way
 Wassergrundstraße,,,,way
+Wassernixenweg,,,,way
 "Wassertorplatz Süd",,,,way
 Wasserwegbrücke,,,,way
 "Wasserwerk an der Wuhlheide",,,,way
