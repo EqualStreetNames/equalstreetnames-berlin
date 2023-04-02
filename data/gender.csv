@@ -94,7 +94,6 @@ Dora-Benjamin-Park,wikidata,F,Q18620538,way
 Dora-Duncker-Park,wikidata,F,Q1243601,way
 Dora-Mendler-Straße,wikidata,F,Q97500680,way
 Dorothea-Schlegel-Platz,wikidata,F,Q77271,way
-Dorothea-Stutkowski-Weg,wikidata,F,Q97466165,way
 Dorothea-Viehmann-Straße,wikidata,F,Q77926,way
 Dorotheastraße,wikidata,F,Q454204,way
 Dorotheenstraße,wikidata,F,Q65933,way
@@ -150,7 +149,6 @@ Gabriele-Tergit-Promenade,wikidata,F,Q1490603,way
 Gabrielenstraße,wikidata,F,Q15447620,way
 Gertraudenbrücke,wikidata,F,Q235619,way
 Gertraudenstraße,wikidata,F,Q235619,way
-Gertrud-Dorka-Weg,wikidata,F,Q1515544,way
 Gertrud-Hanna-Promenade,wikidata,F,Q1515567,way
 Gertrud-Kolmar-Straße,wikidata,F,Q68204,way
 Gierkeplatz,wikidata,F,Q563800,way
@@ -170,10 +168,8 @@ Hedwig-Wachenheim-Straße,wikidata,F,Q1593412,way
 Hedwigstraße,wikidata,F,Q107435841;Q19689438;Q271509;Q57520,way
 Helen-Ernst-Straße,wikidata,F,Q1478650,way
 Helen-Keller-Weg,wikidata,F,Q38203,way
-Helene-Nathan-Weg,wikidata,F,Q1602002,way
 Helene-Weber-Straße,wikidata,F,Q95851,way
 Helene-Weigel-Platz,wikidata,F,Q60528,way
-Helene-Wessel-Straße,wikidata,F,Q70081,way
 Helene-von-Mülinen-Weg,wikidata,F,Q1602036,way
 Helenenhof,wikidata,F,Q101244374,way
 Helga-Haase-Straße,wikidata,F,Q268484,way
@@ -311,7 +307,6 @@ Martha-Jacob-Platz,wikidata,F,Q16218271,way
 Marthastraße,wikidata,F,Q16279062;Q232453,way
 Mascha-Kaléko-Park,wikidata,F,Q215943,way
 Mascha-Kaléko-Weg,wikidata,F,Q215943,way
-Mathilde-Vaerting-Weg,wikidata,F,Q109394,way
 Mathildenstraße,wikidata,F,Q1598430,way
 Maxie-Wander-Straße,wikidata,F,Q89932,way
 May-Ayim-Ufer,wikidata,F,Q106655,way
@@ -821,6 +816,7 @@ Catostraße,wikidata,M,Q180081,way
 Cauerstraße,wikidata,M,Q1874278,way
 Cautiusstraße,wikidata,M,Q101004857,way
 Celsiusstraße,wikidata,M,Q81130,way
+César-Franck-Straße,wikidata,M,Q50187,way
 Chamierstraße,wikidata,M,Q104212318,way
 Chamissoplatz,wikidata,M,Q154782,way
 Chamissostraße,wikidata,M,Q101007781;Q154782,way
@@ -1308,7 +1304,6 @@ Giesebrechtstraße,wikidata,M,Q70320,way
 Gieselerstraße,wikidata,M,Q102412851,way
 Gieselherstraße,wikidata,M,Q1291259,way
 Gillweg,wikidata,M,Q15440045,way
-Gisbertzweg,wikidata,M,Q94933272,way
 Giselhersteig,wikidata,M,Q1291259,way
 Glanzstraße,wikidata,M,Q104142068,way
 Glaschkestraße,wikidata,M,Q101337969,way
@@ -2374,7 +2369,6 @@ Nienkemperstraße,wikidata,M,Q97819832,way
 Nieritzweg,wikidata,M,Q1519404,way
 Nikischstraße,wikidata,M,Q57210,way
 Niklasstraße,wikidata,M,Q44269,way
-Nikolaus-Ehlen-Weg,wikidata,M,Q105597,way
 Nikolaus-Groß-Weg,wikidata,M,Q68294,way
 Nimrodstraße,wikidata,M,Q201861,way
 Nipkowstraße,wikidata,M,Q63709,way
@@ -2414,6 +2408,7 @@ Ostendorfstraße,wikidata,M,Q1461383,way
 Oswald-Schumann-Platz,wikidata,M,Q1599023,way
 Otisstraße,wikidata,M,Q171413,way
 Otto-Appel-Straße,wikidata,M,Q96152,way
+Otto-Brahm-Straße,wikidata,M,Q71903,way
 Otto-Braun-Straße,wikidata,M,Q58667,way
 Otto-Dibelius-Platz,wikidata,M,Q85808,way
 Otto-Dibelius-Straße,wikidata,M,Q85808,way
@@ -3183,7 +3178,7 @@ Vorbergstraße,wikidata,M,Q102355206,way
 Voßbergstraße,wikidata,M,Q102410572,way
 Voßstraße,wikidata,M,Q41537535,way
 Wachstraße,wikidata,M,Q541467,way
-Wadzeckstraße,wikidata,M,Q21548899,way
+Wadzeckstraße,wikidata,M,Q21548899,relation
 Waetzoldtstraße,wikidata,M,Q15455358,way
 Wagner-Régeny-Allee,wikidata,M,Q540323,way
 Wagner-Régeny-Straße,wikidata,M,Q540323,way
