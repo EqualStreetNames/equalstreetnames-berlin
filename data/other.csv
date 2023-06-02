@@ -704,7 +704,7 @@ Barnetstraße,wikidata,,Q151048,way
 Barnhelmstraße,wikidata,,Q1209859,way
 Barnimplatz,wikidata,,Q268651,way
 Barnimstraße,wikidata,,Q268651,way
-Barstraße,wikidata,,Q790119,way
+Barstraße,wikidata,,Q209093;Q790119,way
 "Barther Straße",wikidata,,Q161943,way
 "Bartschiner Straße",wikidata,,Q1007355,way
 Bartzeisigweg,wikidata,,Q10820714,way
@@ -1271,7 +1271,7 @@ Delphinstraße,wikidata,,Q9302,way
 Denkzeichenweg,wikidata,,Q1953639,way
 Dennewitzplatz,wikidata,,Q882375,way
 Dennewitzstraße,wikidata,,Q882375,way
-"Der Zwinger",wikidata,,Q16891766,way
+"Der Zwinger",wikidata,,Q10561522,way
 Derbyweg,wikidata,,Q723556,way
 "Dessauer Straße",wikidata,,Q487070,way
 "Dessenheimer Weg",wikidata,,Q317546,way
@@ -1615,6 +1615,7 @@ Eulenweg,wikidata,,Q25222,way
 "Eupener Straße",wikidata,,Q151831,way
 "Eutinger Weg",wikidata,,Q81702,way
 Ewaldstraße,wikidata,,Q18343061,way
+Exerzierstraße,wikidata,,Q1117946,way
 "Exiner Straße",wikidata,,Q1003283,way
 "Eylauer Straße",wikidata,,Q331347,way
 "Fachinger Straße",wikidata,,Q771685,way
@@ -5156,6 +5157,7 @@ Sportfliegerstraße,wikidata,,Q644628,way
 Sportforumstraße,wikidata,,Q936237,way
 Sportplatzweg,wikidata,,Q1202618,way
 Sportpromenade,wikidata,,Q349,way
+Sportweg,wikidata,,Q349,way
 Spreebogenpark,wikidata,,Q2313416,way
 Spreegasse,wikidata,,Q1684,way
 Spreepromenade,wikidata,,Q1684,way
@@ -6323,6 +6325,7 @@ Amtsstraße,,,,way
 "An der Karlshorster Heide",,,,way
 "An der Kolonnade",,,,way
 "An der Laake",,,,way
+"An der Mole",,,,way
 "An der Spitze",,,,way
 "An der Spreeschanze",,,,way
 "An der Straße",,,,way
@@ -6493,13 +6496,13 @@ Eulensteg,,,,way
 Europaplatz,,,,way
 Eva-Strittmacher-Straße,,,,way
 Eweststraße,,,,way
-Exerzierstraße,,,,way
 F-Weg,,,,way
 "FKK-Bereich Halensee",,,,way
 Fafnersteg,,,,way
 Fahlenbergbrücke,,,,way
 Fahremundstraße,,,,way
 Fahrradbrücke,,,,way
+Fahrradrampe,,,,way
 Fährweg,,,,way
 Familiengarten,,,,way
 Feldblumenweg,,,,way
@@ -6539,14 +6542,12 @@ Friedenthalpark,,,,way
 "Friedland Promenade",,,,way
 Friedrich-Haak-Brücke,,,,way
 Friedrich-List-Ufer,,,,way
-Fritz-Schloß-Park,,,,way
 Frommpromenade,,,,way
 Frostraße,,,,way
 Fuchssteinerweg,,,,way
 Fuhrmannstraße,,,,way
 Funkelgang,,,,way
 "Fußgängerbrücke Schmöckwitzwerder",,,,way
-"Fußgängertunnel Schnellerstraße / Brückenstraße",,,,way
 "Fußweg 469",,,,way
 "Fußweg 475",,,,way
 "Fußweg 552",,,,way
@@ -6638,6 +6639,7 @@ Gumlichweg,,,,way
 Günther-Weg,,,,way
 Güntherstraße,,,,way
 Gustav-Hertz-Platz,,,,way
+Gustav-Tempel-Straße,,,,way
 "Gut Hellersdorf",,,,way
 Gütlingstraße,,,,way
 Gutspark,,,,way
@@ -6695,6 +6697,7 @@ Hillmannstraße,,,,way
 Hin­der­nis­par­cours,,,,way
 "Hinter dem Zeughaus",,,,way
 "Hinter den Gärten",,,,way
+Hirtengarten,,,,way
 "Historische Ladestraße",,,,way
 Hobeckweg,,,,way
 Hochbahnübergang,,,,way
@@ -6726,7 +6729,7 @@ Hummelweg,,,,way
 Hunckemüllerweg,,,,way
 I-Weg,,,,way
 Igelkolbensteig,,,,way
-Igelsteig,,,,way
+Ilse-Krause-Straße,,,,way
 "Im Achterkastell",,,,way
 "Im Domstift",,,,way
 "Im Eck",,,,way
@@ -6741,6 +6744,7 @@ Igelsteig,,,,way
 "In den Gärten",,,,way
 "In den Ministergärten",,,,way
 Ingrid-Rabe-Straße,,,,way
+Ingrid-Reschke-Straße,,,,way
 "Inline-Skate Rundkurs",,,,way
 Inselbrücke,,,,way
 Irrgarten,,,,way
@@ -6815,7 +6819,6 @@ Knieweg,,,,way
 Knyphausenweg,,,,way
 Koblanckstraße,,,,way
 Kokoschkaplatz,,,,way
-"Kolonie Friedensgarten I",,,,way
 "Kolonie Sonntagsfreude",,,,way
 Kolonnade,,,,way
 Kolonnenbrücke,,,,way
@@ -7074,6 +7077,7 @@ Pritstabelstraße,,,,way
 "Privatstraße 7",,,,way
 "Privatstraße 8",,,,way
 "Privatstraße 9",,,,way
+Privatweg,,,,way
 Promenade,,,,way
 Prozessweg,,,,way
 Puchertweg,,,,way
@@ -7140,6 +7144,8 @@ Rohrlake,,,,way
 Rohrweg,,,,way
 Rollbergstraße,,,,way
 Rombsweg,,,,way
+Rosa-Coutelle-Straße,,,,way
+Rose-Scheuer-Karpin-Straße,,,,way
 Rosengang,,,,way
 Rosengarten,,,,way
 "Rosengarten am Musikpavillion",,,,way
@@ -7175,6 +7181,7 @@ Schendelgasse,,,,way
 Schendelpark,,,,way
 Schenkestraße,,,,way
 Schiffbauerdammbrücke,,,,way
+Schilfweg,,,,way
 Schinderbrücke,,,,way
 Schirnerstraße,,,,way
 Schlangenweg,,,,way
@@ -7183,9 +7190,11 @@ Schleusenweg,,,,way
 Schlossbrücke,,,,way
 "Schlosspark Britz",,,,way
 Schlosspark-Passage,,,,way
+Schloßfreiheit,,,,way
 Schloßinsel,,,,way
 "Schloßpark Lichterfelde",,,,way
 Schluchtweg,,,,way
+Schlüterhof,,,,way
 Schlüterweg,,,,way
 "Schmale Gasse",,,,way
 "Schmale Straße",,,,way
@@ -7250,7 +7259,6 @@ Spinolastraße,,,,way
 "Spitzer Weg",,,,way
 Sporthalle,,,,way
 "Sportpark Neues Ufer",,,,way
-Sportweg,,,,way
 Spreeschlossstraße,,,,way
 Springpfuhlbrücke,,,,way
 Stabholzgarten,,,,way
@@ -7258,6 +7266,7 @@ Stadionstraße,,,,way
 "Stadtplatz am Glambecker Ring",,,,way
 "Stadtrandpark Neue Wiesen",,,,way
 "Stadtteilpark Palmenhof",,,,way
+Stadtterrasse,,,,way
 Stangeweg,,,,way
 Star-Platz,,,,way
 Stargardtstraße,,,,way
@@ -7265,6 +7274,7 @@ Stawesdamm,,,,way
 Stechowstraße,,,,way
 Steengravenweg,,,,way
 Steinkleeweg,,,,way
+Stellahof,,,,way
 Sterckmannweg,,,,way
 Sternallee,,,,way
 Sterndamm,,,,way
@@ -7357,7 +7367,6 @@ Strandschloßweg,,,,way
 "Straße 26",,,,way
 "Straße 264",,,,way
 "Straße 265",,,,way
-"Straße 26a",,,,way
 "Straße 27",,,,way
 "Straße 270",,,,way
 "Straße 28",,,,way
@@ -7445,7 +7454,6 @@ Strandschloßweg,,,,way
 "Straße 94",,,,way
 "Straße 96",,,,way
 "Straße 97",,,,way
-"Straße 99",,,,way
 "Straße A",,,,way
 "Straße B",,,,way
 "Straße C",,,,way
@@ -7494,7 +7502,6 @@ Teilestraße,,,,way
 "Teltower Weg",,,,way
 "Teupitzer Park",,,,way
 "Thaters Privatweg",,,,way
-Thaterstraße,,,,way
 Thiloweg,,,,way
 Thomaskirche,,,,way
 "Thurbrucher Steig",,,,way
@@ -7521,6 +7528,7 @@ Uhlandweg,,,,way
 Uhusteg,,,,way
 Ullrichplatz,,,,way
 Ullrichstraße,,,,way
+Ulrich-Plenzdorf-Straße,,,,way
 Ulrikenstraße,,,,way
 Umgehungschaussee,,,,way
 "Universum Landes-Ausstellungs-Park",,,,way
@@ -7670,7 +7678,7 @@ Zastrowstraße,,,,way
 "Zeile 8",,,,way
 Zeltenplatz,,,,way
 "Zeltinger Platz/S Frohnau",,,,way
-"Zentraler Festplatz",,,,way
+"Zentraler Platz",,,,way
 Zentralweg,,,,way
 Zernickstraße,,,,way
 Zinienweg,,,,way
