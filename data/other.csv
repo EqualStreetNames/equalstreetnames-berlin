@@ -432,7 +432,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Wiesenende",wikidata,,Q1434274,way
 "Am Wiesengrund",wikidata,,Q7777019,way
 "Am Wiesenrain",wikidata,,Q7777019,way
-"Am Wiesenweg",wikidata,,Q12046227,way
+"Am Wiesenweg",wikidata,,Q11638045,way
 "Am Wildbusch",wikidata,,Q4421,way
 "Am Wildgatter",wikidata,,Q65246828,way
 "Am Wriezener Bahnhof",wikidata,,Q821343,way
@@ -539,7 +539,6 @@ Andenzeisigweg,wikidata,,Q27075880,way
 Andornsteig,wikidata,,Q159392,way
 "Andreasberger Straße",wikidata,,Q661700,way
 Andreasstraße,wikidata,,Q2317034,way
-Äneasstraße,wikidata,,Q82732,way
 Anemonenstraße,wikidata,,Q158286,way
 Angelikaweg,wikidata,,Q219666,way
 "Angerburger Allee",wikidata,,Q751153,way
@@ -1008,7 +1007,7 @@ Braunfelsstraße,wikidata,,Q525612,way
 "Breisacher Straße",wikidata,,Q489911,way
 "Breisgauer Straße",wikidata,,Q690971,way
 "Breitenfelder Straße",wikidata,,Q11829889,way
-"Breiter Weg",wikidata,,Q12046227,way
+"Breiter Weg",wikidata,,Q11638045,way
 "Breites Fenn",wikidata,,Q20826048,way
 "Breitunger Weg",wikidata,,Q698850,way
 "Bremer Straße",wikidata,,Q24879,way
@@ -1676,8 +1675,8 @@ Feldspatweg,wikidata,,Q170258,way
 Feldspatzenweg,wikidata,,Q25968,way
 "Feldstedter Weg",wikidata,,Q12871664,way
 Feldsteg,wikidata,,Q188869,way
-Feldstraße,wikidata,,Q12046227;Q1434232;Q188869,way
-Feldweg,wikidata,,Q12046227,way
+Feldstraße,wikidata,,Q11638045;Q1434232;Q188869,way
+Feldweg,wikidata,,Q11638045,way
 Feldzeugmeisterstraße,wikidata,,Q267789,way
 "Fellbacher Platz",wikidata,,Q7022,way
 "Fellbacher Straße",wikidata,,Q7022,way
@@ -2004,6 +2003,7 @@ Gewerbehof,wikidata,,Q1520437,way
 Ghanastraße,wikidata,,Q117,way
 "Gielower Straße",wikidata,,Q50954,way
 "Gielsdorfer Straße",wikidata,,Q27479172,way
+Gieselherstraße,wikidata,,Q1291259,way
 "Giesensdorfer Straße",wikidata,,Q1327074,way
 Giesestraße,wikidata,,Q21504605,way
 "Gilgenburger Straße",wikidata,,Q1272595,way
@@ -2015,6 +2015,7 @@ Ginsterweg,wikidata,,Q156696,way
 Gipsstraße,wikidata,,Q82658,way
 Girlitzweg,wikidata,,Q271807,way
 Gisbertasteig,wikidata,,Q104580959,way
+Giselhersteig,wikidata,,Q1291259,way
 "Gitschiner Straße",wikidata,,Q656603,way
 Glacisweg,wikidata,,Q948008,way
 "Gladauer Weg",wikidata,,Q5627505,way
@@ -2336,7 +2337,6 @@ Hasensteg,wikidata,,Q25900,way
 Hasenweg,wikidata,,Q25900,way
 "Hasselfelder Weg",wikidata,,Q50867,way
 Hasselwerderstraße,wikidata,,Q993497,way
-"Hasseroder Straße",wikidata,,Q1588707,way
 Hassoweg,wikidata,,Q21400608,way
 "Haßfurter Weg",wikidata,,Q492659,way
 "Hattenheimer Straße",wikidata,,Q1589004,way
@@ -2344,7 +2344,7 @@ Hassoweg,wikidata,,Q21400608,way
 "Hatzenporter Weg",wikidata,,Q554243,way
 Hauptgestell,wikidata,,Q487843,way
 Hauptstraße,wikidata,,Q1006835;Q821113,way
-Hauptweg,wikidata,,Q12046227,way
+Hauptweg,wikidata,,Q11638045,way
 Hauskavelweg,wikidata,,Q70196,way
 Hausstockweg,wikidata,,Q15300,way
 Hausvaterweg,wikidata,,Q601444,way
@@ -2559,7 +2559,7 @@ Hohenzollernring,wikidata,,Q83969,way
 Hohenzollernstraße,wikidata,,Q83969,way
 "Hoher Steinweg",wikidata,,Q3328263,way
 "Hoher Wallgraben",wikidata,,Q1623953,way
-"Hoher Weg",wikidata,,Q12046227,way
+"Hoher Weg",wikidata,,Q11638045,way
 "Hoiruper Straße",wikidata,,Q1652014,way
 "Holenbrunner Weg",wikidata,,Q1539709,way
 Hollabergweg,wikidata,,Q31538258,way
@@ -3234,7 +3234,7 @@ Landvogtstraße,wikidata,,Q4122737,way
 "Langensalzaer Straße",wikidata,,Q518368,way
 "Langensteiner Weg",wikidata,,Q704109,way
 "Langer Jammer",wikidata,,Q190866,way
-"Langer Weg",wikidata,,Q12046227,way
+"Langer Weg",wikidata,,Q11638045,way
 Langer-See-Straße,wikidata,,Q1805169,way
 "Langewahler Weg",wikidata,,Q628371,way
 "Langfuhrer Allee",wikidata,,Q541765,way
@@ -3496,7 +3496,6 @@ Magnolienpfad,wikidata,,Q157017,way
 Magnolienring,wikidata,,Q157017,way
 "Mahlower Straße",wikidata,,Q574128,way
 "Mahlsdorfer Straße",wikidata,,Q563837,way
-"Mahlsdorfer Weg",wikidata,,Q563837,way
 Mahnkopfweg,wikidata,,Q104776019,way
 Mahonienweg,wikidata,,Q157379,way
 Maienstraße,wikidata,,Q1885174,way
@@ -3884,9 +3883,9 @@ Netzestraße,wikidata,,Q828869,way
 "Neuenburger Straße",wikidata,,Q12738,way
 "Neuendorfer Straße",wikidata,,Q1759998,way
 "Neuenhagener Straße",wikidata,,Q582690,way
-"Neuer Feldweg",wikidata,,Q12046227,way
+"Neuer Feldweg",wikidata,,Q11638045,way
 "Neuer Schildhornweg",wikidata,,Q2235546,way
-"Neuer Weg",wikidata,,Q12046227,way
+"Neuer Weg",wikidata,,Q11638045,way
 "Neues Ufer",wikidata,,Q468756;Q1067421,way
 "Neufährer Steig",wikidata,,Q1837513,way
 Neufahrwasserweg,wikidata,,Q1837513,way
@@ -4114,6 +4113,7 @@ Palisadenstraße,wikidata,,Q90685,way
 Palmkernzeile,wikidata,,Q2048273,way
 "Panke Grünzug Nord",wikidata,,Q564361,way
 Pankeweg,wikidata,,Q564361,way
+"Pankeweg (Panke-Trail)",wikidata,,Q564361,way
 Pankewegbrücke,wikidata,,Q564361,way
 Pankgrafenbrücke,wikidata,,Q2049560,way
 Pankgrafenstraße,wikidata,,Q2049560,way
@@ -4837,7 +4837,7 @@ Schloßstraße,wikidata,,Q1315717;Q15106690;Q154996;Q651833,way
 Schlotterkammsteig,wikidata,,Q693868,way
 Schluchseestraße,wikidata,,Q835671,way
 Schlütersteig,wikidata,,Q1236505,way
-"Schmaler Weg",wikidata,,Q12046227,way
+"Schmaler Weg",wikidata,,Q11638045,way
 "Schmargendorfer Straße",wikidata,,Q641689,way
 Schmetterlingsplatz,wikidata,,Q28319,way
 Schmetterlingswiesen,wikidata,,Q28319,way
@@ -5094,7 +5094,7 @@ Solquellstraße,wikidata,,Q15517598,way
 "Sommerfelder Straße",wikidata,,Q14947358,way
 Sommerstraße,wikidata,,Q1313,way
 Sommerweg,wikidata,,Q1313,way
-Sommerwiesenweg,wikidata,,Q12046227,way
+Sommerwiesenweg,wikidata,,Q11638045,way
 Sonatenweg,wikidata,,Q131269,way
 "Sonderburger Straße",wikidata,,Q21179,way
 "Sondershauser Straße",wikidata,,Q517407,way
@@ -5149,6 +5149,7 @@ Spinatweg,wikidata,,Q81464,way
 "Spindlersfelder Straße",wikidata,,Q821140,way
 Spirdingseestraße,wikidata,,Q387256,way
 Spittelmarkt,wikidata,,Q1432232,way
+Spitzmausweg,wikidata,,Q41631,way
 "Spitzmühler Straße",wikidata,,Q81319217,way
 Spitzwegerichweg,wikidata,,Q157408,way
 Splügenweg,wikidata,,Q605243,way
@@ -5665,7 +5666,6 @@ Volkerstraße,wikidata,,Q1576766,way
 Volkradstraße,wikidata,,Q27648539,way
 "Volkspark Hasenheide",wikidata,,Q25900,way
 "Volkspark Mariendorf",wikidata,,Q602159,way
-"Volkspark Wilmersdorf",wikidata,,Q693628,way
 Volksparksteg,wikidata,,Q1371159,way
 "Vor dem Schlesischen Tor",wikidata,,Q1169350,way
 "Vorarlberger Damm",wikidata,,Q38981,way
@@ -5762,6 +5762,7 @@ Wartenburgstraße,wikidata,,Q686903,way
 Wartheplatz,wikidata,,Q201823,way
 Warthestraße,wikidata,,Q201823,way
 "Wartiner Straße",wikidata,,Q2550009,way
+Waschbärweg,wikidata,,Q121439,way
 Wasgensteig,wikidata,,Q187843,way
 Wasgenstraße,wikidata,,Q187843,way
 Wasseramselweg,wikidata,,Q201831,way
@@ -5773,7 +5774,7 @@ Wasserstraße,wikidata,,Q1682,way
 Wassertorplatz,wikidata,,Q82117,way
 Wassertorstraße,wikidata,,Q82117,way
 Wasserturmplatz,wikidata,,Q32662967,way
-Wasserweg,wikidata,,Q12046227,way
+Wasserweg,wikidata,,Q11638045,way
 Wasserwerkstraße,wikidata,,Q15134506,way
 "Wasunger Weg",wikidata,,Q546530,way
 "Waßmannsdorfer Chaussee",wikidata,,Q144902,way
@@ -5911,7 +5912,7 @@ Wiesenpromenade,wikidata,,Q7777019,way
 Wiesenschlag,wikidata,,Q1434274,way
 Wiesenstraße,wikidata,,Q20820178;Q7777019,way
 Wiesenufer,wikidata,,Q1434274,way
-Wiesenweg,wikidata,,Q12046227;Q7777019,way
+Wiesenweg,wikidata,,Q11638045;Q7777019,way
 Wiesenwinkel,wikidata,,Q7777019,way
 "Wigandstaler Straße",wikidata,,Q2100074,way
 Wikingerufer,wikidata,,Q12567,way
@@ -6290,6 +6291,7 @@ Alter-Robert-Park,,,,way
 "Am Sportplatz",,,,way
 "Am Springeberg",,,,way
 "Am Staakener Kirchengelände",,,,way
+"Am Steinberg - Grünanlage am Teich",,,,way
 "Am Steinkreis",,,,way
 "Am Stieggraben",,,,way
 "Am Südpark",,,,way
@@ -6393,6 +6395,7 @@ Blockpark,,,,way
 Blütenachse,,,,way
 Blütenweißweg,,,,way
 Bornepfad,,,,way
+"Botanischer Garten",,,,way
 "Botanischer Volkspark Blankenfelde-Pankow",,,,way
 Bötzowbahn,,,,way
 Brandweg,,,,way
@@ -6456,6 +6459,7 @@ Drachenfels,,,,way
 Drachenwiese,,,,way
 Dregerhoffstraße,,,,way
 Drostestraße,,,,way
+Dürergärten,,,,way
 "Durlacher Platz",,,,way
 Dusekestraße,,,,way
 Düsterhauptstraße,,,,way
@@ -6562,6 +6566,7 @@ Gallipoliweg,,,,way
 "Garten Liebermann",,,,way
 "Garten der Blumen und Wasserspiele",,,,way
 "Gärten der Welt",,,,way
+Gartenpavilion,,,,way
 Gartenplatz,,,,way
 Gäßnerweg,,,,way
 Gatterweg,,,,way
@@ -6627,6 +6632,7 @@ Großmannweg,,,,way
 Grundackerweg,,,,way
 Grundweg,,,,way
 "Grunewald West",,,,way
+"Grünfläche an der Gänseplastik",,,,way
 "Grüntaler Flanier Nord",,,,way
 "Grüntaler Flanier Süd",,,,way
 "Grünzug Südpanke",,,,way
@@ -7011,6 +7017,7 @@ Panoramastraße,,,,way
 Pardemannstraße,,,,way
 "Park Hewald",,,,way
 "Park am Nordbahnhof",,,,way
+"Park am Urnenfriedhof Gerichtstraße",,,,way
 "Park am Weidengrund",,,,way
 "Park am Weißen See",,,,way
 "Park an der Diesterwegstraße",,,,way
@@ -7036,6 +7043,8 @@ Pfahlerstraße,,,,way
 Pfefferweg,,,,way
 Pflanzerweg,,,,way
 "Pfuhlgelände an der Britzer Straße",,,,way
+"Pfuhlweg I",,,,way
+"Pfuhlweg II",,,,way
 Philipp-Jacob-Rauch-Straße,,,,way
 Philippstraße,,,,way
 Piazza,,,,way
@@ -7079,6 +7088,7 @@ Pritstabelstraße,,,,way
 "Privatstraße 9",,,,way
 Privatweg,,,,way
 Promenade,,,,way
+Protokollhof,,,,way
 Prozessweg,,,,way
 Puchertweg,,,,way
 Pyramidenbrücke,,,,way
@@ -7280,6 +7290,7 @@ Sternallee,,,,way
 Sterndamm,,,,way
 Sternstraße,,,,way
 Stewardstraße,,,,way
+Stichweg,,,,way
 "Stichweg A",,,,way
 "Stichweg B",,,,way
 "Stichweg C",,,,way
@@ -7462,7 +7473,6 @@ Strandschloßweg,,,,way
 "Straße F",,,,way
 "Straße G",,,,way
 "Straße H",,,,way
-"Straße I",,,,way
 "Straße J",,,,way
 "Straße K",,,,way
 "Straße L",,,,way
@@ -7515,6 +7525,7 @@ Torstraße,,,,way
 Torweg,,,,way
 Treutelstraße,,,,way
 Trompeterweg,,,,way
+Tröpfebrunnen,,,,way
 Tulpengang,,,,way
 "Tunnel Alexanderplatz",,,,way
 "Tunnel Schlangenbader Straße",,,,way
@@ -7542,8 +7553,8 @@ Uwe-Lieschied-Straße,,,,way
 Veitstraße,,,,way
 Verbindungschaussee,,,,way
 Verbindungsstraße,,,,way
+"Verbindungsweg Süd zum Landschaftspark",,,,way
 Verdiweg,,,,way
-Vereinshausbrücke,,,,way
 "Vereinsplatz KGA Grönland e. V.",,,,way
 "Vereinsplatz KGA Neues Heim e. V.",,,,way
 Vereinsstraße,,,,way
@@ -7656,6 +7667,7 @@ Winkelpfad,,,,way
 Winkelweg,,,,way
 Winklerstraße,,,,way
 Wlikesweg,,,,way
+"Wohnungsnahe Grünanlage",,,,way
 Wolfgang-Seifert-Weg,,,,way
 "Wriezener Freiraum-Labor",,,,way
 "Yorckbrücke 5",,,,way
