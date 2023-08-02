@@ -189,6 +189,7 @@ Hildegardstraße,wikidata,F,Q70991,way
 Hiltrud-Dudek-Weg,wikidata,F,Q97480678,way
 Ida-Wolff-Platz,wikidata,F,Q1656554,way
 Ida-von-Arnim-Straße,wikidata,F,Q59582057,way
+Ilse-Krause-Straße,wikidata,F,Q15557027,way
 Ilse-Schaeffer-Straße,wikidata,F,Q1651378,way
 Indira-Gandhi-Straße,wikidata,F,Q1149,way
 Ines-Bolla-Pfad,wikidata,F,Q78058270,way
@@ -336,14 +337,15 @@ Rahel-Hirsch-Straße,wikidata,F,Q105722,way
 Regine-Hildebrandt-Park,wikidata,F,Q77980,way
 Renée-Sintenis-Platz,wikidata,F,Q64341,way
 Romy-Schneider-Straße,wikidata,F,Q78469,way
+Rosa-Coutelle-Straße,wikidata,F,Q117319788,way
 Rosa-Luxemburg-Platz,wikidata,F,Q7231,way
 Rosa-Luxemburg-Steg,wikidata,F,Q7231,way
 Rosa-Luxemburg-Straße,wikidata,F,Q7231,way
 Rosa-Reinglass-Steig,wikidata,F,Q104532643,way
 Rosa-Valetti-Straße,wikidata,F,Q4826,way
+Rose-Scheuer-Karpin-Straße,wikidata,F,Q117319813,way
 Rotraut-Richter-Platz,wikidata,F,Q119766,way
 "Ruth Andreas-Friedrich-Park",wikidata,F,Q1631034,way
-Ruth-Baumgarte-Straße,wikidata,F,Q6451095,way
 Ruth-Stephan-Straße,wikidata,F,Q103702,way
 Scharfestraße,wikidata,F,Q98035011,way
 Sella-Hasse-Straße,wikidata,F,Q1646368,way
@@ -465,7 +467,6 @@ Andersenstraße,wikidata,M,Q5673,way
 Andersenweg,wikidata,M,Q5673,way
 Andreas-Hofer-Platz,wikidata,M,Q11697,way
 Andréezeile,wikidata,M,Q350420,way
-Äneasstraße,wikidata,M,Q82732,way
 Anschützweg,wikidata,M,Q70995,way
 Ansgarstraße,wikidata,M,Q110299,way
 Anton-Saefkow-Park,wikidata,M,Q74356,way
@@ -1073,6 +1074,7 @@ Eugen-Gerstenmaier-Platz,wikidata,M,Q66447,way
 Eugen-Kleine-Brücke,wikidata,M,Q55853513,way
 Eugen-Roth-Weg,wikidata,M,Q45294,way
 Eugen-Schönhaar-Straße,wikidata,M,Q1372884,way
+Eugeniu-Botnari-Platz,wikidata,M,Q108670381,way
 Eulerstraße,wikidata,M,Q7604,way
 Evastraße,wikidata,M,Q1511;Q55011377,way
 Eyke-von-Repkow-Platz,wikidata,M,Q77737,way
@@ -1344,7 +1346,6 @@ Görschstraße,wikidata,M,Q104711930,way
 Göschenplatz,wikidata,M,Q97527,way
 Göschenstraße,wikidata,M,Q97527,way
 Goßlerstraße,wikidata,M,Q95232,way
-Gottfried-Arnold-Weg,wikidata,M,Q67146,way
 Gottfried-Funeck-Weg,wikidata,M,Q97038940,way
 "Gottfried-Funeck-Weg (Wuhlesteg)",wikidata,M,Q97038940,way
 Gottfried-Keller-Straße,wikidata,M,Q122370,way
@@ -1751,7 +1752,6 @@ Jochemplatz,wikidata,M,Q20752838,way
 Jochen-Klepper-Park,wikidata,M,Q76329,way
 Jochen-Klepper-Weg,wikidata,M,Q76329,way
 "Johann-Baptist-Gradl Grünanlage",wikidata,M,Q96959,way
-Johann-Ewald-Weg,wikidata,M,Q1694979,way
 Johann-Georg-Straße,wikidata,M,Q505918,way
 Johann-Hittorf-Straße,wikidata,M,Q60428,way
 Johann-Jacob-Baeyer-Straße,wikidata,M,Q76388,way
@@ -1761,7 +1761,6 @@ Johann-Sigismund-Straße,wikidata,M,Q40746,way
 Johannes-Bobrowski-Straße,wikidata,M,Q77438,way
 Johannes-Guthmann-Weg,wikidata,M,Q94886700,way
 Johannes-Kraaz-Straße,wikidata,M,Q104144263,way
-Johannes-Kupke-Straße,wikidata,M,Q15441174,way
 Johannes-Niemeyer-Weg,wikidata,M,Q1429359,way
 Johannes-Sasse-Ring,wikidata,M,Q98830807,way
 Johannes-Tobei-Straße,wikidata,M,Q15453913,way
@@ -2644,7 +2643,7 @@ Richard-Tauber-Damm,wikidata,M,Q78632,way
 Richard-Wagner-Platz,wikidata,M,Q1511,way
 Richard-Wagner-Straße,wikidata,M,Q1511,way
 Richard-Willstätter-Straße,wikidata,M,Q77072,way
-Richard-von-Weizsäcker-Platz,wikidata,M,Q150652;Q2567,way
+Richard-von-Weizsäcker-Platz,wikidata,M,Q2567,way
 Richnowstraße,wikidata,M,Q104767270,way
 Richterstraße,wikidata,M,Q761234;Q85794303,way
 Riedemannweg,wikidata,M,Q125007,way
@@ -2690,6 +2689,7 @@ Roennebergstraße,wikidata,M,Q1505767,way
 Rohlfsstraße,wikidata,M,Q63209,way
 Rohrbachstraße,wikidata,M,Q98141815,way
 Roland-Krüger-Straße,wikidata,M,Q99519997,way
+Rolandstraße,wikidata,M,Q207535,way
 Rollenhagenweg,wikidata,M,Q1505776,way
 Rollettweg,wikidata,M,Q1399667,way
 Romain-Rolland-Straße,wikidata,M,Q47162,way
@@ -2745,7 +2745,6 @@ Rudolfstraße,wikidata,M,Q1305988,way
 "Rue Henri Guillaumet",wikidata,M,Q927427,way
 "Rue Hyacinthe Vincent",wikidata,M,Q2397866,way
 "Rue Joseph le Brix",wikidata,M,Q983629,way
-"Rue Lamartine",wikidata,M,Q188697,way
 "Rue Marin la Meslée",wikidata,M,Q320482,way
 "Rue Montesquieu",wikidata,M,Q15975,way
 "Rue Nungesser et Coli",wikidata,M,Q918462,way
