@@ -1746,7 +1746,6 @@ Fliederstraße,wikidata,,Q157449,way
 Fliederweg,wikidata,,Q157449,way
 Fliegenpilzstraße,wikidata,,Q131227,way
 Fliegensteig,wikidata,,Q27584,way
-Fliegerhorstsiedlung,wikidata,,Q655892,way
 Fließstraße,wikidata,,Q1428635,way
 Fließtalstraße,wikidata,,Q1646276,way
 "Flinsberger Platz",wikidata,,Q387561,way
@@ -2142,7 +2141,8 @@ Grenadierstraße,wikidata,,Q313303,way
 "Grenobler Ring",wikidata,,Q1289,way
 Grenzallee,wikidata,,Q133346,way
 Grenzgrabenstraße,wikidata,,Q15055972,way
-Grenzstraße,wikidata,,Q133346,way
+Grenzstraße,wikidata,,Q133346;Q26879364,way
+Grenzstraßenbrücke,wikidata,,Q26879364,way
 Grenzweg,wikidata,,Q133346,way
 Gretelstraße,wikidata,,Q11829,way
 "Grevesmühlener Straße",wikidata,,Q517353,way
@@ -3282,7 +3282,7 @@ Lehnitzstraße,wikidata,,Q575131,way
 Leinestraße,wikidata,,Q161051,way
 "Leipziger Platz",wikidata,,Q151005,way
 "Leipziger Straße",wikidata,,Q2079,way
-Leise-Park,wikidata,,Q622324,way
+Leisepark,wikidata,,Q622324,way
 "Leisniger Straße",wikidata,,Q71133,way
 "Lemgoer Straße",wikidata,,Q14817,way
 "Lengeder Straße",wikidata,,Q627559,way
@@ -5018,7 +5018,7 @@ Sewanstraße,wikidata,,Q181932,way
 Seychellenring,wikidata,,Q1042,way
 Sibyllenstraße,wikidata,,Q18924869,way
 Sichelsteig,wikidata,,Q42233,way
-Sieben-Raaben-Weg,wikidata,,Q467932,way
+Sieben-Raben-Weg,wikidata,,Q467932,way
 Siebenendenweg,wikidata,,Q1434274,way
 Siebenendenwegbrücke,wikidata,,Q1434274,way
 Siebweg,wikidata,,Q1434274,way
@@ -5224,6 +5224,7 @@ Stelzenweg,wikidata,,Q230042,way
 Sternbergpromenade,wikidata,,Q16883840,way
 Sternblütenweg,wikidata,,Q1563777,way
 Sternliebweg,wikidata,,Q931453,way
+Sternstraße,wikidata,,Q29951622,way
 Sterntalerstraße,wikidata,,Q11846,way
 Sterntalerweg,wikidata,,Q11846,way
 "Sterzinger Straße",wikidata,,Q263305,way
@@ -6080,7 +6081,6 @@ Ziegeleiweg,wikidata,,Q198632,way
 Ziegelhof,wikidata,,Q198632,way
 Ziegelstraße,wikidata,,Q198632,way
 "Ziegenorter Pfad",wikidata,,Q1016582,way
-Ziergartenweg,wikidata,,Q199098,way
 Zieselweg,wikidata,,Q199251,way
 Zikadenweg,wikidata,,Q202890,way
 Zillertalstraße,wikidata,,Q203139,way
@@ -6212,6 +6212,7 @@ Aktionspark,,,,way
 Alerichstraße,,,,way
 Alpenhöhe,,,,way
 Alpenweg,,,,way
+"Alt-Buckow / Dorfteich",,,,way
 "Alte Poststraße",,,,way
 "Alte Rhinstraße",,,,way
 "Alte Spandauer Poststraße",,,,way
@@ -6306,7 +6307,6 @@ Amtsstraße,,,,way
 "An den Parkbäumen",,,,way
 "An den Weiden",,,,way
 "An der Festwiese",,,,way
-"An der Feuerwache",,,,way
 "An der Havelspitze",,,,way
 "An der Himmelswiese",,,,way
 "An der Karlshorster Heide",,,,way
@@ -6316,9 +6316,10 @@ Amtsstraße,,,,way
 "An der Spitze",,,,way
 "An der Spreeschanze",,,,way
 "An der Straße",,,,way
+"An der Streuobstwiese",,,,way
 "An der Trainierbahn",,,,way
-"An der Villa Bolle",,,,way
 "An der Waldsiedlung",,,,way
+"An der alten Gärtnerei",,,,way
 "Andersen Weg",,,,way
 Andersonweg,,,,way
 Anemonenweg,,,,way
@@ -6378,7 +6379,6 @@ Bismarcksteg,,,,way
 Blockpark,,,,way
 "Blumberger Chaussee",,,,way
 Blütenachse,,,,way
-Blütenweißweg,,,,way
 Bornepfad,,,,way
 "Botanischer Garten",,,,way
 "Botanischer Volkspark Blankenfelde-Pankow",,,,way
@@ -6423,6 +6423,7 @@ Charkiw-Park,,,,way
 Charlottenweg,,,,way
 Christiansteg,,,,way
 Clara-Mleinek-Straße,,,,way
+Clara-Müller-Jahnke-Straße,,,,way
 Colbestraße,,,,way
 Crusemarkstraße,,,,way
 Dagobert-Wiesmüller-Platz,,,,way
@@ -6468,8 +6469,8 @@ Elise-Tilse-Park,,,,way
 Elisenstraße,,,,way
 Ella-Augustin-Platz,,,,way
 Ella-Trebe-Straße,,,,way
+Elsa-Neumann-Straße,,,,way
 Elsenweg,,,,way
-Elsnerweg,,,,way
 Emilie-Mayer-Weg,,,,way
 Emilienstraße,,,,way
 Endweg,,,,way
@@ -6491,6 +6492,7 @@ F-Weg,,,,way
 Fafnersteg,,,,way
 Fahlenbergbrücke,,,,way
 Fahremundstraße,,,,way
+"Fahrrad durch Bhf schieben",,,,way
 Fahrradbrücke,,,,way
 Fahrradrampe,,,,way
 Fährweg,,,,way
@@ -6599,7 +6601,6 @@ Graetschelsteig,,,,way
 Grenzbergeweg,,,,way
 Grenzburgstraße,,,,way
 Grenzpfad,,,,way
-Grenzstraßenbrücke,,,,way
 Grenzwegbrücke,,,,way
 Griebenweg,,,,way
 Grimnitzpark,,,,way
@@ -6621,6 +6622,7 @@ Grundweg,,,,way
 "Grünfläche an der Gänseplastik",,,,way
 "Grüntaler Flanier Nord",,,,way
 "Grüntaler Flanier Süd",,,,way
+"Grünzug Bullengraben",,,,way
 "Grünzug Südpanke",,,,way
 "Grünzug am Langen Becken",,,,way
 Grußdorfstraße,,,,way
@@ -6628,10 +6630,9 @@ Grützmacherpark,,,,way
 Grützmacherweg,,,,way
 Guido-Treschler-Weg,,,,way
 Gumlichweg,,,,way
-Günther-Weg,,,,way
+Günterweg,,,,way
 Güntherstraße,,,,way
 Gustav-Hertz-Platz,,,,way
-Gustav-Tempel-Straße,,,,way
 "Gut Hellersdorf",,,,way
 Gütlingstraße,,,,way
 Gutspark,,,,way
@@ -6641,7 +6642,6 @@ Gutspark,,,,way
 H-Weg,,,,way
 Haberechtstraße,,,,way
 Habichtweg,,,,way
-Hafeldweg,,,,way
 Hainbuchenweg,,,,way
 Hallichpromenade,,,,way
 Hamannweg,,,,way
@@ -6668,6 +6668,7 @@ Heidekrugstraße,,,,way
 Heimat,,,,way
 Heimfriedstraße,,,,way
 Heimstättenweg,,,,way
+Heinrich-Hertz-Straße,,,,way
 Heinrich-Zille-Park,,,,way
 Heinsestraße,,,,way
 Heinweg,,,,way
@@ -6745,11 +6746,11 @@ Jamaikaweg,,,,way
 Jean-Monnet-Straße,,,,way
 "Jenseits der Natur",,,,way
 Johann-Ewald-Weg,,,,way
-"Johannes Park",,,,way
 Johannes-Itten-Straße,,,,way
 Johannes-Werner-Straße,,,,way
 Johannisplatz,,,,way
 Johannisstraße,,,,way
+Joseph-von-Eichendorff-Gasse,,,,way
 Judengang,,,,way
 Judisgasse,,,,way
 Jugendpark,,,,way
@@ -6838,7 +6839,6 @@ Krysiakweg,,,,way
 Kuhnertstraße,,,,way
 Kühneweg,,,,way
 Kulbeweg,,,,way
-Künstlerweg,,,,way
 Kupfergraben,,,,way
 Kupferkamp,,,,way
 Kürißweg,,,,way
@@ -7073,7 +7073,6 @@ Pritstabelstraße,,,,way
 "Privatstraße 7",,,,way
 "Privatstraße 8",,,,way
 "Privatstraße 9",,,,way
-Privatweg,,,,way
 Promenade,,,,way
 Protokollhof,,,,way
 Prozessweg,,,,way
@@ -7236,7 +7235,6 @@ Sennockstraße,,,,way
 Separationsweg,,,,way
 Seufzerbrücke,,,,way
 Sickingenbrücke,,,,way
-Sieben-Raben-Weg,,,,way
 "Siedlung Roedernau",,,,way
 Siedlungsring,,,,way
 Siedlungsweg,,,,way
@@ -7276,7 +7274,6 @@ Stellahof,,,,way
 Sterckmannweg,,,,way
 Sternallee,,,,way
 Sterndamm,,,,way
-Sternstraße,,,,way
 Stewardstraße,,,,way
 Stichweg,,,,way
 "Stichweg A",,,,way
@@ -7410,8 +7407,6 @@ Strandschloßweg,,,,way
 "Straße 52",,,,way
 "Straße 52a",,,,way
 "Straße 52b",,,,way
-"Straße 545",,,,way
-"Straße 546",,,,way
 "Straße 55",,,,way
 "Straße 56",,,,way
 "Straße 567",,,,way
@@ -7526,7 +7521,6 @@ Uhlandweg,,,,way
 Uhusteg,,,,way
 Ullrichplatz,,,,way
 Ullrichstraße,,,,way
-Ulrich-Plenzdorf-Straße,,,,way
 Ulrikenstraße,,,,way
 Umgehungschaussee,,,,way
 "Universum Landes-Ausstellungs-Park",,,,way
@@ -7619,7 +7613,6 @@ Wateweg,,,,way
 "Weg II",,,,way
 "Weg III",,,,way
 "Weg IV",,,,way
-"Weg P",,,,way
 "Weg V",,,,way
 "Weg am Kulturhaus",,,,way
 "Weg zum Block B",,,,way
@@ -7681,6 +7674,7 @@ Zentralweg,,,,way
 Zernickstraße,,,,way
 Zinienweg,,,,way
 "Zu den Müggelheimer Wiesen",,,,way
+"Zufahrt zum Flughafen Tegel",,,,way
 "Zum Forsthaus",,,,way
 "Zum Klötzhain",,,,way
 "Zum Rübländer Graben",,,,way

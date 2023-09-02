@@ -25,6 +25,7 @@ Alice-Herz-Platz,wikidata,F,Q86213,way
 Alice-Salomon-Park,wikidata,F,Q106209,way
 Alice-Salomon-Platz,wikidata,F,Q106209,way
 Alice-und-Hella-Hirsch-Ring,wikidata,F,Q33083652;Q18747045,way
+"Am Maria-Jankowski-Park",wikidata,F,Q98831535,way
 "Am Marienhain",wikidata,F,Q90196,way
 Amalienpark,wikidata,F,Q237754,way
 Amalienstraße,wikidata,F,Q237754;Q33083462,way
@@ -66,7 +67,6 @@ Boenkestraße,wikidata,F,Q1510954,way
 Bohm-Schuch-Weg,wikidata,F,Q1095244,way
 Boraweg,wikidata,F,Q77239,way
 Carola-Neher-Straße,wikidata,F,Q85450,way
-Caroline-Herschel-Platz,wikidata,F,Q76948,way
 Caroline-Michaelis-Straße,wikidata,F,Q76158,way
 Caroline-Tübbecke-Ufer,wikidata,F,Q103904320,way
 Caroline-von-Humboldt-Weg,wikidata,F,Q96140,way
@@ -116,7 +116,6 @@ Ella-Barowsky-Straße,wikidata,F,Q1331678,way
 Ella-Kay-Straße,wikidata,F,Q1331699,way
 Ellen-Epstein-Straße,wikidata,F,Q5182210,way
 Ellen-Widmann-Pfad,wikidata,F,Q124826,way
-Ellen-Widmann-Weg,wikidata,F,Q124826,way
 Elli-Voigt-Straße,wikidata,F,Q1332129,way
 Elly-Heuss-Knapp-Straße,wikidata,F,Q78010,way
 Elsa-Brändström-Straße,wikidata,F,Q469673,way
@@ -3397,3 +3396,4 @@ Zornstraße,wikidata,M,Q91091,way
 "Zur Kühleweinstraße",wikidata,M,Q1041373,way
 "Zur Scabellstraße",wikidata,M,Q1874945,way
 Zwinglistraße,wikidata,M,Q123034,way
+Caroline-Herschel-Platz,wikidata,NB,Q76948,way
