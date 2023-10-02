@@ -635,6 +635,7 @@ Auersbergstraße,wikidata,,Q759277,way
 Augenfalterstraße,wikidata,,Q612468,way
 "Augsburger Platz",wikidata,,Q2749,way
 "Augsburger Straße",wikidata,,Q2749,way
+"Augustenburger Platz",wikidata,,Q645631,way
 "Aumetzer Weg",wikidata,,Q22100,way
 "Aumühler Straße",wikidata,,Q59977,way
 "Auraser Weg",wikidata,,Q9366988,way
@@ -2667,7 +2668,7 @@ Iltisstraße,wikidata,,Q872502,way
 "Im Hornisgrund",wikidata,,Q30258,way
 "Im Hufenschlag",wikidata,,Q1757518,way
 "Im Kinderland",wikidata,,Q474862,way
-"Im Lesachtal",wikidata,,Q21874952,way
+"Im Lesachtal",wikidata,,Q21868996,way
 "Im Lichtenhain",wikidata,,Q9169094;Q317056,way
 "Im Lindenhof",wikidata,,Q1774574,way
 "Im Marienpark",wikidata,,Q23785460,way
@@ -3263,7 +3264,6 @@ Laurinsteig,wikidata,,Q1712676,way
 Lauterbachstraße,wikidata,,Q1808626,way
 "Lauterberger Straße",wikidata,,Q309505,way
 Lauterstraße,wikidata,,Q563698,way
-Lavendelsteig,wikidata,,Q171892,way
 Lavendelweg,wikidata,,Q171892;Q42081,way
 "Le Bonheur-Straße",wikidata,,Q8,way
 "Le Pavillon-Straße",wikidata,,Q276173,way
@@ -5549,6 +5549,7 @@ Turmstraße,wikidata,,Q2100004,way
 "Tutzinger Straße",wikidata,,Q533166,way
 "Tuxer Steig",wikidata,,Q114790,way
 "Tychyer Straße",wikidata,,Q11977,way
+"U Museumsinsel",wikidata,,Q151963,way
 Ubierstraße,wikidata,,Q664800,way
 "Ückeritzer Ring",wikidata,,Q334669,way
 Uckermarkstraße,wikidata,,Q338635,way
@@ -6180,7 +6181,6 @@ Zypressenweg,wikidata,,Q146911,way
 "alte Altglienicker Brücke",wikidata,,Q641472,way
 "ehem. Görlitzer Bahn",wikidata,,Q162558,way
 "ehem. Görlitzer Tunnel",wikidata,,Q4077,way
-"ehemalige Industriebahn Tegel–Friedrichsfelde",wikidata,,Q1391709,way
 "zum Bechstedter Weg",wikidata,,Q556764,way
 "1. Querweg",,,,way
 "2. Querweg",,,,way
@@ -6430,6 +6430,7 @@ Dagobert-Wiesmüller-Platz,,,,way
 Daheimstraße,,,,way
 Dahmeweg,,,,way
 Dammbrücke,,,,way
+"Das Labyrinth im Spektepark",,,,way
 Dechertstraße,,,,way
 Dessinstraße,,,,way
 Doehlweg,,,,way
@@ -6459,6 +6460,8 @@ Edmundweg,,,,way
 Egelpfuhlbrücke,,,,way
 "Ehemaliger Güteraußenring",,,,way
 Ehrenhof,,,,way
+Ehrlichgestell,,,,way
+Eichberggestell,,,,way
 Eichenhofweg,,,,way
 Eichwerdersteg,,,,way
 Eidechsenweg,,,,way
@@ -6735,7 +6738,6 @@ Igelkolbensteig,,,,way
 "In den Gärten",,,,way
 "In den Ministergärten",,,,way
 Ingrid-Rabe-Straße,,,,way
-Ingrid-Reschke-Straße,,,,way
 "Inline-Skate Rundkurs",,,,way
 Inselbrücke,,,,way
 Irrgarten,,,,way
@@ -6861,6 +6863,7 @@ Lanke-Aue,,,,way
 "Laubnitzer Pfad",,,,way
 "Laufstrecke 1100m",,,,way
 Lauterplatz,,,,way
+Lavendelsteig,,,,way
 Lederhülsenweg,,,,way
 Leharweg,,,,way
 Lenné-Meyer-Garten,,,,way
@@ -6902,7 +6905,6 @@ Marienuferallee,,,,way
 Marienweg,,,,way
 Marksstraße,,,,way
 Marksweg,,,,way
-"Marktplatz Griechische Allee",,,,way
 Mathildesweg,,,,way
 Mauerweg,,,,way
 Maulwurfweg,,,,way
@@ -6934,6 +6936,7 @@ Moorloch,,,,way
 Morellensteig,,,,way
 Moßkopfring,,,,way
 Mövenstraße,,,,way
+Mozartweg,,,,way
 Mudrackzeile,,,,way
 Mügelweg,,,,way
 Müggelschlößchenweg,,,,way
@@ -7052,6 +7055,7 @@ Pocket-Park,,,,way
 Pocketpark,,,,way
 Poetensteig,,,,way
 Polarbogen,,,,way
+Polteweg,,,,way
 Postplatz,,,,way
 Poststraße,,,,way
 Präsidentendreieck,,,,way
@@ -7159,6 +7163,7 @@ Rundweg,,,,way
 Russenbrücke,,,,way
 Rutnikstraße,,,,way
 "S Frohnau",,,,way
+"S Lankwitz",,,,way
 "S Lichterfelde Ost",,,,way
 S-Weg,,,,way
 Saalmannsteig,,,,way
@@ -7495,7 +7500,6 @@ Teilestraße,,,,way
 "Teupitzer Park",,,,way
 "Thaters Privatweg",,,,way
 Thiloweg,,,,way
-Thomaskirche,,,,way
 "Thurbrucher Steig",,,,way
 Tiefehornweg,,,,way
 Tiefhornweg,,,,way
@@ -7639,6 +7643,7 @@ Wildbienenlehrpfad,,,,way
 Wilhelm-Caspar-Wegely-Platz,,,,way
 Wilhelm-Zoschke-Weg,,,,way
 Wilhelminenhofpassage,,,,way
+"Wilhelmshagener Weg",,,,way
 Willi-Cordts-Weg,,,,way
 Willis-Brücke,,,,way
 "Wilmersdorfer Tunnel",,,,way
