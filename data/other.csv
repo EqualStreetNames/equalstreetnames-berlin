@@ -329,7 +329,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Pfingstberg",wikidata,,Q54050,way
 "Am Pfuhl",wikidata,,Q291099,way
 "Am Pichelssee",wikidata,,Q33084959,way
-"Am Pilz",wikidata,,Q7493941,way
+"Am Pilz",wikidata,,Q989946,way
 "Am Plänterwald",wikidata,,Q352238,way
 "Am Plumpengraben",wikidata,,Q2048319,way
 "Am Poloplatz",wikidata,,Q134211,way
@@ -432,7 +432,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Wiesenrain",wikidata,,Q7777019,way
 "Am Wiesenweg",wikidata,,Q11638045,way
 "Am Wildbusch",wikidata,,Q4421,way
-"Am Wildgatter",wikidata,,Q65246828,way
+"Am Wildgatter",wikidata,,Q111208816,way
 "Am Wriezener Bahnhof",wikidata,,Q821343,way
 "Am Wuhlebogen",wikidata,,Q896107,way
 "Am Wuhleufer",wikidata,,Q896107,way
@@ -635,7 +635,6 @@ Auersbergstraße,wikidata,,Q759277,way
 Augenfalterstraße,wikidata,,Q612468,way
 "Augsburger Platz",wikidata,,Q2749,way
 "Augsburger Straße",wikidata,,Q2749,way
-"Augustenburger Platz",wikidata,,Q645631,way
 "Aumetzer Weg",wikidata,,Q22100,way
 "Aumühler Straße",wikidata,,Q59977,way
 "Auraser Weg",wikidata,,Q9366988,way
@@ -700,7 +699,6 @@ Barkenhof,wikidata,,Q25243,way
 Barnetstraße,wikidata,,Q151048,way
 "Barnewitzer Weg",wikidata,,Q808471,way
 Barnhelmstraße,wikidata,,Q1209859,way
-Barnimplatz,wikidata,,Q268651,way
 Barnimstraße,wikidata,,Q268651,way
 Barstraße,wikidata,,Q209093;Q790119,way
 "Barther Straße",wikidata,,Q161943,way
@@ -6261,6 +6259,7 @@ Alter-Robert-Park,,,,way
 "Am Nordbahnhof",,,,way
 "Am Orangeriepark",,,,way
 "Am Ortsrand",,,,way
+"Am Pankepark",,,,way
 "Am Parkplatz",,,,way
 "Am Pfarracker",,,,way
 "Am Posseberg",,,,way
@@ -6487,11 +6486,13 @@ Ernst-Grube-Park,,,,way
 Ernststraßensteg,,,,way
 Erwin-Dahlen-Weg,,,,way
 Eulensteg,,,,way
+Eulerplatz,,,,way
 Europaplatz,,,,way
 Eva-Strittmacher-Straße,,,,way
 Eweststraße,,,,way
 F-Weg,,,,way
 "FKK-Bereich Halensee",,,,way
+FUSSGÄNGERBRÜCKE,,,,way
 Fafnersteg,,,,way
 Fahlenbergbrücke,,,,way
 Fahremundstraße,,,,way
@@ -6562,7 +6563,6 @@ Gatterweg,,,,way
 "Gemeindepark Lankwitz",,,,way
 "Gemeinschaftsgärten des Centre Français de Berlin",,,,way
 "Gemeinschaftspavillion Parksiedlung",,,,way
-Generationenpark,,,,way
 Genfenbergstraße,,,,way
 Gensweg,,,,way
 Georg-Steger-Weg,,,,way
@@ -6755,6 +6755,7 @@ Judengang,,,,way
 Judisgasse,,,,way
 Jugendpark,,,,way
 Jugendstilpark,,,,way
+"Jugendverkehrsschule Spandau Borkzeile",,,,way
 Jungfernbrücke,,,,way
 K-Straße,,,,way
 K-Weg,,,,way
@@ -7024,7 +7025,6 @@ Patientenpark,,,,way
 Paul-Ernst-Park,,,,way
 Paul-Hepprich-Weg,,,,way
 Paul-Koenig-Straße,,,,way
-Paul-Kreklow-Weg,,,,way
 Paulinenplatz,,,,way
 "People Park",,,,way
 Peter-Witte-Park,,,,way
@@ -7044,6 +7044,7 @@ Pionierweg,,,,way
 Plantanenallee,,,,way
 Plateautreppe,,,,way
 "Platz A",,,,way
+"Platz an den drei Grazien",,,,way
 "Platz des 23. April",,,,way
 "Platz des Picknicks",,,,way
 "Platz des Sonnens",,,,way
@@ -7065,6 +7066,7 @@ Predigergarten,,,,way
 Priemelweg,,,,way
 Primusweg,,,,way
 Pritstabelstraße,,,,way
+Privatdurchgang,,,,way
 "Privatstraße 1",,,,way
 "Privatstraße 10",,,,way
 "Privatstraße 12",,,,way
@@ -7117,7 +7119,6 @@ Ranftweg,,,,way
 Rattenweg,,,,way
 Ravelinplatz,,,,way
 Ravensteinstraße,,,,way
-"Regenwasser Rückhaltebecken Hohensaatener Straße",,,,way
 Reichartstraße,,,,way
 Reinbeckstraße,,,,way
 "Reinickes Hof",,,,way
@@ -7300,7 +7301,6 @@ Stiftsweg,,,,way
 Stöckelstraße,,,,way
 Stöhrweg,,,,way
 Stöwestraße,,,,way
-"Strandbad Tegeler See",,,,way
 Strandschloßweg,,,,way
 "Straße 1",,,,way
 "Straße 10",,,,way
@@ -7312,7 +7312,6 @@ Strandschloßweg,,,,way
 "Straße 11",,,,way
 "Straße 113",,,,way
 "Straße 122",,,,way
-"Straße 123",,,,way
 "Straße 124",,,,way
 "Straße 126",,,,way
 "Straße 129",,,,way
@@ -7475,6 +7474,7 @@ Strandschloßweg,,,,way
 "Straße zum Müggelhort",,,,way
 "Straße zur Albert-Kuntz-Straße",,,,way
 "Straße zur Parksiedlung Spruch",,,,way
+Strauchwiesenbrücke,,,,way
 "Straupitzer Steig",,,,way
 Stresowpark,,,,way
 Strömannstraße,,,,way
