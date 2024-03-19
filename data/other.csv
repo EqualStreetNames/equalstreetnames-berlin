@@ -65,7 +65,6 @@ Albineaplatz,wikidata,,Q111096,way
 Albtalweg,wikidata,,Q562295,way
 Albulaweg,wikidata,,Q685235,way
 Alemannenallee,wikidata,,Q132990,way
-Alemannenbrücke,wikidata,,Q132990,way
 Alemannenstraße,wikidata,,Q132990,way
 "Alfelder Straße",wikidata,,Q486543,way
 Alfonsstraße,wikidata,,Q18180801,way
@@ -664,7 +663,6 @@ Baggerseestraße,wikidata,,Q26333989,way
 Bahndamm,wikidata,,Q98969382,way
 Bahnhofspark,wikidata,,Q55488,way
 Bahnhofstraße,wikidata,,Q104215529;Q469743;Q55493;Q6543354;Q800469;Q800471;Q800479,way
-Bahnhofstraßenbrücke,wikidata,,Q800469,way
 Bahnstraße,wikidata,,Q800485,way
 "Bahrendorfer Straße",wikidata,,Q7031336,way
 Baikalstraße,wikidata,,Q5513,way
@@ -733,7 +731,6 @@ Bayernring,wikidata,,Q154195,way
 "Bayreuther Straße",wikidata,,Q3923,way
 Beatestraße,wikidata,,Q19689382,way
 "Becherbacher Straße",wikidata,,Q570882,way
-"Bechstedter Weg",wikidata,,Q556764,way
 "Beckumer Straße",wikidata,,Q2707,way
 Bedeweg,wikidata,,Q813824,way
 "Beelitzer Weg",wikidata,,Q544439,way
@@ -1357,7 +1354,6 @@ Drei-Linien-Weg,wikidata,,Q1623323,way
 Drei-Zinnen-Weg,wikidata,,Q1257207,way
 Dreifelderweg,wikidata,,Q1570397,way
 Dreilindenstraße,wikidata,,Q882397,way
-Dreipfuhlpark,wikidata,,Q291099,way
 "Drenziger Zeile",wikidata,,Q984062,way
 "Dresdener Straße",wikidata,,Q1731,way
 "Drewitzer Straße",wikidata,,Q1258796,way
@@ -1767,7 +1763,7 @@ Folkungerstraße,wikidata,,Q1091212,way
 Forellensprung,wikidata,,Q2857311,way
 Forkensteig,wikidata,,Q20180908,way
 Forlenweg,wikidata,,Q12024,way
-Formerweg,wikidata,,Q50989948,way
+Formerweg,wikidata,,Q1437684,way
 "Forster Straße",wikidata,,Q572545,way
 Försterweg,wikidata,,Q1895303,way
 Forsthausallee,wikidata,,Q1425352,way
@@ -2352,6 +2348,7 @@ Havelweg,wikidata,,Q1682,way
 Havermannstraße,wikidata,,Q97303175,way
 Hawaiiweg,wikidata,,Q782,way
 "Haynauer Straße",wikidata,,Q478869,way
+Hebammensteigbrücke,wikidata,,Q185196,way
 Hechtstraße,wikidata,,Q191674,way
 "Heckelberger Ring",wikidata,,Q85850002,way
 Heckenrosenweg,wikidata,,Q137608,way
@@ -4632,7 +4629,6 @@ Rübezahlallee,wikidata,,Q1778735,way
 Rübezahlstraße,wikidata,,Q1778735,way
 Rübezahlweg,wikidata,,Q1778735,way
 Rübländerstraße,wikidata,,Q1434274,way
-Rubusweg,wikidata,,Q602740,way
 Rudelsburgbrücke,wikidata,,Q896555,way
 Rudelsburgstraße,wikidata,,Q896555,way
 "Rüdersdorfer Straße",wikidata,,Q39791,way
@@ -4942,7 +4938,6 @@ Schwertlilienweg,wikidata,,Q156901,way
 "Schwiebusser Straße",wikidata,,Q387463,way
 Schwielowseestraße,wikidata,,Q318313,way
 "Schwyzer Straße",wikidata,,Q68155,way
-Sderotplatz,wikidata,,Q123196,way
 Sebaldweg,wikidata,,Q521681,way
 Sebastianstraße,wikidata,,Q2323088,way
 "Sebnitzer Straße",wikidata,,Q6483,way
@@ -5260,7 +5255,7 @@ Strandpromenade,wikidata,,Q787113,way
 "Straße am Schaltwerk",wikidata,,Q81230,way
 "Straße am Schildhorn",wikidata,,Q2235546,way
 "Straße am Wald",wikidata,,Q2594727,way
-"Straße der Pariser Kommune",wikidata,,Q133132,way
+"Straße der Pariser Kommune",wikidata,,Q133132;Q158021,way
 "Straße des 17. Juni",wikidata,,Q157682,way
 "Straße im Walde",wikidata,,Q31943611,way
 "Straße nach Arkenberge",wikidata,,Q821038,way
@@ -5359,7 +5354,6 @@ Taxusweg,wikidata,,Q27355,way
 Teerofenweg,wikidata,,Q4581557,way
 Teerosenweg,wikidata,,Q2400184,way
 "Tegeler Brücke",wikidata,,Q700055,way
-"Tegeler Brücke Provisorium",wikidata,,Q700055,way
 "Tegeler Straße",wikidata,,Q700055,way
 "Tegeler Weg",wikidata,,Q700055,way
 "Tegelorter Ufer",wikidata,,Q2400302,way
@@ -5655,7 +5649,7 @@ Volkradstraße,wikidata,,Q27648539,way
 Volksparksteg,wikidata,,Q1371159,way
 "Vor dem Schlesischen Tor",wikidata,,Q1169350,way
 "Vorarlberger Damm",wikidata,,Q38981,way
-Vorstadtweg,wikidata,,Q12340108,way
+Vorstadtweg,wikidata,,Q17050310,way
 Voxstraße,wikidata,,Q2534876,way
 Vulkanstraße,wikidata,,Q188631,way
 "Wachenheimer Weg",wikidata,,Q50897,way
@@ -6179,7 +6173,6 @@ Zypressenweg,wikidata,,Q146911,way
 "alte Altglienicker Brücke",wikidata,,Q641472,way
 "ehem. Görlitzer Bahn",wikidata,,Q162558,way
 "ehem. Görlitzer Tunnel",wikidata,,Q4077,way
-"zum Bechstedter Weg",wikidata,,Q556764,way
 "1. Querweg",,,,way
 "2. Querweg",,,,way
 "2. Westtunnel",,,,way
@@ -6200,6 +6193,7 @@ A-Weg,,,,way
 "ASV Schläusenland e.V.",,,,way
 "AVUS Nordkurve",,,,way
 Aaron-Bernstein-Platz,,,,way
+"Absteigen! Dismount! Walk for cyclists through station hall",,,,way
 "Achse der Kontinuität",,,,way
 "Achse des Exils",,,,way
 "Achse des Holocaust",,,,way
@@ -6358,6 +6352,7 @@ Bärenplatz,,,,way
 Barschelplatz,,,,way
 Baumgartensteg,,,,way
 Bausdorfstraße,,,,way
+Beate-Hahn-Straße,,,,way
 Beckerweg,,,,way
 Beerenstraße,,,,way
 "Beim Pfarrhof",,,,way
@@ -6366,7 +6361,6 @@ Bellogasse,,,,way
 Bergholzstraße,,,,way
 Bergstr.,,,,way
 Berlewitzweg,,,,way
-"Berliner Mauerweg",,,,way
 "Berliner Verbindungsbahn",,,,way
 Bernard-Wieck-Promenade,,,,way
 Bernhard-Langwaldt-Weg,,,,way
@@ -6400,6 +6394,7 @@ Bruchweg,,,,way
 Brückenweg,,,,way
 Bruckweg,,,,way
 Brunnenhof,,,,way
+"Bruno Baum Straße",,,,way
 Bruno-Baum-Grünzug,,,,way
 "Buchholzer Feld",,,,way
 Buckower-Felder-Mauerweg,,,,way
@@ -6418,7 +6413,6 @@ Carl-Langbecker-Str.,,,,way
 Carl-Leid-Weg,,,,way
 Cecilienplatz,,,,way
 Chantiéweg,,,,way
-Charkiw-Park,,,,way
 Charlottenweg,,,,way
 Christiansteg,,,,way
 Clara-Müller-Jahnke-Straße,,,,way
@@ -6435,6 +6429,7 @@ Doehlweg,,,,way
 Dohlensteg,,,,way
 "Doktor Dorsch Allee",,,,way
 Doldenweg,,,,way
+Dolgenseepromenade,,,,way
 Don-Ugoletti-Platz,,,,way
 Donathstraße,,,,way
 "Dorfaue Zehlendorf",,,,way
@@ -6488,7 +6483,7 @@ Erwin-Dahlen-Weg,,,,way
 Eulensteg,,,,way
 Eulerplatz,,,,way
 Europaplatz,,,,way
-Eva-Strittmacher-Straße,,,,way
+Eva-Strittmatter-Straße,,,,way
 Eweststraße,,,,way
 F-Weg,,,,way
 "FKK-Bereich Halensee",,,,way
@@ -6496,9 +6491,7 @@ FUSSGÄNGERBRÜCKE,,,,way
 Fafnersteg,,,,way
 Fahlenbergbrücke,,,,way
 Fahremundstraße,,,,way
-"Fahrrad durch Bhf schieben",,,,way
 Fahrradbrücke,,,,way
-Fährweg,,,,way
 Familiengarten,,,,way
 Feldblumenweg,,,,way
 Feldgrabensteig,,,,way
@@ -6514,6 +6507,7 @@ Flohrstraße,,,,way
 Floraplatz,,,,way
 Florentineweg,,,,way
 Floxweg,,,,way
+Flughafenseesteg,,,,way
 Flurende,,,,way
 Flutstraße,,,,way
 Forkenzeile,,,,way
@@ -6523,6 +6517,7 @@ Foyer,,,,way
 Frank-Schweitzer-Straße,,,,way
 Franz-Klühs-Park,,,,way
 Franz-Meyer-Straße,,,,way
+Franzstrasse,,,,way
 Franzweg,,,,way
 Frauenstraße,,,,way
 Freibadweg,,,,way
@@ -6532,6 +6527,7 @@ Freizeitweg,,,,way
 Frenzelweg,,,,way
 Fresienweg,,,,way
 Freundschaftsplatz,,,,way
+"Friedenauer Höhe",,,,way
 Friedenthalpark,,,,way
 "Friedhofspark Pappelallee",,,,way
 "Friedland Promenade",,,,way
@@ -6607,7 +6603,6 @@ Griebenweg,,,,way
 Grimnitzpark,,,,way
 Grohsteig,,,,way
 Grollstraße,,,,way
-"Gropius Passagen, Übergang",,,,way
 "Große Promenade",,,,way
 "Große Querallee",,,,way
 "Großer Querweg",,,,way
@@ -6683,6 +6678,7 @@ Hentzeweg,,,,way
 Henzesteg,,,,way
 Herbert-Krause-Park,,,,way
 Hermann-Günther-Straße,,,,way
+Hermann-Muthesius-Steig,,,,way
 Hermesweg,,,,way
 "Hermsdorfer Damm/Berliner Straße",,,,way
 Hilda-Geiringer-Weg,,,,way
@@ -6953,6 +6949,7 @@ N-Weg,,,,way
 Naturerlebnisgarten,,,,way
 Naturlehrpfad,,,,way
 "Naturpark Schöneberger Südgelände",,,,way
+"Neben dem Dorfteich",,,,way
 "Nebenweg 1",,,,way
 Nentwigstraße,,,,way
 "Neubrücker Straße",,,,way
@@ -6986,6 +6983,7 @@ Nuscheweg,,,,way
 O-Weg,,,,way
 "Oberer Weg",,,,way
 "Oberhaardter Weg",,,,way
+Oberseepark,,,,way
 Obrikatstraße,,,,way
 Obstgarten,,,,way
 Olympiastraße,,,,way
@@ -7066,7 +7064,6 @@ Predigergarten,,,,way
 Priemelweg,,,,way
 Primusweg,,,,way
 Pritstabelstraße,,,,way
-Privatdurchgang,,,,way
 "Privatstraße 1",,,,way
 "Privatstraße 10",,,,way
 "Privatstraße 12",,,,way
@@ -7138,6 +7135,7 @@ Riensbergstraße,,,,way
 "Ring IV",,,,way
 Ringpark,,,,way
 Ringweg,,,,way
+Riwne-Platz,,,,way
 Robert-Stolz-Anlage,,,,way
 Rodelbahn,,,,way
 Rödelstraße,,,,way
@@ -7468,7 +7466,6 @@ Strandschloßweg,,,,way
 "Straße O",,,,way
 "Straße P",,,,way
 "Straße Q",,,,way
-"Straße R",,,,way
 "Straße der Erinnerung",,,,way
 "Straße zum FEZ",,,,way
 "Straße zum Müggelhort",,,,way
@@ -7484,9 +7481,11 @@ Studentenweg,,,,way
 Südpankepark,,,,way
 Südpark,,,,way
 Südplateau,,,,way
+Südring,,,,way
 Südstern,,,,way
 Südstraße,,,,way
 Susanne-und-Kurt-Crohn-Platz,,,,way
+TV-Asahi-Kirschblütenweg,,,,way
 Tabbertweg,,,,way
 Tacitusweg,,,,way
 Takuweg,,,,way
@@ -7576,7 +7575,7 @@ Waldseebrücke,,,,way
 Waldspechtweg,,,,way
 Waldterrasse,,,,way
 "Waldtreppe Nord",,,,way
-"Waldtreppe süd",,,,way
+"Waldtreppe Süd",,,,way
 Waldvogelweg,,,,way
 Wallbrücke,,,,way
 Walterstraße,,,,way
@@ -7633,6 +7632,7 @@ Wernickestraße,,,,way
 Wernickeweg,,,,way
 Westendstraße,,,,way
 "Westlicher Parksteg",,,,way
+Westring,,,,way
 Westtunnel,,,,way
 "Westumfahrung Bahnhofstraße",,,,way
 Weygerweg,,,,way
@@ -7681,6 +7681,7 @@ Zernickstraße,,,,way
 Zinienweg,,,,way
 "Zu den Müggelheimer Wiesen",,,,way
 "Zufahrt zum Flughafen Tegel",,,,way
+"Zugang Bahngleis für Rollstuhl",,,,way
 "Zum Forsthaus",,,,way
 "Zum Klötzhain",,,,way
 "Zum Rübländer Graben",,,,way
@@ -7691,6 +7692,5 @@ Zinienweg,,,,way
 "Zur Märkischen Aue",,,,way
 "Zwischen den Giebeln",,,,way
 "ehem. Fußgängertunnel",,,,way
-"ehemaliger Zollweg",,,,way
 "kleiner Platz",,,,way
 "zur Anna-Maria-Müller-Straße",,,,way

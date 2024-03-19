@@ -7,6 +7,8 @@ Margarete-und-Arthur-Eloesser-Park,wikidata,+,Q95696107;Q96583,way
 "Neue Christstraße",wikidata,+,Q95104085;Q95103245,way
 Pulsstraße,wikidata,+,Q94085097;Q94085102,way
 Gropiusstraße,wikidata,?,Q69384;Q94743554,way
+Kracauerplatz,wikidata,?,Q76435;Q76435;Q79028771,way
+Manteuffelstraße,wikidata,?,Q463319;Q63386;Q63558,way
 Adele-Sandrock-Straße,wikidata,F,Q75157,way
 Adele-Schreiber-Krieger-Straße,wikidata,F,Q354498,way
 Adelheid-Poninska-Straße,wikidata,F,Q354698,way
@@ -268,7 +270,6 @@ Lotte-Lenya-Bogen,wikidata,F,Q93604,way
 Louise-Henry-Straße,wikidata,F,Q23645741,way
 Louise-Schroeder-Platz,wikidata,F,Q104581,way
 Lowise-Reuter-Ring,wikidata,F,Q1876655,way
-Lucie-Strewe-Platz,wikidata,F,Q37939169,way
 Lucy-Lameck-Straße,wikidata,F,Q42753123,way
 Lüdersstraße,wikidata,F,Q1333678,way
 Luise-Henriette-Straße,wikidata,F,Q196301,way
@@ -424,7 +425,6 @@ Alboinstraße,wikidata,M,Q152877,way
 Albrecht-Achilles-Straße,wikidata,M,Q453771,way
 Albrecht-Berblinger-Straße,wikidata,M,Q45440,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
-Albrecht-Thaer-Weg,wikidata,M,Q63032,way
 Albrechtstraße,wikidata,M,Q1482695;Q51028,way
 Alexander-Meißner-Straße,wikidata,M,Q77736,way
 Alexander-von-Humboldt-Weg,wikidata,M,Q6694,way
@@ -506,6 +506,7 @@ Attilaplatz,wikidata,M,Q36724,way
 Attilastraße,wikidata,M,Q36724,way
 Atzpodienstraße,wikidata,M,Q1750188,way
 Auerbachstraße,wikidata,M,Q76715,way
+Auerbachtunnel,wikidata,M,Q76715,way
 Auerdreieck,wikidata,M,Q89390,way
 Auerstraße,wikidata,M,Q89390,way
 Auerswaldstraße,wikidata,M,Q33084006,way
@@ -1001,7 +1002,6 @@ Eitelstraße,wikidata,M,Q62056,way
 Ekhofplatz,wikidata,M,Q215783,way
 Ekhofstraße,wikidata,M,Q215783,way
 Ekkehardstraße,wikidata,M,Q686169,way
-Elkartweg,wikidata,M,Q1730854,way
 Elßholzstraße,wikidata,M,Q96155,way
 Emanuelstraße,wikidata,M,Q154308,way
 Emdenzeile,wikidata,M,Q1871646,way
@@ -1071,6 +1071,7 @@ Eschwegering,wikidata,M,Q96880,way
 Esmarchstraße,wikidata,M,Q71011,way
 Essenplatz,wikidata,M,Q28872791,way
 Estersstraße,wikidata,M,Q1730905,way
+Estrongo-Nachama-Platz,wikidata,M,Q1370624,way
 Etkar-André-Straße,wikidata,M,Q74697,way
 Eugen-Bolz-Kehre,wikidata,M,Q62666,way
 Eugen-Gerstenmaier-Platz,wikidata,M,Q66447,way
@@ -1272,7 +1273,6 @@ Geneststraße,wikidata,M,Q2561275,way
 Genslerstraße,wikidata,M,Q97589122,way
 Georg-Benjamin-Straße,wikidata,M,Q1503672,way
 Georg-Blank-Straße,wikidata,M,Q109439,way
-Georg-Klingenberg-Straße,wikidata,M,Q1505011,way
 Georg-Knorr-Platz,wikidata,M,Q97095,way
 Georg-Knorr-Straße,wikidata,M,Q97095,way
 Georg-Kolbe-Hain,wikidata,M,Q561283,way
@@ -1547,7 +1547,6 @@ Heineweg,wikidata,M,Q44403,way
 Heinickeweg,wikidata,M,Q68317,way
 Heinitzweg,wikidata,M,Q88229,way
 Heino-Schmieden-Weg,wikidata,M,Q110040,way
-Heinrich-Albertz-Platz,wikidata,M,Q705862,way
 Heinrich-Böll-Straße,wikidata,M,Q42747,way
 Heinrich-Dathe-Platz,wikidata,M,Q1596999,way
 Heinrich-Grüber-Platz,wikidata,M,Q96502,way
@@ -1963,7 +1962,6 @@ Kösterstraße,wikidata,M,Q1635358,way
 Kottesteig,wikidata,M,Q104765661,way
 Köttgenstraße,wikidata,M,Q111592,way
 Kottmeierstraße,wikidata,M,Q104144584,way
-Kracauerplatz,wikidata,M,Q76435,way
 Krachtstraße,wikidata,M,Q1770041,way
 Kraepelinweg,wikidata,M,Q76828,way
 Kraetkestraße,wikidata,M,Q1489540,way
@@ -2181,7 +2179,6 @@ Manitiusstraße,wikidata,M,Q101562059,way
 Mannhardtweg,wikidata,M,Q68588,way
 Manntzstraße,wikidata,M,Q98271438,way
 Mansteinstraße,wikidata,M,Q86258,way
-Manteuffelstraße,wikidata,M,Q63386;Q63558,way
 Maratstraße,wikidata,M,Q122290,way
 Marchandstraße,wikidata,M,Q1612054,way
 Marchlewskistraße,wikidata,M,Q695722,way
@@ -2558,7 +2555,6 @@ Porschestraße,wikidata,M,Q57249,way
 Porthanweg,wikidata,M,Q333651,way
 Poschingerstraße,wikidata,M,Q109459,way
 Poßweg,wikidata,M,Q91330,way
-Poßwegbrücke,wikidata,M,Q91330,way
 Pradelstraße,wikidata,M,Q104712657,way
 Prechtlstraße,wikidata,M,Q104286,way
 Prellerweg,wikidata,M,Q1461580,way
@@ -2811,7 +2807,6 @@ Schickstraße,wikidata,M,Q569354,way
 Schieritzstraße,wikidata,M,Q104148501,way
 "Schiller Weg",wikidata,M,Q22670,way
 Schillerhof,wikidata,M,Q22670,way
-Schillerpark,wikidata,M,Q22670,way
 Schillerplatz,wikidata,M,Q22670,way
 Schillerpromenade,wikidata,M,Q22670,way
 Schillerring,wikidata,M,Q22670,way
@@ -2995,7 +2990,7 @@ Sprengelstraße,wikidata,M,Q64331,way
 Springbornstraße,wikidata,M,Q1681765,way
 Springerzeile,wikidata,M,Q19857593,way
 Sredzkistraße,wikidata,M,Q110705,way
-Staehleweg,wikidata,M,Q98263,way
+Staehleweg,wikidata,M,Q1671654;Q98263,way
 Stauffenbergstraße,wikidata,M,Q21209,way
 Steegerstraße,wikidata,M,Q104520595,way
 Stefan-Heym-Platz,wikidata,M,Q76534,way
