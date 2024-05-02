@@ -8,7 +8,6 @@ Margarete-und-Arthur-Eloesser-Park,wikidata,+,Q95696107;Q96583,way
 Pulsstraße,wikidata,+,Q94085097;Q94085102,way
 Gropiusstraße,wikidata,?,Q69384;Q94743554,way
 Kracauerplatz,wikidata,?,Q76435;Q76435;Q79028771,way
-Manteuffelstraße,wikidata,?,Q463319;Q63386;Q63558,way
 Adele-Sandrock-Straße,wikidata,F,Q75157,way
 Adele-Schreiber-Krieger-Straße,wikidata,F,Q354498,way
 Adelheid-Poninska-Straße,wikidata,F,Q354698,way
@@ -49,6 +48,7 @@ Annemirl-Bauer-Platz,wikidata,F,Q566416,way
 Annenstraße,wikidata,F,Q257571;Q564684,way
 Anni-Frid-Weg,wikidata,F,Q201908,way
 Asta-Nielsen-Straße,wikidata,F,Q232404,way
+Audre-Lorde-Straße,wikidata,F,Q463319,way
 Augusta-Ufer,wikidata,F,Q57541,way
 Augustaplatz,wikidata,F,Q57541,way
 Augustastraße,wikidata,F,Q1370330;Q57541,way
@@ -177,6 +177,7 @@ Helene-Weigel-Platz,wikidata,F,Q60528,way
 Helene-von-Mülinen-Weg,wikidata,F,Q1602036,way
 Helenenhof,wikidata,F,Q101244374,way
 Helga-Haase-Straße,wikidata,F,Q268484,way
+Helga-Hahnemann-Straße,wikidata,F,Q50949,way
 Henny-Porten-Straße,wikidata,F,Q76643,way
 Henriette-Herz-Allee,wikidata,F,Q63460,way
 Henriette-Herz-Park,wikidata,F,Q63460,way
@@ -380,6 +381,7 @@ Viktoria-Ufer,wikidata,F,Q116728,way
 Viktoriapark,wikidata,F,Q116728;Q308902,way
 Viktoriaplatz,wikidata,F,Q116728,way
 Viktoriastraße,wikidata,F,Q116728,way
+Voltastraße,wikidata,F,Q680,way
 Waltraud-Krause-Weg,wikidata,F,Q104144577,way
 Wanda-Kallenbach-Straße,wikidata,F,Q2547842,way
 Wilhelmine-Duncker-Straße,wikidata,F,Q104215689,way
@@ -1950,6 +1952,7 @@ Koppenplatz,wikidata,M,Q1080660,way
 Koppenstraße,wikidata,M,Q1080660,way
 Korkedamm,wikidata,M,Q98229435,way
 Körnerpark,wikidata,M,Q1447966,way
+Körnerplatz,wikidata,M,Q62344,way
 Körnerstraße,wikidata,M,Q62344;Q717310,way
 Kornmesserstraße,wikidata,M,Q19286658,way
 Körtestraße,wikidata,M,Q102051,way
@@ -2136,7 +2139,6 @@ Luckeweg,wikidata,M,Q98217077,way
 Lückhoffstraße,wikidata,M,Q97460561,way
 Lüdtgeweg,wikidata,M,Q2158123,way
 Ludwig-Barnay-Platz,wikidata,M,Q539931,way
-Ludwig-Beck-Platz,wikidata,M,Q57170,way
 Ludwig-Beck-Straße,wikidata,M,Q57170,way
 Ludwig-Boltzmann-Straße,wikidata,M,Q84296,way
 Ludwig-Dürr-Straße,wikidata,M,Q91686,way
@@ -2178,6 +2180,7 @@ Manitiusstraße,wikidata,M,Q101562059,way
 Mannhardtweg,wikidata,M,Q68588,way
 Manntzstraße,wikidata,M,Q98271438,way
 Mansteinstraße,wikidata,M,Q86258,way
+Manteuffelstraße,wikidata,M,Q63386;Q63558,way
 Maratstraße,wikidata,M,Q122290,way
 Marchandstraße,wikidata,M,Q1612054,way
 Marchlewskistraße,wikidata,M,Q695722,way
@@ -3057,7 +3060,6 @@ Tassostraße,wikidata,M,Q168962,way
 Taubertstraße,wikidata,M,Q69912,way
 Tauentzienstraße,wikidata,M,Q75738,way
 Taylorstraße,wikidata,M,Q11896,way
-Techowbrücke,wikidata,M,Q2040769,way
 Techowpromenade,wikidata,M,Q2040769,way
 Tegnerstraße,wikidata,M,Q366765,way
 Teichgräberzeile,wikidata,M,Q1367499,way
@@ -3096,7 +3098,6 @@ Thuyring,wikidata,M,Q92486,way
 Thyssenstraße,wikidata,M,Q64349,way
 Tieckstraße,wikidata,M,Q57239,way
 Tietjenstraße,wikidata,M,Q65622,way
-Tietzenbrücke,wikidata,M,Q98270743,way
 Tietzenweg,wikidata,M,Q98270743,way
 Tietzstraße,wikidata,M,Q1040834,way
 Tile-Brügge-Weg,wikidata,M,Q104766278,way
@@ -3160,7 +3161,6 @@ Voigtländerzeile,wikidata,M,Q84935,way
 Voigtstraße,wikidata,M,Q101252092,way
 Volmerstraße,wikidata,M,Q65226,way
 Voltairestraße,wikidata,M,Q9068,way
-Voltastraße,wikidata,M,Q680,way
 Von-Laue-Straße,wikidata,M,Q57067,way
 Von-Luck-Straße,wikidata,M,Q94922601,way
 Von-Wettstein-Straße,wikidata,M,Q86471,way

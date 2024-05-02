@@ -1511,7 +1511,7 @@ Elmshorn,wikidata,,Q6845,way
 "Elmsteiner Weg",wikidata,,Q566064,way
 Elmweg,wikidata,,Q896176,way
 Elsastraße,wikidata,,Q1077181;Q46996485,way
-Elsbeerenweg,wikidata,,Q147459,way
+Elsbeerenweg,wikidata,,Q41297526,way
 Elsenallee,wikidata,,Q25239,way
 "Elsenborner Weg",wikidata,,Q3047187,way
 Elsenbruchstraße,wikidata,,Q25239;Q910817,way
@@ -4271,6 +4271,7 @@ Pohleseestraße,wikidata,,Q1236041,way
 Pöhligsteinweg,wikidata,,Q101002854,way
 "Polcher Weg",wikidata,,Q629314,way
 Poleigrund,wikidata,,Q161235,way
+Polierweg,wikidata,,Q15669672,way
 "Pölitzer Straße",wikidata,,Q208022,way
 "Polkwitzer Straße",wikidata,,Q246685,way
 "Pollnower Weg",wikidata,,Q988622,way
@@ -5211,6 +5212,7 @@ Steinmeisterweg,wikidata,,Q1344921,way
 Steinsperlingweg,wikidata,,Q736313,way
 Steinträgerweg,wikidata,,Q1633736,way
 Steinweg,wikidata,,Q22731,way
+Stellmacherweg,wikidata,,Q833418,way
 Stelzenweg,wikidata,,Q230042,way
 "Stendaler Straße",wikidata,,Q7082,way
 "Stepenitzer Weg",wikidata,,Q7767291,way
@@ -6295,11 +6297,13 @@ Amorweg,,,,way
 Amtsstraße,,,,way
 "An den Berggärten",,,,way
 "An den Buckower Feldern",,,,way
+"An den Eiswerken",,,,way
 "An den Freiheitswiesen",,,,way
 "An den Hubertshäusern",,,,way
 "An den Knabenhäusern",,,,way
 "An den Parkbäumen",,,,way
 "An den Weiden",,,,way
+"An der Brücke",,,,way
 "An der Festwiese",,,,way
 "An der Havelspitze",,,,way
 "An der Himmelswiese",,,,way
@@ -6312,6 +6316,7 @@ Amtsstraße,,,,way
 "An der Straße",,,,way
 "An der Streuobstwiese",,,,way
 "An der Trainierbahn",,,,way
+"An der Villa Bolle",,,,way
 "An der Waldsiedlung",,,,way
 "An der alten Gärtnerei",,,,way
 "Andersen Weg",,,,way
@@ -6322,6 +6327,7 @@ Anglersiedlung,,,,way
 Anglerweg,,,,way
 "Anhalter Steg",,,,way
 "Ankogelbad, Sommerbad",,,,way
+"Anna- und Hermann-Muthesius-Steig",,,,way
 Annenallee,,,,way
 Antonienstraße,,,,way
 Appellplatz,,,,way
@@ -6373,6 +6379,7 @@ Bismarcksteg,,,,way
 Blockpark,,,,way
 "Blumberger Chaussee",,,,way
 Blütenachse,,,,way
+Blütenweißweg,,,,way
 Bornepfad,,,,way
 "Botanischer Garten",,,,way
 "Botanischer Volkspark Blankenfelde-Pankow",,,,way
@@ -6433,6 +6440,7 @@ Doldenweg,,,,way
 Dolgenseepromenade,,,,way
 Don-Ugoletti-Platz,,,,way
 Donathstraße,,,,way
+"Dorfaue Buckow",,,,way
 "Dorfaue Zehlendorf",,,,way
 Dörferblick,,,,way
 Dr.-Markus-Straße,,,,way
@@ -6672,14 +6680,12 @@ Heinweg,,,,way
 Heinz-Gesper-Weg,,,,way
 Heinz-Prillwitz-Weg,,,,way
 Helene-Jacobs-Straße,,,,way
-Helga-Hahnemann-Straße,,,,way
 Helgolandweg,,,,way
 Helmut-Rupprecht-Straße,,,,way
 Hentzeweg,,,,way
 Henzesteg,,,,way
 Herbert-Krause-Park,,,,way
 Hermann-Günther-Straße,,,,way
-Hermann-Muthesius-Steig,,,,way
 Hermesweg,,,,way
 "Hermsdorfer Damm/Berliner Straße",,,,way
 Hilda-Geiringer-Weg,,,,way
@@ -6742,6 +6748,7 @@ Jacobsbrunnenweg,,,,way
 "Jagen 37",,,,way
 Jamaikaweg,,,,way
 Jean-Monnet-Straße,,,,way
+Jeanne-Baret-Allee,,,,way
 "Jenseits der Natur",,,,way
 Johann-Ewald-Weg,,,,way
 Johannes-Itten-Straße,,,,way
@@ -6795,6 +6802,7 @@ Kitzingstraße,,,,way
 "Klappbrücke an der Humboldtmühle",,,,way
 "Klappbrücke über den Amtsgraben",,,,way
 Klärwerkstraße,,,,way
+"Kleckersdorfer Weg",,,,way
 "Kleine Brüderstraße",,,,way
 "Kleine Hege",,,,way
 "Kleine Jägerstraße",,,,way
@@ -6820,7 +6828,6 @@ Kolonnenweg,,,,way
 Königskolonnaden,,,,way
 Konkordiastraße,,,,way
 Köppchenseeweg,,,,way
-Körnerplatz,,,,way
 Körnerweg,,,,way
 Kötteritzweg,,,,way
 Kottmeierpromenade,,,,way
@@ -7525,6 +7532,7 @@ Uhlandweg,,,,way
 Uhusteg,,,,way
 Ullrichplatz,,,,way
 Ullrichstraße,,,,way
+Ulrich-Plenzdorf-Straße,,,,way
 Ulrikenstraße,,,,way
 Umgehungschaussee,,,,way
 "Universum Landes-Ausstellungs-Park",,,,way
@@ -7645,13 +7653,13 @@ Wilhelm-Caspar-Wegely-Platz,,,,way
 Wilhelm-Zoschke-Weg,,,,way
 Wilhelminenhofpassage,,,,way
 "Wilhelmshagener Weg",,,,way
+Wilkesweg,,,,way
 Willi-Cordts-Weg,,,,way
 Willis-Brücke,,,,way
 "Wilmersdorfer Tunnel",,,,way
 Winkelpfad,,,,way
 Winkelweg,,,,way
 Winklerstraße,,,,way
-Wlikesweg,,,,way
 "Wohnungsnahe Grünanlage",,,,way
 Wolfgang-Seifert-Weg,,,,way
 "Wriezener Freiraum-Labor",,,,way
