@@ -600,7 +600,7 @@ Asbestweg,wikidata,,Q104085,way
 "Ascheberger Weg",wikidata,,Q14921,way
 Aschenbrödelstraße,wikidata,,Q11841,way
 Aschenbrödelweg,wikidata,,Q11841,way
-Aschenputtelweg,wikidata,,Q13685096,way
+Aschenputtel,wikidata,,Q13685096,way
 "Ascherslebener Weg",wikidata,,Q486991,way
 Asgardstraße,wikidata,,Q178182,way
 Ashdodstraße,wikidata,,Q171639,way
@@ -1334,8 +1334,9 @@ Dorfstraße,wikidata,,Q1621981;Q532;Q532;Q1760551,way
 Dornbuschweg,wikidata,,Q201851,way
 Dorndreherweg,wikidata,,Q26671,way
 Dornenweg,wikidata,,Q201851,way
+Dornröschen,wikidata,,Q16592313,way
 Dornröschenstraße,wikidata,,Q11824,way
-Dornröschenweg,wikidata,,Q11824;Q16592313,way
+Dornröschenweg,wikidata,,Q11824,way
 "Dorstener Straße",wikidata,,Q3886,way
 "Dortmunder Straße",wikidata,,Q1295,way
 Dossestraße,wikidata,,Q646005,way
@@ -1490,7 +1491,7 @@ Elbeweg,wikidata,,Q1644,way
 Elchdamm,wikidata,,Q35517,way
 "Eldenaer Straße",wikidata,,Q654203,way
 Elfenallee,wikidata,,Q203904,way
-Elfenhügelweg,wikidata,,Q115007,way
+Elfenhügel,wikidata,,Q115007,way
 Elfriedestraße,wikidata,,Q18327552,way
 "Elgersburger Straße",wikidata,,Q553076,way
 Elisabethkirchstraße,wikidata,,Q321105,way
@@ -1782,7 +1783,7 @@ Frankenwaldstraße,wikidata,,Q282737,way
 Franziskastraße,wikidata,,Q1003466,way
 "Französische Straße",wikidata,,Q101935,way
 Fräsersteig,wikidata,,Q1078463,way
-"Frau Holle Weg",wikidata,,Q11853,way
+"Frau Holle",wikidata,,Q11853,way
 Frau-Elster-Weg,wikidata,,Q1613906,way
 Frau-Holle-Straße,wikidata,,Q11853,way
 Frau-Holle-Weg,wikidata,,Q11853,way
@@ -1845,6 +1846,7 @@ Fritzstraße,wikidata,,Q1158596,way
 "Frohburger Straße",wikidata,,Q10763,way
 "Frohnauer Brücke",wikidata,,Q641467,way
 "Frohnauer Straße",wikidata,,Q641467,way
+Froschkönig,wikidata,,Q11850,way
 Froschkönigweg,wikidata,,Q11850,way
 Froschsteg,wikidata,,Q53636,way
 Frühlingstraße,wikidata,,Q1312,way
@@ -2044,7 +2046,7 @@ Goldammerstraße,wikidata,,Q26205,way
 Goldammerweg,wikidata,,Q26205,way
 "Goldaper Straße",wikidata,,Q947414,way
 "Goldenes Horn",wikidata,,Q179839,way
-Goldeselweg,wikidata,,Q467913,way
+Goldesel,wikidata,,Q467913,way
 Goldfasanenweg,wikidata,,Q335113,way
 Goldfinkweg,wikidata,,Q27075861,way
 Goldfischweg,wikidata,,Q123141,way
@@ -2052,7 +2054,7 @@ Goldhähnchenweg,wikidata,,Q208716,way
 Goldkäferweg,wikidata,,Q918079,way
 Goldlackweg,wikidata,,Q159370,way
 Goldlärchenweg,wikidata,,Q1458175,way
-Goldmarieweg,wikidata,,Q98699810,way
+Goldmarie,wikidata,,Q98699810,way
 "Goldmühler Weg",wikidata,,Q99228356,way
 Goldrautenweg,wikidata,,Q212939,way
 Goldregenpfeiferweg,wikidata,,Q21148,way
@@ -2782,7 +2784,7 @@ Käferpfad,wikidata,,Q22671,way
 Kaiserplatz,wikidata,,Q501503,way
 Kaiserstuhlstraße,wikidata,,Q701516,way
 "Kaiserswerther Straße",wikidata,,Q678456,way
-"Kalif Storch Weg",wikidata,,Q1722225,way
+"Kalif Storch",wikidata,,Q1722225,way
 "Kalischer Straße",wikidata,,Q52842,way
 Kalkbergeweg,wikidata,,Q39791,way
 "Kalker Straße",wikidata,,Q278675,way
@@ -2958,7 +2960,7 @@ Kleinbeerenstraße,wikidata,,Q60698112,way
 "Kleine Waldstraße",wikidata,,Q4421,way
 "Kleiner Bär",wikidata,,Q10478,way
 "Kleiner Mohnweg",wikidata,,Q146391,way
-"Kleiner Muck Weg",wikidata,,Q98700255,way
+"Kleiner Muck",wikidata,,Q98700255,way
 "Kleiner Stern",wikidata,,Q1678403,way
 Kleingartenstraße,wikidata,,Q4404694,way
 "Kleinmachnower Weg",wikidata,,Q104192,way
@@ -3017,7 +3019,7 @@ Kommandantenstraße,wikidata,,Q1270569;Q2054507,way
 Komturbrücke,wikidata,,Q524980,way
 Komturstraße,wikidata,,Q524980,way
 Kongostraße,wikidata,,Q974,way
-"König Drosselbart Weg",wikidata,,Q98701469,way
+"König Drosselbart",wikidata,,Q98701469,way
 "Königsbacher Zeile",wikidata,,Q282991,way
 "Königsberger Straße",wikidata,,Q1829,way
 Königsheideweg,wikidata,,Q1796367,way
@@ -4261,7 +4263,6 @@ Pohleseestraße,wikidata,,Q1236041,way
 Pöhligsteinweg,wikidata,,Q101002854,way
 "Polcher Weg",wikidata,,Q629314,way
 Poleigrund,wikidata,,Q161235,way
-Polierweg,wikidata,,Q15669672,way
 "Pölitzer Straße",wikidata,,Q208022,way
 "Polkwitzer Straße",wikidata,,Q246685,way
 "Pollnower Weg",wikidata,,Q988622,way
@@ -4372,8 +4373,8 @@ Rappoltsweilerstraße,wikidata,,Q148483,way
 "Rapstedter Weg",wikidata,,Q2163126,way
 Rapsweg,wikidata,,Q177932,way
 Rapsweißlingstraße,wikidata,,Q683592,way
+Rapunzel,wikidata,,Q4902053,way
 Rapunzelstraße,wikidata,,Q273585,way
-Rapunzelweg,wikidata,,Q4902053,way
 "Rastatter Straße",wikidata,,Q6874,way
 Rathausbrücke,wikidata,,Q155210,way
 Rathauspark,wikidata,,Q323656,way
@@ -4540,8 +4541,8 @@ Rognitzstraße,wikidata,,Q12056250,way
 Rohrammerweg,wikidata,,Q26961,way
 Rohrbeckstraße,wikidata,,Q37164660,way
 "Rohrbrunner Straße",wikidata,,Q929222,way
-Rohrdamm,wikidata,,Q26898118,way
-Rohrdammbrücke,wikidata,,Q26898118,way
+Rohrdamm,wikidata,,Q12132373,way
+Rohrdammbrücke,wikidata,,Q12132373,way
 Rohrdommelweg,wikidata,,Q25709,way
 Rohrlegerweg,wikidata,,Q252924,way
 Rohrsängersteig,wikidata,,Q637716,way
@@ -4568,7 +4569,8 @@ Rosenallee,wikidata,,Q34687,way
 "Rosenorter Steig",wikidata,,Q7633000,way
 Rosenpark,wikidata,,Q34687,way
 Rosenpromenade,wikidata,,Q34687,way
-Rosenrotweg,wikidata,,Q11843;Q98701481,way
+Rosenrot,wikidata,,Q98701481,way
+Rosenrotweg,wikidata,,Q11843,way
 Rosensteg,wikidata,,Q34687,way
 Rosensteig,wikidata,,Q34687,way
 Rosenstraße,wikidata,,Q1228185;Q34687,way
@@ -4831,8 +4833,9 @@ Schneehornpfad,wikidata,,Q15261,way
 Schneehuhnweg,wikidata,,Q162029,way
 Schneekoppenweg,wikidata,,Q617511,way
 "Schneeweißchen- und Rosenrotring",wikidata,,Q11843,way
+Schneewittchen,wikidata,,Q2739228,way
 Schneewittchenstraße,wikidata,,Q11831,way
-Schneewittchenweg,wikidata,,Q11831;Q2739228,way
+Schneewittchenweg,wikidata,,Q11831,way
 "Schnepfenreuther Weg",wikidata,,Q1512850,way
 Schnitterinnenweg,wikidata,,Q2248045,way
 Schöffenstraße,wikidata,,Q20820045,way
@@ -5198,7 +5201,6 @@ Steinmeisterweg,wikidata,,Q1344921,way
 Steinsperlingweg,wikidata,,Q736313,way
 Steinträgerweg,wikidata,,Q1633736,way
 Steinweg,wikidata,,Q22731,way
-Stellmacherweg,wikidata,,Q833418,way
 Stelzenweg,wikidata,,Q230042,way
 "Stendaler Straße",wikidata,,Q7082,way
 "Stepenitzer Weg",wikidata,,Q7767291,way
@@ -5207,6 +5209,7 @@ Sternbergpromenade,wikidata,,Q16883840,way
 Sternblütenweg,wikidata,,Q1563777,way
 Sternliebweg,wikidata,,Q931453,way
 Sternstraße,wikidata,,Q29951622,way
+Sterntaler,wikidata,,Q11846,way
 Sterntalerstraße,wikidata,,Q11846,way
 Sterntalerweg,wikidata,,Q11846,way
 "Sterzinger Straße",wikidata,,Q263305,way
@@ -5598,8 +5601,8 @@ Venusstraße,wikidata,,Q313,way
 Venusweg,wikidata,,Q313,way
 "Verdener Gasse",wikidata,,Q486551,way
 Vereinssteg,wikidata,,Q988108,way
-Vergissmeinicht,wikidata,,Q147149,way
 Vergissmeinnichtweg,wikidata,,Q147149,way
+Vergißmeinicht,wikidata,,Q147149,way
 Vergißmeinnichtweg,wikidata,,Q147149,way
 "Verlängerte Georgenstraße",wikidata,,Q1985538,way
 "Verlängerte Koloniestraße",wikidata,,Q133156,way
@@ -5624,7 +5627,7 @@ Vimystraße,wikidata,,Q318759,way
 Vinetaplatz,wikidata,,Q1645268,way
 Vinetastraße,wikidata,,Q1645268,way
 Vionvillestraße,wikidata,,Q22760,way
-"Vogel Greif Weg",wikidata,,Q832885,way
+"Vogel Greif",wikidata,,Q832885,way
 Vogelbeerstraße,wikidata,,Q146198,way
 Vogelsang,wikidata,,Q1126556,way
 "Vogelsdorfer Steig",wikidata,,Q581470,way
@@ -5854,6 +5857,7 @@ Westweg,wikidata,,Q679,way
 Wetterseestraße,wikidata,,Q188195,way
 Wettersternweg,wikidata,,Q980655,way
 "Wetzlarer Straße",wikidata,,Q4178,way
+Wichtelmänner,wikidata,,Q473398,way
 Wichtelmännerweg,wikidata,,Q473398,way
 "Wickeder Straße",wikidata,,Q6136,way
 Wickenweg,wikidata,,Q147337,way
@@ -6025,8 +6029,9 @@ Zangengasse,wikidata,,Q13049940,way
 "Zanower Weg",wikidata,,Q988586,way
 "Zaucher Weg",wikidata,,Q148498,way
 "Zauchwitzer Straße",wikidata,,Q148506,way
+Zaunkönig,wikidata,,Q1198178,way
 Zaunkönigsweg,wikidata,,Q25740,way
-Zaunkönigweg,wikidata,,Q1198178;Q25740,way
+Zaunkönigweg,wikidata,,Q25740,way
 Zaunweg,wikidata,,Q148571,way
 "Zechliner Straße",wikidata,,Q1427616,way
 Zedernweg,wikidata,,Q128550,way
@@ -6146,7 +6151,7 @@ Zochestraße,wikidata,,Q23943844,way
 "Züricher Straße",wikidata,,Q72,way
 "Zweibrücker Straße",wikidata,,Q16017,way
 Zweiwinkelweg,wikidata,,Q198438,way
-"Zwerg Nase Weg",wikidata,,Q8109325,way
+"Zwerg Nase",wikidata,,Q8109325,way
 Zwerg-Nase-Weg,wikidata,,Q8109325,way
 Zwergasternweg,wikidata,,Q517130,way
 Zwergenweg,wikidata,,Q214045,way
@@ -6403,6 +6408,7 @@ Carl-Langbecker-Str.,,,,way
 Carl-Leid-Weg,,,,way
 Cecilienplatz,,,,way
 Chantiéweg,,,,way
+"Charlottenburger Brücke",,,,way
 Charlottenweg,,,,way
 Christiansteg,,,,way
 Clara-Müller-Jahnke-Straße,,,,way
@@ -6534,6 +6540,7 @@ Frostraße,,,,way
 Fuchssteinerweg,,,,way
 Fuhrmannstraße,,,,way
 Funkelgang,,,,way
+"Fußgängertunnel Greifswalder Straße",,,,way
 "Fußweg 469",,,,way
 "Fußweg 475",,,,way
 "Fußweg 552",,,,way
@@ -6827,6 +6834,7 @@ Krautweg,,,,way
 Kreuzweg,,,,way
 Krienickepark,,,,way
 Krienickesteig,,,,way
+Kronprinzenbrücke,,,,way
 "Krontaler Steg",,,,way
 Krowelstraße,,,,way
 "Krumme Gärten",,,,way
@@ -6888,6 +6896,7 @@ M-Weg,,,,way
 Magnolienweg,,,,way
 "Main Street",,,,way
 "Malchower Teichweg",,,,way
+Marchbrücke,,,,way
 Margaretenbrücke,,,,way
 Margaretenweg,,,,way
 Maria-Rimkus-Weg,,,,way
@@ -7241,6 +7250,7 @@ Siedlungsring,,,,way
 Siedlungsweg,,,,way
 Siegertweg,,,,way
 Siekeweg,,,,way
+Silberschilling,,,,way
 Simonring,,,,way
 Simrockplatz,,,,way
 Siverstorpstraße,,,,way
@@ -7525,6 +7535,7 @@ Ullrichstraße,,,,way
 Ulrich-Plenzdorf-Straße,,,,way
 Ulrikenstraße,,,,way
 Umgehungschaussee,,,,way
+Umtragestelle,,,,way
 "Universum Landes-Ausstellungs-Park",,,,way
 Unkenpfad,,,,way
 "Unter der Kranbahn",,,,way
