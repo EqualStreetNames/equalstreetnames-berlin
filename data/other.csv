@@ -280,7 +280,7 @@ Alzeyweg,wikidata,,Q2531389,way
 "Am Kiebitzpfuhl",wikidata,,Q25392;Q3177968,way
 "Am Kiefernhang",wikidata,,Q12024,way
 "Am Kienpfuhl",wikidata,,Q59786185,way
-"Am Kiesteich",wikidata,,Q504874,way
+"Am Kiesteich",wikidata,,Q2308776;Q504874,way
 "Am Kietzer Feld",wikidata,,Q1434274,way
 "Am Kinderdorf",wikidata,,Q2637467,way
 "Am Klarpfuhl",wikidata,,Q59786180,way
@@ -499,7 +499,7 @@ Amtsgerichtsplatz,wikidata,,Q480608,way
 "An der Krähenheide",wikidata,,Q1434274,way
 "An der Kremmener Bahn",wikidata,,Q390106,way
 "An der Krummen Lake",wikidata,,Q1790164,way
-"An der Mäckeritzbrücke",wikidata,,Q33133095,way
+"An der Mäckeritzbrücke",wikidata,,Q1434274;Q33133095,way
 "An der Malche",wikidata,,Q1548786,way
 "An der Margaretenhöhe",wikidata,,Q59786163,way
 "An der Michaelbrücke",wikidata,,Q1533412,way
@@ -722,7 +722,7 @@ Baumschulenweg,wikidata,,Q155511,way
 "Bautzener Straße",wikidata,,Q14835,way
 "Bayerische Straße",wikidata,,Q154195,way
 "Bayerischer Platz",wikidata,,Q154195,way
-Bayernallee,wikidata,,Q154195,way
+Bayernallee,wikidata,,Q154195;Q38872,way
 Bayernring,wikidata,,Q154195,way
 "Bayreuther Straße",wikidata,,Q3923,way
 Beatestraße,wikidata,,Q19689382,way
@@ -1892,7 +1892,6 @@ Garbenpfad,wikidata,,Q942040,way
 Gardes-du-Corps-Straße,wikidata,,Q2137821,way
 Gardeschützenweg,wikidata,,Q1494035,way
 Garnisonkirchplatz,wikidata,,Q1494385,way
-"Gartenfelder Brücke",wikidata,,Q1494642,way
 "Gartenfelder Straße",wikidata,,Q1494642,way
 Gartenstadtweg,wikidata,,Q551256,way
 Gartenstraße,wikidata,,Q1107656;Q2670777,way
@@ -2356,7 +2355,6 @@ Heerstraße,wikidata,,Q6857854,way
 "Hegauer Weg",wikidata,,Q692712,way
 Hegemeister-Gestell,wikidata,,Q1895303;Q487843,way
 Hegemeisterweg,wikidata,,Q1895303,way
-Heidebergplan,wikidata,,Q1434274,way
 "Heidebrinker Straße",wikidata,,Q2413686,way
 Heidefalterweg,wikidata,,Q1306216,way
 Heidekampweg,wikidata,,Q1124741,way
@@ -2908,7 +2906,7 @@ Kindelbergweg,wikidata,,Q98219075,way
 Kinzigstraße,wikidata,,Q700095,way
 Kirchblick,wikidata,,Q1698822,way
 "Kirchdorfer Straße",wikidata,,Q489164,way
-Kirchgasse,wikidata,,Q1244081;Q16970;Q2316617,way
+Kirchgasse,wikidata,,Q16970;Q2316617,way
 "Kirchhainer Damm",wikidata,,Q371098,way
 Kirchhofstraße,wikidata,,Q2749813;Q39614,way
 Kirchmeisterweg,wikidata,,Q1743354,way
@@ -3157,7 +3155,6 @@ Kunibertstraße,wikidata,,Q661107,way
 "Kuppenheimer Straße",wikidata,,Q518505,way
 Kürbissteig,wikidata,,Q5339301,way
 "Kürenzer Straße",wikidata,,Q883351,way
-Kurfürstendamm,wikidata,,Q22722,way
 Kurfürstenweg,wikidata,,Q22722,way
 Kurhausstraße,wikidata,,Q3200567,way
 "Kurländer Allee",wikidata,,Q185072,way
@@ -3463,7 +3460,6 @@ Lyonstraße,wikidata,,Q456,way
 Machandelweg,wikidata,,Q1882620,way
 "Machnower Straße",wikidata,,Q104192,way
 "Mackenroder Weg",wikidata,,Q552634,way
-Mäckeritzbrücke,wikidata,,Q1434274,way
 Mäckeritzstraße,wikidata,,Q2048319,way
 "Mädewalder Weg",wikidata,,Q12675739,way
 Magazinstraße,wikidata,,Q1883737,way
@@ -3507,7 +3503,7 @@ Männertreuweg,wikidata,,Q158858,way
 "Mannheimer Straße",wikidata,,Q2119,way
 "Mansfelder Straße",wikidata,,Q502926,way
 Manuelaweg,wikidata,,Q371618,way
-Marathonallee,wikidata,,Q40244,way
+Marathonallee,wikidata,,Q38872;Q40244,way
 "Marbacher Straße",wikidata,,Q61890,way
 "Marburger Straße",wikidata,,Q3869,way
 Märchenweg,wikidata,,Q699,way
@@ -3922,9 +3918,8 @@ Noéweg,wikidata,,Q62336823,way
 Nogatstraße,wikidata,,Q980095,way
 Nollendorfplatz,wikidata,,Q48253,way
 Nollendorfstraße,wikidata,,Q48253,way
-Nonnendamm,wikidata,,Q191808,way
+Nonnendamm,wikidata,,Q191808;Q817051,way
 Nonnendammallee,wikidata,,Q191808;Q817051,way
-Nonnendammbrücke,wikidata,,Q817051,way
 Norastraße,wikidata,,Q250267,way
 Norbertstraße,wikidata,,Q917408,way
 Nordbahnstraße,wikidata,,Q456533,way
@@ -5099,7 +5094,6 @@ Spatzenwinkel,wikidata,,Q14683,way
 Specht,wikidata,,Q25439,way
 Spechtstraße,wikidata,,Q25439;Q25934,way
 Speerweg,wikidata,,Q44475,way
-Spektebrücke,wikidata,,Q2308776,way
 Spekteweg,wikidata,,Q2308776,way
 Sperberstraße,wikidata,,Q188737;Q25380,way
 Sperberweg,wikidata,,Q25380,way
@@ -6263,6 +6257,7 @@ Alter-Robert-Park,,,,way
 "Am Steinkreis",,,,way
 "Am Stieggraben",,,,way
 "Am Südpark",,,,way
+"Am Tacheles",,,,way
 "Am Tempelgraben",,,,way
 "Am Vierling",,,,way
 "Am Wachtelschlag",,,,way
@@ -6359,6 +6354,7 @@ Bernard-Wieck-Promenade,,,,way
 Bernhard-Langwaldt-Weg,,,,way
 Besuchesritze,,,,way
 "Beyer Weg",,,,way
+Bienchenweg,,,,way
 BigCityGreens,,,,way
 Bismarcksteg,,,,way
 "Bitterfelder Brücke",,,,way
@@ -6622,6 +6618,7 @@ Grundweg,,,,way
 "Grünfläche an der Gänseplastik",,,,way
 "Grüntaler Flanier Nord",,,,way
 "Grüntaler Flanier Süd",,,,way
+"Grünverbindung Halemweg-Popitzweg",,,,way
 "Grünzug Bullengraben",,,,way
 "Grünzug Südpanke",,,,way
 "Grünzug am Langen Becken",,,,way
@@ -6661,6 +6658,7 @@ Haupttreppe,,,,way
 "Hauptweg 2",,,,way
 "Hauptweg 3",,,,way
 "Havelberg uphill",,,,way
+Havelbrücke,,,,way
 Havelmüllerweg,,,,way
 Havelspitze,,,,way
 Havelwiesen,,,,way
@@ -7034,7 +7032,6 @@ Pfahlerstraße,,,,way
 Pfarrer-Jurytko-Weg,,,,way
 Pfefferweg,,,,way
 Pflanzerweg,,,,way
-Pflaumenallee,,,,way
 "Pfuhlgelände an der Britzer Straße",,,,way
 "Pfuhlweg I",,,,way
 "Pfuhlweg II",,,,way
@@ -7084,6 +7081,7 @@ Promenade,,,,way
 Protokollhof,,,,way
 Prozessweg,,,,way
 Puchertweg,,,,way
+Pumpenpfad,,,,way
 Pyramidenbrücke,,,,way
 Pyramidenringbrücke,,,,way
 "Quartierspark Hauptstraße",,,,way
@@ -7162,6 +7160,7 @@ Rotkopfweg,,,,way
 Rubinweg,,,,way
 Rückerstraße,,,,way
 Rudolf-Spitzley-Straße,,,,way
+Rudolf-von-Gneist-Gasse,,,,way
 "Rudower Spinne",,,,way
 "Rummelsburger Platz",,,,way
 "Rummelsburger Seeblick",,,,way
@@ -7226,7 +7225,7 @@ Schulzestraße,,,,way
 Schulzeweg,,,,way
 Schulzweg,,,,way
 Schürstraße,,,,way
-Schwanblumenweg,,,,way
+Schwanenblumenweg,,,,way
 Schwartzstraße,,,,way
 Schwarzkogelweg,,,,way
 Schweizerhofpark,,,,way
@@ -7499,7 +7498,6 @@ Tälchenbrücke,,,,way
 Tälchenweg,,,,way
 Talsandweg,,,,way
 "Tangentiale Verbindung Ost",,,,way
-"Tangentiale Verbindung Ost - Kombivariante (in Planung)",,,,way
 Tanzplatz,,,,way
 Teilestraße,,,,way
 "Teltower Weg",,,,way
@@ -7553,7 +7551,6 @@ Vereinsstraße,,,,way
 Vereinsweg,,,,way
 "Verlorener Weg",,,,way
 Vier-Kolonien-Weg,,,,way
-"Villa Lemm",,,,way
 Virchowweg,,,,way
 Vogelgarten,,,,way
 Volkerweg,,,,way
@@ -7634,7 +7631,6 @@ Wehrmathen,,,,way
 Weislingenstraße,,,,way
 "Weiter Blick",,,,way
 Wellenpark,,,,way
-Wendemöglichkeit,,,,way
 Werftstraße,,,,way
 Werkstättenweg,,,,way
 Werner-Richard-Heymann-Platz,,,,way
@@ -7704,5 +7700,4 @@ Zinienweg,,,,way
 "Zwieseler Hof",,,,way
 "Zwischen den Giebeln",,,,way
 connector,,,,way
-"kleiner Platz",,,,way
 "zur Anna-Maria-Müller-Straße",,,,way

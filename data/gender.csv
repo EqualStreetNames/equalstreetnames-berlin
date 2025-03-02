@@ -172,7 +172,6 @@ Hedwig-Porschütz-Straße,wikidata,F,Q1593396,way
 Hedwig-Wachenheim-Straße,wikidata,F,Q1593412,way
 Hedwigstraße,wikidata,F,Q107435841;Q19689438;Q271509;Q57520,way
 Helen-Ernst-Straße,wikidata,F,Q1478650,way
-Helen-Keller-Weg,wikidata,F,Q38203,way
 Helene-Weber-Straße,wikidata,F,Q95851,way
 Helene-Weigel-Platz,wikidata,F,Q60528,way
 Helene-von-Mülinen-Weg,wikidata,F,Q1602036,way
@@ -292,6 +291,7 @@ Maria-Jankowski-Park,wikidata,F,Q98831535,way
 Maria-Matray-Straße,wikidata,F,Q108306,way
 Maria-von-Maltzan-Platz,wikidata,F,Q85201,way
 Mariane-von-Rantzau-Straße,wikidata,F,Q33103677,way
+Marianne-Foerster-Straße,wikidata,F,Q116751698,way
 Marianne-Hapig-Weg,wikidata,F,Q44528742,way
 Mariannenplatz,wikidata,F,Q261889,way
 Mariannenstraße,wikidata,F,Q18760860;Q261889,way
@@ -507,7 +507,6 @@ Attilaplatz,wikidata,M,Q36724,way
 Attilastraße,wikidata,M,Q36724,way
 Atzpodienstraße,wikidata,M,Q1750188,way
 Auerbachstraße,wikidata,M,Q76715,way
-Auerbachtunnel,wikidata,M,Q76715,way
 Auerdreieck,wikidata,M,Q89390,way
 Auerstraße,wikidata,M,Q89390,way
 Auerswaldstraße,wikidata,M,Q33084006,way
@@ -2001,7 +2000,7 @@ Kuno-Fischer-Straße,wikidata,M,Q61255,way
 Kunz-Buntschuh-Straße,wikidata,M,Q102422410,way
 Kunzendorfstraße,wikidata,M,Q55674638,way
 Kunzeweg,wikidata,M,Q104125878,way
-Kurfürstendammbrücke,wikidata,M,Q506527,way
+Kurfürstendamm,wikidata,M,Q22722;Q506527,way
 Kurfürstenstraße,wikidata,M,Q152727;Q22722,way
 Kurt-Exner-Straße,wikidata,M,Q1793511,way
 Kurt-Hiller-Park,wikidata,M,Q66458,way
