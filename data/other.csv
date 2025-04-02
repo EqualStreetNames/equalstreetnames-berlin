@@ -704,7 +704,6 @@ Basaltweg,wikidata,,Q43338,way
 "Basdorfer Weg",wikidata,,Q515715,way
 "Basdorfer Zeile",wikidata,,Q515715,way
 "Baseler Straße",wikidata,,Q78,way
-Basilikumweg,wikidata,,Q38859,way
 Basteiweg,wikidata,,Q671486,way
 Bat-Yam-Platz,wikidata,,Q208725,way
 "Battenheimer Weg",wikidata,,Q326411,way
@@ -857,7 +856,7 @@ Birnbaumring,wikidata,,Q434,way
 Birne,wikidata,,Q434,way
 Birnengasse,wikidata,,Q434,way
 Birnenpfad,wikidata,,Q434,way
-Birnenweg,wikidata,,Q434,way
+Birnenweg,wikidata,,Q146281;Q434,way
 Birnhornweg,wikidata,,Q683611,way
 Bisamstraße,wikidata,,Q26283,way
 "Bischofsgrüner Weg",wikidata,,Q253123,way
@@ -2266,7 +2265,6 @@ Hallandstraße,wikidata,,Q626045,way
 "Hallgarter Steig",wikidata,,Q562812,way
 "Haltoner Straße",wikidata,,Q376141,way
 "Hambacher Weg",wikidata,,Q393532,way
-"Hamburger Platz",wikidata,,Q1055,way
 "Hamburger Straße",wikidata,,Q1055,way
 Hammersteinstraße,wikidata,,Q1573862,way
 Hampsteadstraße,wikidata,,Q25610,way
@@ -3747,7 +3745,6 @@ Müggelstraße,wikidata,,Q694789,way
 Mühlbergstraße,wikidata,,Q38720,way
 Mühlenbachring,wikidata,,Q38720,way
 "Mühlenbecker Weg",wikidata,,Q1958439,way
-Mühlendamm,wikidata,,Q185187,way
 Mühlendorfstraße,wikidata,,Q38720,way
 Mühlenfeldstraße,wikidata,,Q185187,way
 Mühlenstraße,wikidata,,Q2583740;Q38720;Q44494,way
@@ -5054,7 +5051,7 @@ Söllerpfad,wikidata,,Q5565749,way
 Sollingzeile,wikidata,,Q72949,way
 "Sollstedter Straße",wikidata,,Q559775,way
 Solmsstraße,wikidata,,Q830144,way
-Solquellstraße,wikidata,,Q15517598,way
+Solquellstraße,wikidata,,Q11428612,way
 "Soltauer Straße",wikidata,,Q504754,way
 "Sommerfelder Straße",wikidata,,Q14947358,way
 Sommerstraße,wikidata,,Q1313,way
@@ -6092,7 +6089,6 @@ Zobelweg,wikidata,,Q26423,way
 Zochestraße,wikidata,,Q23943844,way
 "Zollbrücker Straße",wikidata,,Q218586,way
 "Zoppoter Straße",wikidata,,Q92689,way
-"Zoppoter Weg",wikidata,,Q92689,way
 "Zossener Brücke",wikidata,,Q226884,way
 "Zossener Straße",wikidata,,Q226884,way
 "Zu den Faltern",wikidata,,Q28319,way
@@ -6404,6 +6400,7 @@ Carl-Langbecker-Str.,,,,way
 Carl-Leid-Weg,,,,way
 Cecilienplatz,,,,way
 Chantiéweg,,,,way
+Charkiw-Park,,,,way
 "Charlottenburger Brücke",,,,way
 Charlottenweg,,,,way
 Christiansteg,,,,way
@@ -6584,7 +6581,6 @@ Gertrud-Pincus-Platz,,,,way
 "Gestell c",,,,way
 "Gestell d",,,,way
 "Gewerbegebiet zum Wasserwerk",,,,way
-Gipsdreieck,,,,way
 Glassstraße,,,,way
 Gleim-Oase,,,,way
 Gloriastraße,,,,way
@@ -6644,6 +6640,7 @@ Hallesche-Tor-Brücke,,,,way
 Hallichpromenade,,,,way
 Hamannweg,,,,way
 "Hampelsche Baumschule",,,,way
+"Handjerystraße / Renée-Sintenis-Platz",,,,way
 Hans-Dannert-Weg,,,,way
 Hansakorso,,,,way
 Hansaweg,,,,way
@@ -7197,6 +7194,7 @@ Schlosspark-Passage,,,,way
 Schloßfreiheit,,,,way
 Schloßinsel,,,,way
 "Schloßpark Lichterfelde",,,,way
+"Schloßstraße / Sophie-Charlotte-Platz",,,,way
 Schluchtweg,,,,way
 Schlüterhof,,,,way
 Schlüterweg,,,,way
@@ -7241,6 +7239,7 @@ Seidenweg,,,,way
 Seifertweg,,,,way
 Semkensteig,,,,way
 Sennockstraße,,,,way
+Sensorikweg,,,,way
 Separationsweg,,,,way
 Seufzerbrücke,,,,way
 Sickingenbrücke,,,,way
@@ -7250,6 +7249,7 @@ Siedlungsweg,,,,way
 Siegertweg,,,,way
 Siekeweg,,,,way
 Silberschilling,,,,way
+Silvestersteig,,,,way
 Simonring,,,,way
 Simrockplatz,,,,way
 Siverstorpstraße,,,,way
@@ -7545,6 +7545,7 @@ Veitstraße,,,,way
 Verbindungschaussee,,,,way
 Verbindungsstraße,,,,way
 "Verbindungsweg Süd zum Landschaftspark",,,,way
+Vereinsplatz,,,,way
 "Vereinsplatz KGA Grönland e. V.",,,,way
 "Vereinsplatz KGA Neues Heim e. V.",,,,way
 Vereinsstraße,,,,way
@@ -7655,6 +7656,7 @@ Wilhelminenhofpassage,,,,way
 Wilkesweg,,,,way
 Willi-Cordts-Weg,,,,way
 Willis-Brücke,,,,way
+Willy-Abel-Platz,,,,way
 "Wilmersdorfer Tunnel",,,,way
 Winkelpfad,,,,way
 Winkelweg,,,,way
@@ -7700,4 +7702,5 @@ Zinienweg,,,,way
 "Zwieseler Hof",,,,way
 "Zwischen den Giebeln",,,,way
 connector,,,,way
+"dead end",,,,way
 "zur Anna-Maria-Müller-Straße",,,,way

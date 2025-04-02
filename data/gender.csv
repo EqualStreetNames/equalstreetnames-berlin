@@ -1270,9 +1270,7 @@ Geneststraße,wikidata,M,Q2561275,way
 Genslerstraße,wikidata,M,Q97589122,way
 Georg-Benjamin-Straße,wikidata,M,Q1503672,way
 Georg-Blank-Straße,wikidata,M,Q109439,way
-Georg-Knorr-Platz,wikidata,M,Q97095,way
 Georg-Knorr-Straße,wikidata,M,Q97095,way
-Georg-Kolbe-Hain,wikidata,M,Q561283,way
 Georg-Lehnig-Straße,wikidata,M,Q1262378,way
 Georg-Löwenstein-Straße,wikidata,M,Q24694954,way
 Georg-Schendel-Straße,wikidata,M,Q1505846,way
@@ -1713,7 +1711,6 @@ Jacob-Teitel-Park,wikidata,M,Q47450637,way
 Jacobsenweg,wikidata,M,Q1336292,way
 Jacobsohnstraße,wikidata,M,Q66477,way
 Jacobystraße,wikidata,M,Q88367,way
-Jacques-Offenbach-Platz,wikidata,M,Q41555,way
 Jaczostraße,wikidata,M,Q515697,way
 Jaehnstraße,wikidata,M,Q97597976,way
 Jafféstraße,wikidata,M,Q817940,way
@@ -2320,6 +2317,7 @@ Motzstraße,wikidata,M,Q1463898,way
 Mozartring,wikidata,M,Q254,way
 Mozartstraße,wikidata,M,Q254,way
 Mudrastraße,wikidata,M,Q73400,way
+Mühlendamm,wikidata,M,Q185187;Q215507,way
 Mühsamstraße,wikidata,M,Q61722,way
 Müllenhoffstraße,wikidata,M,Q67091,way
 Müller-Breslau-Straße,wikidata,M,Q89204,way
@@ -2938,7 +2936,6 @@ Sigismundkorso,wikidata,M,Q57124,way
 Sigismundstraße,wikidata,M,Q2800847,way
 Sigmund-Bergmann-Straße,wikidata,M,Q2284937,way
 Silbersteinstraße,wikidata,M,Q2131405,way
-Silvestersteig,wikidata,M,Q47149,way
 Silvesterweg,wikidata,M,Q47149,way
 Silvio-Meier-Straße,wikidata,M,Q994053,way
 Simmelstraße,wikidata,M,Q76849,way
@@ -3316,7 +3313,7 @@ Wohlgemuthstraße,wikidata,M,Q100523306,way
 Wohlrabedamm,wikidata,M,Q1717846,way
 Wolfensteindamm,wikidata,M,Q19513518,way
 Wölfertstraße,wikidata,M,Q75146,way
-Wolffring,wikidata,M,;Q76043,way
+Wolffring,wikidata,M,Q76043,way
 Wolfgang-Harlan-Straße,wikidata,M,Q2808490,way
 Wolfgang-Heinz-Straße,wikidata,M,Q89376,way
 Wolfgang-Steinitz-Straße,wikidata,M,Q108460,way
