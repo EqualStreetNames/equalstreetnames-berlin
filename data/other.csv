@@ -604,6 +604,7 @@ Aschenputtel,wikidata,,Q13685096,way
 "Ascherslebener Weg",wikidata,,Q486991,way
 Asgardstraße,wikidata,,Q178182,way
 Ashdodstraße,wikidata,,Q171639,way
+Ashkelon-Platz,wikidata,,Q60956,way
 "Askaloner Weg",wikidata,,Q60956,way
 Askanierring,wikidata,,Q168352,way
 "Askanischer Platz",wikidata,,Q168352,way
@@ -6155,6 +6156,7 @@ Zwillingsweg,wikidata,,Q8923,way
 "alte Altglienicker Brücke",wikidata,,Q641472,way
 "ehem. Görlitzer Bahn",wikidata,,Q162558,way
 "ehem. Görlitzer Tunnel",wikidata,,Q4077,way
+"""Rattenweg""",,,,way
 "1. Querweg",,,,way
 "2. Querweg",,,,way
 "2. Westtunnel",,,,way
@@ -6310,7 +6312,6 @@ Antonienstraße,,,,way
 Appellplatz,,,,way
 Argoallee,,,,way
 Arthur-Friedrich-Weg,,,,way
-Ashkelon-Platz,,,,way
 Asternpfad,,,,way
 Asterweg,,,,way
 "Auf dem Mühlenberg",,,,way
@@ -6608,6 +6609,7 @@ Großmannweg,,,,way
 "Grünanlage Tauernallee",,,,way
 Grundackerweg,,,,way
 Grundweg,,,,way
+"Grüne Trifft am Walde",,,,way
 "Grüner Gang",,,,way
 "Grunewald West",,,,way
 "Grünfläche an der Gänseplastik",,,,way
@@ -6734,6 +6736,7 @@ Ingrid-Rabe-Straße,,,,way
 Ingrid-Reschke-Straße,,,,way
 "Inline-Skate Rundkurs",,,,way
 Inselbrücke,,,,way
+"Interkultureller Kräutergemeinschaftsgarten vor der Mierendorff-Schule",,,,way
 Irrgarten,,,,way
 J-Straße,,,,way
 Jacobsbrunnenweg,,,,way
@@ -6960,7 +6963,6 @@ Nentwigstraße,,,,way
 "Neue Mittelstraße",,,,way
 "Neue Promenade",,,,way
 "Neue Straße",,,,way
-"Neue Wiesen",,,,way
 "Neuer Steg",,,,way
 Neuland,,,,way
 Neulandweg,,,,way
@@ -6980,6 +6982,7 @@ Nordsternweg,,,,way
 Nordstraße,,,,way
 Nuscheweg,,,,way
 O-Weg,,,,way
+OSSWORX,,,,way
 "Oberhaardter Weg",,,,way
 Oberseepark,,,,way
 Obrikatstraße,,,,way
@@ -7038,6 +7041,8 @@ Philipp-Jacob-Rauch-Straße,,,,way
 Philippstraße,,,,way
 Piazza,,,,way
 Pionierweg,,,,way
+"Planstraße 2",,,,way
+"Planstraße 4",,,,way
 Plantanenallee,,,,way
 Plateautreppe,,,,way
 "Platz A",,,,way
@@ -7139,6 +7144,7 @@ Riensbergstraße,,,,way
 "Ring IV",,,,way
 Ringpark,,,,way
 Ringweg,,,,way
+Rita-Maiburg-Straße,,,,way
 Riwne-Platz,,,,way
 Robert-Stolz-Anlage,,,,way
 Rodelbahn,,,,way
@@ -7183,6 +7189,7 @@ Sangestraße,,,,way
 Sarah-Kirsch-Straße,,,,way
 Schälingsweg,,,,way
 "Schauspielerin Elisabeth Bergner Park",,,,way
+Schefferweg,,,,way
 Schendelgasse,,,,way
 Schendelpark,,,,way
 Schenkestraße,,,,way
@@ -7698,7 +7705,6 @@ Zinienweg,,,,way
 "Zufahrt zum Flughafen Tegel",,,,way
 "Zugang Bahngleis für Rollstuhl",,,,way
 "Zugang Hauseingang",,,,way
-"Zugang zu den Häusern Mühlenstraße 62 -64c",,,,way
 "Zum Forsthaus",,,,way
 "Zum Klötzhain",,,,way
 "Zum Molkenmarkt 1+2",,,,way
@@ -7712,5 +7718,4 @@ Zinienweg,,,,way
 "Zwieseler Hof",,,,way
 "Zwischen den Giebeln",,,,way
 connector,,,,way
-"dead end",,,,way
 "zur Anna-Maria-Müller-Straße",,,,way
