@@ -1020,7 +1020,6 @@ Bristolstraße,wikidata,,Q23154,way
 "Brittendorfer Weg",wikidata,,Q21757,way
 "Britzer Brücke",wikidata,,Q428846,way
 "Britzer Damm",wikidata,,Q428846,way
-"Britzer Garten",wikidata,,Q428846,way
 "Britzer Hafensteg",wikidata,,Q97380644,way
 "Britzer Straße",wikidata,,Q428846,way
 Britzkestraße,wikidata,,Q921161,way
@@ -1360,7 +1359,7 @@ Dröpkeweg,wikidata,,Q97440360,way
 Drossel,wikidata,,Q26050,way
 Drosselbartstraße,wikidata,,Q11856,way
 Drosselbartweg,wikidata,,Q11856,way
-Drosselgasse,wikidata,,Q26050,way
+Drosselgasse,wikidata,,Q115661;Q26050,way
 Drosselsteg,wikidata,,Q26050;Q26349,way
 Drosselstieg,wikidata,,Q26050,way
 Drosselstraße,wikidata,,Q26050,way
@@ -1602,7 +1601,7 @@ Eulenweg,wikidata,,Q25222,way
 "Eupener Straße",wikidata,,Q151831,way
 "Eutinger Weg",wikidata,,Q81702,way
 Ewaldstraße,wikidata,,Q18343061,way
-Exerzierstraße,wikidata,,Q1117946,way
+Exerzierstraße,wikidata,,Q1117946;Q3914,way
 "Exiner Straße",wikidata,,Q1003283,way
 "Eylauer Straße",wikidata,,Q331347,way
 "Fachinger Straße",wikidata,,Q771685,way
@@ -3156,6 +3155,7 @@ Kürbissteig,wikidata,,Q5339301,way
 "Kürenzer Straße",wikidata,,Q883351,way
 Kurfürstenweg,wikidata,,Q22722,way
 Kurhausstraße,wikidata,,Q3200567,way
+Kurhausstraßenbrücke,wikidata,,Q39503,way
 "Kurländer Allee",wikidata,,Q185072,way
 "Kurmärkische Straße",wikidata,,Q324056,way
 "Kurpark Friedrichshagen",wikidata,,Q1793170;Q563528,way
@@ -3469,6 +3469,7 @@ Magirusstraße,wikidata,,Q545107,way
 Magistratsweg,wikidata,,Q1884198,way
 Magnolienpfad,wikidata,,Q157017,way
 Magnolienring,wikidata,,Q157017,way
+Magnolienweg,wikidata,,Q157017,way
 "Mahlower Straße",wikidata,,Q574128,way
 "Mahlsdorfer Straße",wikidata,,Q563837,way
 Mahnkopfweg,wikidata,,Q104776019,way
@@ -5517,7 +5518,6 @@ Tümpelweg,wikidata,,Q291099,way
 Tunnelstraße,wikidata,,Q2313475,way
 Turfweg,wikidata,,Q11822917,way
 "Turiner Straße",wikidata,,Q495,way
-Türkenstraße,wikidata,,Q43,way
 Türksteinweg,wikidata,,Q22297,way
 Turmfalkenstraße,wikidata,,Q26490,way
 Turmstraße,wikidata,,Q2100004,way
@@ -6458,7 +6458,6 @@ Elfriede-Brüning-Straße,,,,way
 Elise-Tilse-Park,,,,way
 Elisenstraße,,,,way
 Ella-Augustin-Platz,,,,way
-Ella-Trebe-Straße,,,,way
 Elsa-Neumann-Straße,,,,way
 Elsenweg,,,,way
 Emblastraße,,,,way
@@ -6515,7 +6514,6 @@ Franz-Meyer-Straße,,,,way
 Franzstrasse,,,,way
 Franzweg,,,,way
 Frauenstraße,,,,way
-Freia-Eisner-Straße,,,,way
 Freiligratstraße,,,,way
 "Freizeitpark Marienfelde",,,,way
 Freizeitweg,,,,way
@@ -6547,7 +6545,6 @@ Gallipoliweg,,,,way
 "Gang 5",,,,way
 "Garten Liebermann",,,,way
 "Garten der Blumen und Wasserspiele",,,,way
-"Gärten der Welt",,,,way
 Gartenpavilion,,,,way
 Gartenplatz,,,,way
 Gäßnerweg,,,,way
@@ -6882,6 +6879,7 @@ Linse,,,,way
 Lossebergplatz,,,,way
 Lossowweg,,,,way
 Louis-Schmidt-Straße,,,,way
+Löwen-Brücke,,,,way
 Lückstraße,,,,way
 Lüdickeweg,,,,way
 Ludwig-Turek-Platz,,,,way
@@ -6891,7 +6889,6 @@ Luisenhain,,,,way
 "Luisenstädtischer Kanal Immergrüner Garten",,,,way
 "Luisenstädtischer Kanal Waldpflanzengarten",,,,way
 M-Weg,,,,way
-Magnolienweg,,,,way
 "Main Street",,,,way
 "Malchower Teichweg",,,,way
 Marchbrücke,,,,way
@@ -7041,8 +7038,11 @@ Philipp-Jacob-Rauch-Straße,,,,way
 Philippstraße,,,,way
 Piazza,,,,way
 Pionierweg,,,,way
+"Planstraße 1",,,,way
 "Planstraße 2",,,,way
+"Planstraße 3",,,,way
 "Planstraße 4",,,,way
+"Planstraße 5",,,,way
 Plantanenallee,,,,way
 Plateautreppe,,,,way
 "Platz A",,,,way
@@ -7580,6 +7580,7 @@ Volkradpassage,,,,way
 "Volksgartenweg 6",,,,way
 "Volkspark Köpenick",,,,way
 "Volkspark Prenzlauer Berg",,,,way
+"Volkspark Rehberge",,,,way
 "Volkspark Wittenau – Göschenpark",,,,way
 "Volkspark am Weinberg",,,,way
 Volkswohlpark,,,,way
