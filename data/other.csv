@@ -1677,7 +1677,7 @@ Feuerdornweg,wikidata,,Q157748,way
 Feuerfalterstraße,wikidata,,Q158717,way
 Feuerkäferweg,wikidata,,Q854647,way
 "Feuersteiner Straße",wikidata,,Q985087,way
-Fichtelbergstraße,wikidata,,Q164561,way
+Fichtelbergstraße,wikidata,,Q11631;Q164561,way
 "Fichtenauer Straße",wikidata,,Q55401319,way
 Fichtengrund,wikidata,,Q26782,way
 Fichtenstraße,wikidata,,Q26782,way
@@ -2168,7 +2168,7 @@ Großgörschenstraße,wikidata,,Q329534,way
 "Grumbacher Weg",wikidata,,Q641552,way
 Grumbkowstraße,wikidata,,Q93437428,way
 "Grumsiner Straße",wikidata,,Q99646081,way
-"Grünauer Straße",wikidata,,Q643857,way
+"Grünauer Straße",wikidata,,Q269622;Q643857,way
 "Grünauer Weg",wikidata,,Q643857,way
 "Grünberger Straße",wikidata,,Q104720,way
 Gründerstraße,wikidata,,Q267712,way
@@ -2191,7 +2191,7 @@ Grünrockweg,wikidata,,Q1714828,way
 Grünspechtweg,wikidata,,Q166171,way
 "Grünstadter Weg",wikidata,,Q22956,way
 Grünsteinweg,wikidata,,Q753016,way
-Grünstraße,wikidata,,Q5604190,way
+Grünstraße,wikidata,,Q4331950,way
 "Grüntaler Straße",wikidata,,Q95483917,way
 Grüntenstraße,wikidata,,Q205163,way
 "Grünzug Am Falkenberg",wikidata,,Q1394158,way
@@ -3685,7 +3685,6 @@ Möckernstraße,wikidata,,Q1492924,way
 Mohasistraße,wikidata,,Q3215074,way
 Mohnweg,wikidata,,Q146391,way
 Mohrenfalterstraße,wikidata,,Q924117,way
-Mohrenstraße,wikidata,,Q12681143,way
 "Mohriner Allee",wikidata,,Q988602,way
 "Mohrunger Allee",wikidata,,Q139725,way
 Molchstraße,wikidata,,Q10980893,way
@@ -4518,9 +4517,10 @@ Ritterlandweg,wikidata,,Q2116450,way
 Rittersporn,wikidata,,Q160107,way
 Ritterspornweg,wikidata,,Q160107,way
 Ritterstraße,wikidata,,Q102083,way
+Riwne-Platz,wikidata,,Q156739,way
 "Rixdorfer Straße",wikidata,,Q169492;Q325748,way
 "Röbeler Weg",wikidata,,Q20265,way
-Robinienweg,wikidata,,Q157417;Q472943,way
+Robinienweg,wikidata,,Q157417,way
 "Rockenhausener Straße",wikidata,,Q22955,way
 "Rodacher Weg",wikidata,,Q491118,way
 Rodelbahnpfad,wikidata,,Q3266340,way
@@ -5561,7 +5561,7 @@ Universitätsstraße,wikidata,,Q152087,way
 Unstrutstraße,wikidata,,Q168390,way
 "Unter den Birken",wikidata,,Q25243,way
 "Unter den Eichen",wikidata,,Q12004,way
-"Unter den Linden",wikidata,,Q45417383,way
+"Unter den Linden",wikidata,,Q127849,way
 "Unter den Rüstern",wikidata,,Q131113,way
 Unterbaumstraße,wikidata,,Q2009149,way
 "Untertürkheimer Straße",wikidata,,Q897283,way
@@ -5631,7 +5631,7 @@ Volkradstraße,wikidata,,Q27648539,way
 Volksparksteg,wikidata,,Q1371159,way
 "Vor dem Schlesischen Tor",wikidata,,Q1169350,way
 "Vorarlberger Damm",wikidata,,Q38981,way
-Vorstadtweg,wikidata,,Q17050310,way
+Vorstadtweg,wikidata,,Q12340108,way
 Voxstraße,wikidata,,Q2534876,way
 Vulkanstraße,wikidata,,Q188631,way
 "Wachenheimer Weg",wikidata,,Q50897,way
@@ -6345,11 +6345,13 @@ Bellogasse,,,,way
 Bergholzstraße,,,,way
 Bergstr.,,,,way
 Berlewitzweg,,,,way
+"Berliner Mauerweg",,,,way
 "Berliner Verbindungsbahn",,,,way
 Bernard-Wieck-Promenade,,,,way
 Bernhard-Langwaldt-Weg,,,,way
 Besuchesritze,,,,way
 "Beyer Weg",,,,way
+Beyschlagtunnel,,,,way
 Bienchenweg,,,,way
 BigCityGreens,,,,way
 Bismarcksteg,,,,way
@@ -6381,7 +6383,6 @@ Bruchweg,,,,way
 "Brücke am Platz des Sports",,,,way
 Brückenweg,,,,way
 Brunnenhof,,,,way
-"Bruno Baum Straße",,,,way
 Bruno-Baum-Grünzug,,,,way
 "Buchholzer Feld",,,,way
 Buckower-Felder-Mauerweg,,,,way
@@ -6404,7 +6405,6 @@ Charkiw-Park,,,,way
 "Charlottenburger Brücke",,,,way
 Charlottenweg,,,,way
 Christiansteg,,,,way
-Clara-Müller-Jahnke-Straße,,,,way
 "Clara-Zetkin-Park II",,,,way
 Colbestraße,,,,way
 Crusemarkstraße,,,,way
@@ -6505,6 +6505,7 @@ Flurende,,,,way
 Flutstraße,,,,way
 Forkenzeile,,,,way
 "Forsthaus Müggelheim",,,,way
+Forsthaustunnel,,,,way
 Forstmeisterweg,,,,way
 Foyer,,,,way
 "Foyer ECC 1",,,,way
@@ -6732,6 +6733,7 @@ Ilse-Krause-Steg,,,,way
 Ingrid-Rabe-Straße,,,,way
 Ingrid-Reschke-Straße,,,,way
 "Inline-Skate Rundkurs",,,,way
+"Innerer Parkring",,,,way
 Inselbrücke,,,,way
 "Interkultureller Kräutergemeinschaftsgarten vor der Mierendorff-Schule",,,,way
 Irrgarten,,,,way
@@ -6755,7 +6757,6 @@ Jugendstilpark,,,,way
 Jungfernbrücke,,,,way
 K-Straße,,,,way
 K-Weg,,,,way
-Kaaden-Ring,,,,way
 "Kaiser Wilhelm Passage",,,,way
 Kaiser-Wilhelm-Platz,,,,way
 Kaisersteg,,,,way
@@ -6898,7 +6899,6 @@ Maria-Rimkus-Weg,,,,way
 Marienlust,,,,way
 Marienuferallee,,,,way
 Marienweg,,,,way
-Marius-Carpentier-Straße,,,,way
 Marksstraße,,,,way
 Marksweg,,,,way
 Mathildesweg,,,,way
@@ -6947,7 +6947,6 @@ N-Weg,,,,way
 Naturerlebnisgarten,,,,way
 Naturlehrpfad,,,,way
 "Naturpark Schöneberger Südgelände",,,,way
-"Neben dem Dorfteich",,,,way
 "Nebenweg 1",,,,way
 Nentwigstraße,,,,way
 "Neubrücker Straße",,,,way
@@ -7010,6 +7009,7 @@ Pardemannstraße,,,,way
 "Park am Weißen See",,,,way
 "Park an der Spree",,,,way
 Park-Trilogie,,,,way
+Parklett,,,,way
 Parkplatzweg,,,,way
 Parkrosenweg,,,,way
 Parkviertelallee,,,,way
@@ -7145,7 +7145,6 @@ Riensbergstraße,,,,way
 Ringpark,,,,way
 Ringweg,,,,way
 Rita-Maiburg-Straße,,,,way
-Riwne-Platz,,,,way
 Robert-Stolz-Anlage,,,,way
 Rodelbahn,,,,way
 Rödelstraße,,,,way
@@ -7153,6 +7152,7 @@ Rohdestraße,,,,way
 Rohrlake,,,,way
 Rohrweg,,,,way
 Rollbergstraße,,,,way
+Rollstuhlrampe,,,,way
 Rombsweg,,,,way
 "Rondell an der Trockenzone",,,,way
 Rosengang,,,,way
@@ -7230,6 +7230,7 @@ Schrockstraße,,,,way
 Schulgarten,,,,way
 "Schulgartenfahrbrücke (Steinerne Brücke)",,,,way
 Schulgartenweg,,,,way
+"Schulzendorfer Weg",,,,way
 Schulzenstraße,,,,way
 Schulzenweg,,,,way
 Schulzestraße,,,,way
@@ -7702,10 +7703,12 @@ Zeltenplatz,,,,way
 Zentralweg,,,,way
 Zernickstraße,,,,way
 Zinienweg,,,,way
+"Zobtener Straße",,,,way
 "Zu den Müggelheimer Wiesen",,,,way
 "Zufahrt zum Flughafen Tegel",,,,way
 "Zugang Bahngleis für Rollstuhl",,,,way
 "Zugang Hauseingang",,,,way
+"Zugang Köpfchensee",,,,way
 "Zum Forsthaus",,,,way
 "Zum Klötzhain",,,,way
 "Zum Molkenmarkt 1+2",,,,way

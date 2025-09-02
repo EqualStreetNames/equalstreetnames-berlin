@@ -87,6 +87,7 @@ Clara-Grunwald-Straße,wikidata,F,Q106210,way
 Clara-Immerwahr-Straße,wikidata,F,Q7490,way
 Clara-Jaschke-Straße,wikidata,F,Q56248900,way
 Clara-Mleinek-Straße,wikidata,F,Q95207254,way
+Clara-Müller-Jahnke-Straße,wikidata,F,Q1095223,way
 Clara-Wieck-Straße,wikidata,F,Q132232,way
 Clara-Zetkin-Park,wikidata,F,Q75823,way
 Clara-Zetkin-Platz,wikidata,F,Q75823,way
@@ -481,6 +482,7 @@ Anton-Saefkow-Park,wikidata,M,Q74356,way
 Anton-Saefkow-Platz,wikidata,M,Q74356,way
 Anton-Saefkow-Straße,wikidata,M,Q74356,way
 Anton-Webern-Weg,wikidata,M,Q190933,way
+Anton-Wilhelm-Amo-Straße,wikidata,M,Q595486,way
 Anton-von-Werner-Straße,wikidata,M,Q77324,way
 Antonplatz,wikidata,M,Q591830,way
 Anzengruberstraße,wikidata,M,Q93718,way
@@ -1479,6 +1481,7 @@ Händelplatz,wikidata,M,Q7302,way
 Händelstraße,wikidata,M,Q7302,way
 Handjerystraße,wikidata,M,Q1986912,way
 Hanielweg,wikidata,M,Q1447087,way
+Hanne-Sobek-Platz,wikidata,M,Q279603,way
 Hannemannbrücke,wikidata,M,Q97319749,way
 Hannemannstraße,wikidata,M,Q97319749,way
 Hanns-Braun-Straße,wikidata,M,Q66584,way
@@ -2187,6 +2190,7 @@ Marconistraße,wikidata,M,Q36488,way
 Mareschstraße,wikidata,M,Q99519748,way
 Mareyzeile,wikidata,M,Q289217,way
 Marheinekeplatz,wikidata,M,Q65786,way
+Marius-Carpentier-Straße,wikidata,M,Q122982569,way
 Mark-Twain-Straße,wikidata,M,Q7245,way
 Markelstraße,wikidata,M,Q1315717;Q15822887,way
 Markgraf-Albrecht-Straße,wikidata,M,Q156041,way
@@ -2588,7 +2592,7 @@ Quantzstraße,wikidata,M,Q77212,way
 Raabestraße,wikidata,M,Q60647,way
 Rabindranath-Tagore-Straße,wikidata,M,Q7241,way
 Radickestraße,wikidata,M,Q99478626,way
-Ramlerstraße,wikidata,M,Q63617,way
+Ramlerstraße,wikidata,M,Q161208;Q63617,way
 Rankestraße,wikidata,M,Q77184,way
 Raoul-Wallenberg-Straße,wikidata,M,Q152850,way
 Rapsstraße,wikidata,M,Q763505,way
@@ -2706,7 +2710,6 @@ Roßmäßlerstraße,wikidata,M,Q76238,way
 Rothariweg,wikidata,M,Q312621,way
 Rothenbachstraße,wikidata,M,Q68482163,way
 Rothenburgstraße,wikidata,M,Q99206781,way
-Rotherstieg,wikidata,M,Q1082544,way
 Rotherstraße,wikidata,M,Q1082544,way
 Rötheweg,wikidata,M,Q1386905,way
 Rousseauweg,wikidata,M,Q6527,way
@@ -2901,7 +2904,7 @@ Schwindstraße,wikidata,M,Q551901,way
 Scottweg,wikidata,M,Q79025,way
 Seecktstraße,wikidata,M,Q57204,way
 Seegerstraße,wikidata,M,Q104775962,way
-Seelenbinderstraße,wikidata,M,Q452309,way
+Seelenbinderstraße,wikidata,M,Q452309;Q6300902,way
 Seelingstraße,wikidata,M,Q74985,way
 Segitzdamm,wikidata,M,Q74286,way
 Seibtweg,wikidata,M,Q1505999,way
@@ -3166,7 +3169,7 @@ Vorbergstraße,wikidata,M,Q102355206,way
 Voßbergstraße,wikidata,M,Q102410572,way
 Voßstraße,wikidata,M,Q41537535,way
 Wachstraße,wikidata,M,Q541467,way
-Wadzeckstraße,wikidata,M,Q21548899,relation
+Wadzeckstraße,wikidata,M,Q21548899,way
 Waetzoldtstraße,wikidata,M,Q15455358,way
 Wagner-Régeny-Allee,wikidata,M,Q540323,way
 Wagner-Régeny-Straße,wikidata,M,Q540323,way
