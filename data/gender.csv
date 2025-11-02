@@ -367,7 +367,6 @@ Alzeyweg,wikidata,-,Q2531389,way
 "Am Schlachtensee",wikidata,-,Q896095,way
 "Am Schlehdorn",wikidata,-,Q129018,way
 "Am Schlossberg",wikidata,-,Q563805,way
-"Am Schloßhof",wikidata,-,Q882983,way
 "Am Schloßpark",wikidata,-,Q681355,way
 "Am Schmeding",wikidata,-,Q40558;Q1434274,way
 "Am Schonungsberg",wikidata,-,Q1629615,way
@@ -1725,7 +1724,7 @@ Flachsweg,wikidata,-,Q1426327,way
 Flakenseestraße,wikidata,-,Q1426847,way
 Flämingstraße,wikidata,-,Q821486,way
 Flankenschanze,wikidata,-,Q91203,way
-Flansweg,wikidata,-,Q1287578,way
+Flansweg,wikidata,-,,way
 Flaschenkai,wikidata,-,Q457003,way
 "Flatower Straße",wikidata,-,Q47446677,way
 Fläzsteinpfad,wikidata,-,Q97440628,way
@@ -1963,7 +1962,7 @@ Gerichtstraße,wikidata,-,Q373162,way
 Gerlindeweg,wikidata,-,Q1513738,way
 "Gerlinger Straße",wikidata,-,Q61843,way
 Germanenplatz,wikidata,-,Q22633,way
-Germanenstraße,wikidata,-,Q22633,way
+Germanenstraße,wikidata,-,Q22633;Q821133,way
 Germaniapromenade,wikidata,-,Q328257,way
 Germaniastraße,wikidata,-,Q328257,way
 "Germendorfer Straße",wikidata,-,Q1514257,way
@@ -2571,7 +2570,6 @@ Homburgstraße,wikidata,-,Q4165,way
 Hopfenweg,wikidata,-,Q158790,way
 Höpfertsteig,wikidata,-,Q83358653,way
 "Hoppegarten Weg",wikidata,-,Q375199,way
-"Hoppegartener Straße",wikidata,-,Q375199,way
 "Hoppendorfer Straße",wikidata,-,Q2269587,way
 Horandweg,wikidata,-,Q1627960,way
 "Horber Straße",wikidata,-,Q82690,way
@@ -2983,6 +2981,7 @@ Klosterbuschweg,wikidata,-,Q1434274,way
 "Klosterheider Weg",wikidata,-,Q15057058,way
 Klosterstraße,wikidata,-,Q1543798;Q817051,way
 Klötzesteig,wikidata,-,Q1434274,way
+"Klüsserather Weg",wikidata,-,Q569589,way
 "Klützer Straße",wikidata,-,Q507165,way
 Knappenpfad,wikidata,-,Q579516,way
 Kneippweg,wikidata,-,Q1750760,way
@@ -6277,6 +6276,7 @@ Bertha-Benz-Straße,wikidata,F,Q77117,way
 Bettina-von-Arnim-Ufer,wikidata,F,Q57236,way
 Bettinastraße,wikidata,F,Q57236,way
 Betty-Hirsch-Platz,wikidata,F,Q850357,way
+Betty-Katz-Straße,wikidata,F,Q105354891,way
 Boenkestraße,wikidata,F,Q1510954,way
 Bohm-Schuch-Weg,wikidata,F,Q1095244,way
 Boraweg,wikidata,F,Q77239,way
@@ -6805,7 +6805,6 @@ Besselpark,wikidata,M,Q75845,way
 Besselstraße,wikidata,M,Q75845,way
 Bessemerstraße,wikidata,M,Q310201,way
 Betckestraße,wikidata,M,Q33083338,way
-Betty-Katz-Straße,wikidata,M,Q62400,way
 Beuckestraße,wikidata,M,Q97479139,way
 Beusselbrücke,wikidata,M,Q1505598,way
 Beusselstraße,wikidata,M,Q1505598,way
@@ -8368,6 +8367,7 @@ Marschallbrücke,wikidata,M,Q153522,way
 Marschallstraße,wikidata,M,Q213755,way
 Marschnerstraße,wikidata,M,Q160063,way
 Marshallstraße,wikidata,M,Q98048491,way
+Martha-Ndumbe-Platz,wikidata,M,Q101449,way
 Martin-Buber-Straße,wikidata,M,Q84423,way
 Martin-Heydert-Straße,wikidata,M,Q1904472,way
 Martin-Hoffmann-Straße,wikidata,M,Q101581959,way
@@ -8508,7 +8508,6 @@ Nehringstraße,wikidata,M,Q286441,way
 Neltestraße,wikidata,M,Q1669763,way
 Nespersteig,wikidata,M,Q119001,way
 Nestorstraße,wikidata,M,Q61814,way
-Nettelbeckplatz,wikidata,M,Q101449,way
 "Neue Blumenstraße",wikidata,M,Q103202,way
 "Neue Kantstraße",wikidata,M,Q9312,way
 "Neue Späthstraße",wikidata,M,Q122703,way
@@ -8732,7 +8731,6 @@ Prinz-Georg-Straße,wikidata,M,Q276578,way
 Prinz-Handjery-Straße,wikidata,M,Q1986912,way
 Prinz-Heinrich-Straße,wikidata,M,Q57569,way
 Prinzenallee,wikidata,M,Q105013,way
-Prinzengasse,wikidata,M,Q11770476,way
 Prinzregent-Ludwig-Brücke,wikidata,M,Q44393,way
 Pritchardstraße,wikidata,M,Q15997837,way
 Proellstraße,wikidata,M,Q63161442,way
@@ -9269,7 +9267,6 @@ Totilastraße,wikidata,M,Q159707,way
 Trachenbergring,wikidata,M,Q98686488,way
 Trachtenbrodtstraße,wikidata,M,Q104148719,way
 Traegerstraße,wikidata,M,Q214834,way
-Treitschkestraße,wikidata,M,Q62400,way
 Trendelenburgstraße,wikidata,M,Q61280,way
 Treskowallee,wikidata,M,Q1692832,way
 Treskowbrücke,wikidata,M,Q2284840,way

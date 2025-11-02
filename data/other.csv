@@ -27,6 +27,7 @@ Ackerhummelweg,,,,way
 Adlerplatz,,,,way
 Adolf-Kiepert-Steg,,,,way
 Aktionspark,,,,way
+Alandstraße,,,,way
 Alerichstraße,,,,way
 Alpenhöhe,,,,way
 Alpenweg,,,,way
@@ -180,6 +181,7 @@ Bärenplatz,,,,way
 Barschelplatz,,,,way
 Baumgartensteg,,,,way
 Bausdorfstraße,,,,way
+Baustelle,,,,way
 Beckerweg,,,,way
 Beerenstraße,,,,way
 "Beerfelder Straße",,,,way
@@ -259,6 +261,7 @@ Dammbrücke,,,,way
 "Das Labyrinth im Spektepark",,,,way
 Dechertstraße,,,,way
 Dessinstraße,,,,way
+"Die 1",,,,way
 "Die 3",,,,way
 "Die 7",,,,way
 "Döberitzer Grünzug",,,,way
@@ -303,7 +306,6 @@ Elfiwiese,,,,way
 Elfriede-Brüning-Straße,,,,way
 Elise-Tilse-Park,,,,way
 Elisenstraße,,,,way
-Ella-Augustin-Platz,,,,way
 Elsa-Neumann-Straße,,,,way
 Elsenweg,,,,way
 Emblastraße,,,,way
@@ -351,8 +353,6 @@ Forkenzeile,,,,way
 "Forsthaus Müggelheim",,,,way
 Forsthaustunnel,,,,way
 Forstmeisterweg,,,,way
-Foyer,,,,way
-"Foyer ECC 1",,,,way
 Frank-Schweitzer-Straße,,,,way
 Franz-Klühs-Park,,,,way
 Franz-Meyer-Straße,,,,way
@@ -390,6 +390,7 @@ Gallipoliweg,,,,way
 "Gang 5",,,,way
 "Garten Liebermann",,,,way
 "Garten der Blumen und Wasserspiele",,,,way
+"Gartenfelder Brücke",,,,way
 Gartenpavilion,,,,way
 Gartenplatz,,,,way
 Gäßnerweg,,,,way
@@ -450,6 +451,7 @@ Großmannweg,,,,way
 "Grünanlage Lilienthalstraße",,,,way
 "Grünanlage Tauernallee",,,,way
 Grundackerweg,,,,way
+Gründlingstraße,,,,way
 Grundweg,,,,way
 "Grüne Trifft am Walde",,,,way
 "Grüner Gang",,,,way
@@ -469,6 +471,7 @@ Gumlichweg,,,,way
 Günterweg,,,,way
 Güntherstraße,,,,way
 Gustav-Tempel-Straße,,,,way
+Güsterstraße,,,,way
 Gütlingstraße,,,,way
 Gutspark,,,,way
 "Gutspark Groß Glienicke",,,,way
@@ -550,6 +553,7 @@ Höhmannstraße,,,,way
 Holderweg,,,,way
 Holzstegweg,,,,way
 Holzweg,,,,way
+Holzweidepfad,,,,way
 Hopenweg,,,,way
 Hoppestraße,,,,way
 Hörnersteig,,,,way
@@ -608,6 +612,7 @@ Kaisersteg,,,,way
 Kaisertreppe,,,,way
 Kanalweg,,,,way
 Kantinenweg,,,,way
+Karauschestraße,,,,way
 Karl-F.-Bothe-Weg,,,,way
 Karlinekenweg,,,,way
 "Karlshofer Weg",,,,way
@@ -716,7 +721,6 @@ Lesegarten,,,,way
 Libboldallee,,,,way
 Liberty-Park,,,,way
 Lichenweg,,,,way
-"Lichtenrader Volkspark",,,,way
 "Lieper Bucht",,,,way
 Lieselotte-Berger-Platz,,,,way
 Lindensteg,,,,way
@@ -769,6 +773,7 @@ Mitteltunnel,,,,way
 Moabiter-Brücke,,,,way
 Möbelweg,,,,way
 Möckernkiez,,,,way
+Moderlieschenstraße,,,,way
 Möllendorffpassage,,,,way
 Möllentordamm,,,,way
 Möllentorsteg,,,,way
@@ -852,6 +857,7 @@ Pardemannstraße,,,,way
 "Park am Weißen See",,,,way
 "Park an der Spree",,,,way
 Park-Trilogie,,,,way
+"Parkläufer & Parkmanagement",,,,way
 Parklett,,,,way
 Parkplatzweg,,,,way
 Parkrosenweg,,,,way
@@ -881,11 +887,6 @@ Philipp-Jacob-Rauch-Straße,,,,way
 Philippstraße,,,,way
 Piazza,,,,way
 Pionierweg,,,,way
-"Planstraße 1",,,,way
-"Planstraße 2",,,,way
-"Planstraße 3",,,,way
-"Planstraße 4",,,,way
-"Planstraße 5",,,,way
 Plantanenallee,,,,way
 Plateautreppe,,,,way
 "Platz A",,,,way
@@ -965,6 +966,7 @@ Radtkestraße,,,,way
 Randsteig,,,,way
 Randweg,,,,way
 Ranftweg,,,,way
+Rapfenweg,,,,way
 "Rapoport Park",,,,way
 Rattenweg,,,,way
 Ravelinplatz,,,,way
@@ -999,6 +1001,7 @@ Rollbergstraße,,,,way
 Rollstuhlrampe,,,,way
 Rombsweg,,,,way
 "Rondell an der Trockenzone",,,,way
+Rosenanger,,,,way
 Rosengang,,,,way
 Rosengarten,,,,way
 "Rosengarten am Musikpavillion",,,,way
@@ -1007,6 +1010,7 @@ Rosensteinweg,,,,way
 Rosestraße,,,,way
 Rosmarinstraße,,,,way
 "Roter Platz",,,,way
+Rotfederstraße,,,,way
 Rothenbücherweg,,,,way
 Rotkopfweg,,,,way
 Rubinweg,,,,way
@@ -1014,6 +1018,8 @@ Rückerstraße,,,,way
 Rudolf-Spitzley-Straße,,,,way
 Rudolf-von-Gneist-Gasse,,,,way
 "Rudower Spinne",,,,way
+"Rue Edith Piaf",,,,way
+"Rue Simone de Beauvoir",,,,way
 "Rummelsburger Platz",,,,way
 "Rummelsburger Seeblick",,,,way
 Rundweg,,,,way
@@ -1106,6 +1112,7 @@ Siedlungsring,,,,way
 Siedlungsweg,,,,way
 Siegertweg,,,,way
 Siekeweg,,,,way
+Silberkarpfenstraße,,,,way
 Silberschilling,,,,way
 Silvestersteig,,,,way
 Simonring,,,,way
@@ -1140,6 +1147,7 @@ Stargardtstraße,,,,way
 Stawesdamm,,,,way
 Stechowstraße,,,,way
 Steengravenweg,,,,way
+Steinbeißerpromenade,,,,way
 Steinkleeweg,,,,way
 Stellahof,,,,way
 Sterckmannweg,,,,way
@@ -1388,7 +1396,6 @@ Tulpengang,,,,way
 "Tunnel Schlangenbader Straße",,,,way
 "Tunnel am Adenauerplatz",,,,way
 Türrschmidtpark,,,,way
-"U Pankow",,,,way
 "U-Bhf Rüdesheimer Platz",,,,way
 Übergang,,,,way
 "Übergang S1/S2 zur U6",,,,way
@@ -1431,6 +1438,7 @@ Volkradpassage,,,,way
 "Volksgartenweg 5",,,,way
 "Volksgartenweg 6",,,,way
 "Volkspark Köpenick",,,,way
+"Volkspark Lichtenrade",,,,way
 "Volkspark Prenzlauer Berg",,,,way
 "Volkspark Rehberge",,,,way
 "Volkspark Wittenau – Göschenpark",,,,way
@@ -1571,6 +1579,7 @@ Zinienweg,,,,way
 "Zur Drachenwiese",,,,way
 "Zur Haveldüne",,,,way
 "Zur Märkischen Aue",,,,way
+Zwergstichlingstraße,,,,way
 "Zwieseler Hof",,,,way
 "Zwischen den Giebeln",,,,way
 connector,,,,way
