@@ -260,6 +260,7 @@ Alzeyweg,wikidata,-,Q2531389,way
 "Am Grünen Zipfel",wikidata,-,Q147276,way
 "Am Gutshof",wikidata,-,Q12292478,way
 "Am Hain",wikidata,-,Q1124363,way
+"Am Hamburger Bahnhof",wikidata,-,Q15787829,way
 "Am Hang",wikidata,-,Q944588,way
 "Am Haselbusch",wikidata,-,Q145889,way
 "Am Havelgarten",wikidata,-,Q4404694,way
@@ -327,7 +328,7 @@ Alzeyweg,wikidata,-,Q2531389,way
 "Am Oberbaum",wikidata,-,Q2009149,way
 "Am Oberhafen",wikidata,-,Q44782,way
 "Am Oder-Spree-Kanal",wikidata,-,Q445555,way
-"Am Omnibushof",wikidata,-,Q66490764,way
+"Am Omnibushof",wikidata,-,Q11936122,way
 "Am Osrücken",wikidata,-,Q1434274,way
 "Am Ostbahnhof",wikidata,-,Q683239,way
 "Am Petersberg",wikidata,-,Q1434274,way
@@ -349,6 +350,7 @@ Alzeyweg,wikidata,-,Q2531389,way
 "Am Rehwechsel",wikidata,-,Q225615,way
 "Am Rheinischen Viertel",wikidata,-,Q584,way
 "Am Ried",wikidata,-,Q1681353,way
+"Am Ritterholz",wikidata,-,Q9200005,way
 "Am Rohrgarten",wikidata,-,Q1434274,way
 "Am Rollberg",wikidata,-,Q2164006,way
 "Am Römersgrün",wikidata,-,Q147276,way
@@ -899,6 +901,7 @@ Blindschleichengang,wikidata,-,Q183660,way
 Blockdammweg,wikidata,-,Q98969382,way
 "Blomberger Weg",wikidata,-,Q168646,way
 "Blossiner Straße",wikidata,-,Q1711272,way
+"Blumberger Chaussee",wikidata,-,Q174725,way
 "Blumberger Damm",wikidata,-,Q174725;Q82430,way
 "Blumberger Straße",wikidata,-,Q174725,way
 "Blumberger Weg",wikidata,-,Q174725,way
@@ -1740,6 +1743,7 @@ Fliederstraße,wikidata,-,Q157449,way
 Fliederweg,wikidata,-,Q157449,way
 Fliegenpilzstraße,wikidata,-,Q131227,way
 Fliegensteig,wikidata,-,Q27584,way
+Fliegerhorstsiedlung,wikidata,-,Q655892,way
 Fließstraße,wikidata,-,Q1428635,way
 Fließtalstraße,wikidata,-,Q1646276,way
 "Flinsberger Platz",wikidata,-,Q387561,way
@@ -2357,6 +2361,7 @@ Heerstraße,wikidata,-,Q6857854,way
 "Hegauer Weg",wikidata,-,Q692712,way
 Hegemeister-Gestell,wikidata,-,Q1895303;Q487843,way
 Hegemeisterweg,wikidata,-,Q1895303,way
+Heidebergplan,wikidata,-,Q1434274,way
 "Heidebrinker Straße",wikidata,-,Q2413686,way
 Heidefalterweg,wikidata,-,Q1306216,way
 Heidekampweg,wikidata,-,Q1124741,way
@@ -2892,6 +2897,7 @@ Kiefholzstraße,wikidata,-,Q12024;Q1740919,way
 Kiefwiesensteig,wikidata,-,Q97481706,way
 Kiehnwerderallee,wikidata,-,Q1434274,way
 "Kiekemaler Straße",wikidata,-,Q1740937,way
+"Kieler Brücke",wikidata,-,Q1707,way
 "Kieler Straße",wikidata,-,Q1707,way
 Kienappelweg,wikidata,-,Q1418697,way
 Kienbergstraße,wikidata,-,Q1741021,way
@@ -5518,6 +5524,7 @@ Tümpelweg,wikidata,-,Q291099,way
 Tunnelstraße,wikidata,-,Q2313475,way
 Turfweg,wikidata,-,Q11822917,way
 "Turiner Straße",wikidata,-,Q495,way
+Türkenstraße,wikidata,-,Q43,way
 Türksteinweg,wikidata,-,Q22297,way
 Turmfalkenstraße,wikidata,-,Q26490,way
 Turmstraße,wikidata,-,Q2100004,way
@@ -6121,7 +6128,7 @@ Zochestraße,wikidata,-,Q23943844,way
 "Zum Seeblick",wikidata,-,Q1805169,way
 "Zum Stölpchenweg",wikidata,-,Q2360565,way
 "Zum Wuhleblick",wikidata,-,Q896107,way
-"Zum alten Strandbad",wikidata,-,Q15849385,way
+"Zum alten Strandbad",wikidata,-,Q1132965,way
 "Zur Alten Börse",wikidata,-,Q553171,way
 "Zur Alten Flussbadeanstalt",wikidata,-,Q1625309,way
 "Zur Börse",wikidata,-,Q190866,way
@@ -6177,7 +6184,7 @@ Georgenstraße,wikidata,?,Q104213571;Q1985538;Q59185362,way
 Gorkistraße,wikidata,?,Q12706;Q1998000,way
 Grimmstraße,wikidata,?,Q2793;Q6701,way
 Gropiusstraße,wikidata,?,Q69384;Q94743554,way
-Guntherstraße,wikidata,?,Q339094;Q62113179,way
+Guntherstraße,wikidata,?,Q16573492;Q339094,way
 Hagenstraße,wikidata,?,Q1568447;Q2041212,way
 Havemannstraße,wikidata,?,Q624241;Q76625,way
 Hedwigstraße,wikidata,?,Q107435841;Q19689438;Q271509;Q57520,way
@@ -6218,7 +6225,6 @@ Seelenbinderstraße,wikidata,?,Q452309;Q6300902,way
 Sophienstraße,wikidata,?,Q155822;Q2302787;Q64996,way
 Staehleweg,wikidata,?,Q1671654;Q98263,way
 Theodorstraße,wikidata,?,Q104150568;Q1165126,way
-Türkenstraße,wikidata,?,Q316093;Q43,way
 Viktoriapark,wikidata,?,Q116728;Q308902,way
 Wilhelmplatz,wikidata,?,Q11027623;Q150652,way
 Adele-Sandrock-Straße,wikidata,F,Q75157,way
@@ -6396,6 +6402,7 @@ Henriette-Lustig-Straße,wikidata,F,Q1391787,way
 Henriettenplatz,wikidata,F,Q196301,way
 Hermione-von-Preuschen-Platz,wikidata,F,Q1613618,way
 Hertha-Block-Promenade,wikidata,F,Q104733625,way
+Hilda-Geiringer-Weg,wikidata,F,Q168267,way
 Hilde-Ephraim-Straße,wikidata,F,Q1398161,way
 Hildegard-Jadamowitz-Straße,wikidata,F,Q1618338,way
 Hildegard-Knef-Platz,wikidata,F,Q57604,way
@@ -7378,6 +7385,7 @@ Friedrich-Karl-Straße,wikidata,M,Q60505,way
 Friedrich-Kayßler-Weg,wikidata,M,Q89604,way
 Friedrich-Krause-Ufer,wikidata,M,Q1460544,way
 Friedrich-List-Straße,wikidata,M,Q159917,way
+Friedrich-List-Ufer,wikidata,M,Q159917,way
 Friedrich-Meinecke-Weg,wikidata,M,Q66147,way
 Friedrich-Olbricht-Damm,wikidata,M,Q57408,way
 Friedrich-Richter-Straße,wikidata,M,Q1461729,way
@@ -7918,6 +7926,7 @@ Janusz-Korczak-Straße,wikidata,M,Q152441,way
 Jathoweg,wikidata,M,Q122468,way
 Jean-Calas-Weg,wikidata,M,Q360000,way
 Jean-Jaurès-Straße,wikidata,M,Q12688,way
+Jean-Monnet-Straße,wikidata,M,Q159700,way
 Jean-Paul-Weg,wikidata,M,Q77079,way
 Jebensstraße,wikidata,M,Q2573444,way
 Jenneweg,wikidata,M,Q104757605,way
@@ -8731,6 +8740,7 @@ Prinz-Georg-Straße,wikidata,M,Q276578,way
 Prinz-Handjery-Straße,wikidata,M,Q1986912,way
 Prinz-Heinrich-Straße,wikidata,M,Q57569,way
 Prinzenallee,wikidata,M,Q105013,way
+Prinzengasse,wikidata,M,Q11770476,way
 Prinzregent-Ludwig-Brücke,wikidata,M,Q44393,way
 Pritchardstraße,wikidata,M,Q15997837,way
 Proellstraße,wikidata,M,Q63161442,way
@@ -8842,7 +8852,7 @@ Roedenbecksteig,wikidata,M,Q94899889,way
 Roedernallee,wikidata,M,Q104693,way
 Roedernstraße,wikidata,M,Q104693,way
 Roederplatz,wikidata,M,Q1611097,way
-Roelckestraße,wikidata,M,Q1612498,way
+Roelckestraße,wikidata,M,Q1612498;Q1640970,way
 Roennebergstraße,wikidata,M,Q1505767,way
 Rohlfsstraße,wikidata,M,Q63209,way
 Rohrbachstraße,wikidata,M,Q98141815,way
@@ -9302,6 +9312,7 @@ Vienweg,wikidata,M,Q104502039,way
 Viereckweg,wikidata,M,Q350584,way
 Vincent-van-Gogh-Straße,wikidata,M,Q5582,way
 Virchowstraße,wikidata,M,Q76432,way
+Virchowweg,wikidata,M,Q76432,way
 Vogelzeile,wikidata,M,Q64714,way
 Voigtländerzeile,wikidata,M,Q84935,way
 Voigtstraße,wikidata,M,Q101252092,way
