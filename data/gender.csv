@@ -713,7 +713,6 @@ Basaltweg,wikidata,-,Q43338,way
 "Basdorfer Zeile",wikidata,-,Q515715,way
 "Baseler Straße",wikidata,-,Q78,way
 Basteiweg,wikidata,-,Q671486,way
-Bat-Yam-Platz,wikidata,-,Q208725,way
 "Battenheimer Weg",wikidata,-,Q326411,way
 Bauernheideweg,wikidata,-,Q352238,way
 Bauernweg,wikidata,-,Q131512,way
@@ -1155,7 +1154,7 @@ Charitéstraße,wikidata,-,Q162684,way
 Chartronstraße,wikidata,-,Q27921781,way
 Chaukenstraße,wikidata,-,Q168549,way
 Chaussee,wikidata,-,Q1418214,way
-Chaussee­-straßenbrücke,wikidata,-,Q564361,way
+Chaussee-straßenbrücke,wikidata,-,Q564361,way
 Chausseestraße,wikidata,-,Q1418214,way
 "Chemnitzer Straße",wikidata,-,Q2795,way
 Cheruskerpark,wikidata,-,Q268307,way
@@ -1728,7 +1727,6 @@ Flakenseestraße,wikidata,-,Q1426847,way
 Flämingstraße,wikidata,-,Q821486,way
 Flankenschanze,wikidata,-,Q91203,way
 Flansweg,wikidata,-,,way
-Flaschenkai,wikidata,-,Q457003,way
 "Flatower Straße",wikidata,-,Q47446677,way
 Fläzsteinpfad,wikidata,-,Q97440628,way
 Fleischerstraße,wikidata,-,Q329737,way
@@ -2541,6 +2539,7 @@ Hohensteinallee,wikidata,-,Q999614,way
 "Hohensteiner Straße",wikidata,-,Q640473,way
 Hohentwielsteig,wikidata,-,Q700092,way
 "Hohenwalder Straße",wikidata,-,Q99659275,way
+Höhenweg,wikidata,-,Q59780147,way
 Hohenzollerndamm,wikidata,-,Q83969,way
 Hohenzollernpark,wikidata,-,Q83969,way
 Hohenzollernplatz,wikidata,-,Q83969,way
@@ -2648,6 +2647,7 @@ Iltisstraße,wikidata,-,Q872502,way
 "Im Amtmannsgarten",wikidata,-,Q592996,way
 "Im Bauernbusch",wikidata,-,Q97480706,way
 "Im Brachfeldwinkel",wikidata,-,Q896586,way
+"Im Dohl",wikidata,-,Q1434274,way
 "Im Dol",wikidata,-,Q147276,way
 "Im Eichengrund",wikidata,-,Q1713427,way
 "Im Erpelgrund",wikidata,-,Q7556,way
@@ -3001,7 +3001,6 @@ Koburgallee,wikidata,-,Q3462133,way
 "Koburger Straße",wikidata,-,Q14821,way
 Kochelseestraße,wikidata,-,Q257264,way
 Köhlbrandweg,wikidata,-,Q730662,way
-"Kohlfurter Straße",wikidata,-,Q328402,way
 "Kohlhasenbrücker Straße",wikidata,-,Q1778645,way
 Kohlmeisenweg,wikidata,-,Q25485,way
 Kohlweißlingstraße,wikidata,-,Q26764,way
@@ -4911,7 +4910,7 @@ Schwarzbärenweg,wikidata,-,Q122783,way
 "Schwarzburger Straße",wikidata,-,Q539200,way
 Schwarze-Pumpe-Weg,wikidata,-,Q1376457,way
 Schwarzelfenweg,wikidata,-,Q174396,way
-"Schwarzer Weg",wikidata,-,Q2670777,way
+"Schwarzer Weg",wikidata,-,Q2670777;Q28922,way
 "Schwarzheider Straße",wikidata,-,Q584474,way
 Schwarzkittelweg,wikidata,-,Q58697,way
 Schwarzmeerstraße,wikidata,-,Q166,way
@@ -6549,6 +6548,7 @@ Pepitapromenade,wikidata,F,Q2069707,way
 Pohlstraße,wikidata,F,Q2037797,way
 Rahel-Hirsch-Straße,wikidata,F,Q105722,way
 Rahel-Varnhagen-Promenade,wikidata,F,Q61793,way
+Regina-Jonas-Straße,wikidata,F,Q63517,way
 Regine-Hildebrandt-Park,wikidata,F,Q77980,way
 Renée-Sintenis-Platz,wikidata,F,Q64341,way
 Romy-Schneider-Straße,wikidata,F,Q78469,way
@@ -6561,6 +6561,7 @@ Rosa-Valetti-Straße,wikidata,F,Q4826,way
 Rose-Scheuer-Karpin-Straße,wikidata,F,Q117319813,way
 Rotraut-Richter-Platz,wikidata,F,Q119766,way
 "Ruth Andreas-Friedrich-Park",wikidata,F,Q1631034,way
+Ruth-Baumgarte-Straße,wikidata,F,Q6451095,way
 Ruth-Stephan-Straße,wikidata,F,Q103702,way
 Scharfestraße,wikidata,F,Q98035011,way
 Sella-Hasse-Straße,wikidata,F,Q1646368,way
@@ -7471,6 +7472,7 @@ Geneststraße,wikidata,M,Q2561275,way
 Genslerstraße,wikidata,M,Q97589122,way
 Georg-Benjamin-Straße,wikidata,M,Q1503672,way
 Georg-Blank-Straße,wikidata,M,Q109439,way
+Georg-Klingenberg-Straße,wikidata,M,Q1505011,way
 Georg-Knorr-Straße,wikidata,M,Q97095,way
 Georg-Lehnig-Straße,wikidata,M,Q1262378,way
 Georg-Löwenstein-Straße,wikidata,M,Q24694954,way
