@@ -1,6 +1,6 @@
 # equalstreetnames-berlin
 
-This repository keeps the configuration to build your own equalstreetnames-berlin, which is based on [equalstreetnames](https://github.com/openknowledgebe/equalstreetnames).
+This repository keeps the configuration to build your own equalstreetnames-berlin, which is based on [equalstreetnames](https://github.com/EqualStreetNames/equalstreetnames).
 
 See it online at [https://equalstreetnames-berlin.openstreetmap.de](https://equalstreetnames-berlin.openstreetmap.de)
 
