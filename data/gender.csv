@@ -1822,7 +1822,7 @@ Frickastraße,wikidata,-,Q55011131,way
 Fridolinweg,wikidata,-,Q1456202,way
 "Friedenauer Brücke",wikidata,-,Q692390,way
 "Friedenfelser Straße",wikidata,-,Q558675,way
-"Friedenhorster Straße",wikidata,-,Q454,way
+"Friedenhorster Straße",wikidata,-,Q6164325,way
 Friedensplatz,wikidata,-,Q158021,way
 Friedensteg,wikidata,-,Q454,way
 Friedenstraße,wikidata,-,Q158021;Q39614;Q437926,way
@@ -2215,7 +2215,6 @@ Gurkenweg,wikidata,-,Q23425,way
 Gurnemanzpfad,wikidata,-,Q1247232,way
 Gürtelstraße,wikidata,-,Q510662,way
 Gürtlerweg,wikidata,-,Q17305604,way
-Gustavstraße,wikidata,-,Q746076,way
 Gustelstraße,wikidata,-,Q98794060,way
 "Güstrower Straße",wikidata,-,Q16147,way
 Gutachstraße,wikidata,-,Q557834,way
@@ -2512,7 +2511,7 @@ Hochwildpfad,wikidata,-,Q223930,way
 Hödurstraße,wikidata,-,Q204900,way
 "Hofheimer Straße",wikidata,-,Q164009,way
 Hofjagdweg,wikidata,-,Q1678262,way
-Hofjägerallee,wikidata,-,Q1134237;Q2261272,way
+Hofjägerallee,wikidata,-,Q1134237,way
 Hofzeichendamm,wikidata,-,Q1623323,way
 Hogenestweg,wikidata,-,Q97441365,way
 "Hohe Ähren",wikidata,-,Q1434274,way
@@ -4715,7 +4714,6 @@ Sandbergstraße,wikidata,-,Q1434274,way
 Sanddornstraße,wikidata,-,Q165378,way
 Sandgrasweg,wikidata,-,Q164857,way
 Sandheideweg,wikidata,-,Q1434274,way
-Sandhofweg,wikidata,-,Q14552191,way
 Sandschurrepfad,wikidata,-,Q2220733,way
 Sandsteinweg,wikidata,-,Q13085,way
 Sandstraße,wikidata,-,Q2220733,way
@@ -5976,7 +5974,6 @@ Wollgrasweg,wikidata,-,Q161739,way
 "Wolmirstedter Weg",wikidata,-,Q653962,way
 "Woltersdorfer Landstraße",wikidata,-,Q628778,way
 "Woltersdorfer Weg",wikidata,-,Q628778,way
-"Wolziger Zeile",wikidata,-,Q2592903,way
 "Wongrowitzer Steig",wikidata,-,Q645022,way
 Wonnegausteig,wikidata,-,Q52313,way
 "Worbiser Straße",wikidata,-,Q2593375,way
@@ -5996,7 +5993,6 @@ Wröhmännerstraße,wikidata,-,Q341723,way
 Wublitzweg,wikidata,-,Q883176,way
 Wuhlestraße,wikidata,-,Q896107,way
 Wuhletalstraße,wikidata,-,Q2594728,way
-Wuhleweg,wikidata,-,Q896107,way
 Wuhlgarten,wikidata,-,Q896107,way
 Wuhlgartenweg,wikidata,-,Q896107,way
 "Wulkower Straße",wikidata,-,Q999737,way
@@ -6192,7 +6188,6 @@ Hermannstraße,wikidata,?,Q1158570;Q68880,way
 Jaczostraße,wikidata,?,Q515697;Q6857854,way
 Kaiserstraße,wikidata,?,Q150652;Q39018,way
 Karl-Heinrich-Ulrichs-Straße,wikidata,?,Q45186823;Q60318,way
-Karl-Marx-Allee,wikidata,?,Q490521;Q9061,way
 Karlstraße,wikidata,?,Q15731830;Q442587,way
 Katharinenstraße,wikidata,?,Q16277712;Q267483,way
 Kohlisstraße,wikidata,?,Q131113;Q87345360,way
@@ -6225,6 +6220,7 @@ Staehleweg,wikidata,?,Q1671654;Q98263,way
 Theodorstraße,wikidata,?,Q104150568;Q1165126,way
 Viktoriapark,wikidata,?,Q116728;Q308902,way
 Wilhelmplatz,wikidata,?,Q11027623;Q150652,way
+"Wolziger Zeile",wikidata,?,Q154203;Q2592903,way
 Adele-Sandrock-Straße,wikidata,F,Q75157,way
 Adele-Schreiber-Krieger-Straße,wikidata,F,Q354498,way
 Adelheid-Poninska-Straße,wikidata,F,Q354698,way
@@ -7292,6 +7288,7 @@ Falckensteinstraße,wikidata,M,Q65489,way
 Falkenhausenweg,wikidata,M,Q73415,way
 Falkplatz,wikidata,M,Q347336,way
 Falkstraße,wikidata,M,Q347336,way
+Familie-Lewissohn-Park,wikidata,M,Q24189100,way
 Fanningerstraße,wikidata,M,Q98601661,way
 Faradayweg,wikidata,M,Q8750,way
 Faucherweg,wikidata,M,Q76071,way
@@ -7774,6 +7771,7 @@ Helmerdingstraße,wikidata,M,Q1731581,way
 Helmholtzplatz,wikidata,M,Q60024,way
 Helmholtzstraße,wikidata,M,Q60024,way
 Helmut-Käutner-Weg,wikidata,M,Q69171,way
+Helmut-Kohl-Allee,wikidata,M,Q2518,way
 Hempelsteig,wikidata,M,Q99373632,way
 Hendrichplatz,wikidata,M,Q324469,way
 Henleinweg,wikidata,M,Q61218,way
@@ -7991,7 +7989,6 @@ Jürgen-Fuchs-Platz,wikidata,M,Q90750,way
 Jürgen-Kuczynski-Park,wikidata,M,Q88427,way
 Jürgen-Schramm-Straße,wikidata,M,Q98000081,way
 Justus-von-Liebig-Straße,wikidata,M,Q16571,way
-Kafkastraße,wikidata,M,Q905,way
 Kahlstraße,wikidata,M,Q85295,way
 Kainzstraße,wikidata,M,Q697592,way
 Kaiser-Friedrich-Straße,wikidata,M,Q58600,way
@@ -8017,6 +8014,7 @@ Karl-Holtz-Straße,wikidata,M,Q1731684,way
 Karl-Kunger-Straße,wikidata,M,Q1732060,way
 Karl-Lade-Straße,wikidata,M,Q1732101,way
 Karl-Liebknecht-Straße,wikidata,M,Q75886,way
+Karl-Marx-Allee,wikidata,M,Q9061,way
 Karl-Marx-Platz,wikidata,M,Q9061,way
 Karl-Marx-Straße,wikidata,M,Q9061,way
 Karl-Otto-Reinsch-Straße,wikidata,M,Q98230837,way

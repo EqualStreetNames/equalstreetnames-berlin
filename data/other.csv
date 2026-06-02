@@ -134,7 +134,6 @@ Amtsstraße,,,,way
 "An der Kolonnade",,,,way
 "An der Laake",,,,way
 "An der Mole",,,,way
-"An der Spitze",,,,way
 "An der Spreeschanze",,,,way
 "An der Straße",,,,way
 "An der Streuobstwiese",,,,way
@@ -160,6 +159,7 @@ Arthur-Friedrich-Weg,,,,way
 Asternpfad,,,,way
 Asterweg,,,,way
 "Auf dem Mühlenberg",,,,way
+"Augustenburger Platz",,,,way
 Ausbau,,,,way
 "Ausgang Richtung Riemeisterstraße",,,,way
 Aussenweg,,,,way
@@ -306,6 +306,7 @@ Eidechsenweg,,,,way
 Elcknerplatz,,,,way
 Elfiwiese,,,,way
 Elfriede-Brüning-Straße,,,,way
+Elfriede-Hengstenberg-Platz,,,,way
 Elisabeth-Schumacher-Park,,,,way
 Elise-Tilse-Park,,,,way
 Elisenstraße,,,,way
@@ -363,7 +364,6 @@ Forstmeisterweg,,,,way
 Frank-Schweitzer-Straße,,,,way
 Franz-Klühs-Park,,,,way
 Franz-Meyer-Straße,,,,way
-Franzstrasse,,,,way
 Franzweg,,,,way
 Frauenstraße,,,,way
 Freiligratstraße,,,,way
@@ -471,6 +471,7 @@ Grundweg,,,,way
 "Grünzug Bullengraben",,,,way
 "Grünzug Südpanke",,,,way
 "Grünzug am Langen Becken",,,,way
+"Grünzug an der Ruheplatzstraße",,,,way
 Grußdorfstraße,,,,way
 Grützmacherpark,,,,way
 Grützmacherweg,,,,way
@@ -858,7 +859,6 @@ Panoramastraße,,,,way
 Pardemannstraße,,,,way
 "Park Hewald",,,,way
 "Park am Nordbahnhof",,,,way
-"Park am Urnenfriedhof Gerichtstraße",,,,way
 "Park am Weidengrund",,,,way
 "Park am Weißen See",,,,way
 "Park an der Spree",,,,way
@@ -876,9 +876,11 @@ Patientenpark,,,,way
 Paul-Ernst-Park,,,,way
 Paul-Hepprich-Weg,,,,way
 Paul-Koenig-Straße,,,,way
+Paul-Rahn-Weg,,,,way
 Paul-und-Paula-Promenade,,,,way
 "Paulette Nardal Terrasse",,,,way
 Paulinenplatz,,,,way
+"Pavillons 1993",,,,way
 "People Park",,,,way
 Peter-Witte-Park,,,,way
 Petuniensteig,,,,way
@@ -933,6 +935,7 @@ Pritstabelstraße,,,,way
 "Privatstraße 8",,,,way
 "Privatstraße 9",,,,way
 Promenade,,,,way
+"Promille Weg",,,,way
 Protokollhof,,,,way
 Prozessweg,,,,way
 Puchertweg,,,,way
@@ -986,6 +989,7 @@ Reulestraße,,,,way
 Rhenaniabrücke,,,,way
 "Rhizomatische Brücke",,,,way
 Ribbeweg,,,,way
+Richard-Hörnke-Weg,,,,way
 Richard-John-Weg,,,,way
 Riebekeweg,,,,way
 Riensbergstraße,,,,way
@@ -1363,6 +1367,7 @@ Studentenweg,,,,way
 "Süd-Ost-Verbindung (SOV)",,,,way
 Südpankepark,,,,way
 Südpark,,,,way
+Südpassage,,,,way
 Südplateau,,,,way
 Südstern,,,,way
 Südstraße,,,,way
@@ -1422,6 +1427,7 @@ Unkenpfad,,,,way
 Unterfeld,,,,way
 "Unterirdisches Erschließungssystem",,,,way
 Unterwasserstraße,,,,way
+Ursula-Hirschmann-Platz,,,,way
 Uwe-Lieschied-Straße,,,,way
 Veitstraße,,,,way
 Verbindungschaussee,,,,way
@@ -1447,7 +1453,6 @@ Volkradpassage,,,,way
 "Volkspark Köpenick",,,,way
 "Volkspark Lichtenrade",,,,way
 "Volkspark Prenzlauer Berg",,,,way
-"Volkspark Rehberge",,,,way
 "Volkspark Wittenau – Göschenpark",,,,way
 "Volkspark am Weinberg",,,,way
 Volkswohlpark,,,,way
@@ -1571,7 +1576,6 @@ Zeltenplatz,,,,way
 Zentralweg,,,,way
 Zernickstraße,,,,way
 Zinienweg,,,,way
-"Zobtener Straße",,,,way
 "Zu den Müggelheimer Wiesen",,,,way
 "Zufahrt zum Flughafen Tegel",,,,way
 "Zugang Bahngleis für Rollstuhl",,,,way
