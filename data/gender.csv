@@ -1716,7 +1716,6 @@ Fischadlerweg,wikidata,-,Q25332,way
 Fischerinsel,wikidata,-,Q331432,way
 Fischerstraße,wikidata,-,Q11231408;Q331432,way
 Fischerweg,wikidata,-,Q1193402,way
-Fischgrundbrücke,wikidata,-,Q1434274,way
 "Fischhauser Weg",wikidata,-,Q183223,way
 Fischottersteig,wikidata,-,Q29995,way
 Fischzug,wikidata,-,Q821148,way
@@ -3098,7 +3097,7 @@ Kreuzbergstraße,wikidata,-,Q523663,way
 "Kreuzburger Straße",wikidata,-,Q79322,way
 Kreuzgraben,wikidata,-,Q1428635,way
 "Kreuznacher Straße",wikidata,-,Q7047,way
-Kreuzritterstraße,wikidata,-,Q2089763,way
+Kreuzritterstraße,wikidata,-,Q1434274;Q2089763,way
 Kreuzschnabelstraße,wikidata,-,Q339517,way
 Kreuzsteg,wikidata,-,Q1788454,way
 Kreuzstraße,wikidata,-,Q65952740,way
@@ -4113,7 +4112,7 @@ Parforceheide,wikidata,-,Q1363976,way
 "Pariser Platz",wikidata,-,Q90,way
 "Pariser Straße",wikidata,-,Q90,way
 "Park am Buschkrug",wikidata,-,Q97380780,way
-"Park am Gleisdreieck - Westpark",wikidata,-,Q678372,way
+"Park am Gleisdreieck – Westpark",wikidata,-,Q678372,way
 Parkaue,wikidata,-,Q22698,way
 Parkerweg,wikidata,-,Q15839548,way
 "Parksiedlung Spruch",wikidata,-,Q147276,way
@@ -4189,7 +4188,6 @@ Pfingstberggasse,wikidata,-,Q154031,way
 Pfingstrosenweg,wikidata,-,Q147105,way
 Pfingstweg,wikidata,-,Q39864,way
 Pfirsichallee,wikidata,-,Q13189,way
-Pfirsichblütenweg,wikidata,-,Q13189;Q506,way
 Pfirsichweg,wikidata,-,Q13189,way
 Pflanzgartenplatz,wikidata,-,Q1434274,way
 Pflanzgartenstraße,wikidata,-,Q1434274,way
@@ -6024,7 +6022,6 @@ Zedernweg,wikidata,-,Q128550,way
 "Zeesener Weg",wikidata,-,Q184414,way
 "Zeestower Weg",wikidata,-,Q55816264,way
 "Zehdenicker Straße",wikidata,-,Q184481,way
-"Zehlendorfer Damm",wikidata,-,Q324402,way
 Zehnrutenweg,wikidata,-,Q1434274,way
 Zehntwerderweg,wikidata,-,Q2704612,way
 "Zehrensdorfer Straße",wikidata,-,Q184707,way
