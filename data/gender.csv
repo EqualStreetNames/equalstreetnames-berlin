@@ -511,6 +511,7 @@ Amtsgerichtsplatz,wikidata,-,Q480608,way
 "An der Malche",wikidata,-,Q1548786,way
 "An der Margaretenhöhe",wikidata,-,Q59786163,way
 "An der Michaelbrücke",wikidata,-,Q1533412,way
+"An der Mole",wikidata,-,Q13370235,way
 "An der Mühle",wikidata,-,Q185187,way
 "An der Nachtbucht",wikidata,-,Q1434274,way
 "An der Oberrealschule",wikidata,-,Q1636896,way
@@ -2058,7 +2059,6 @@ Goldrautenweg,wikidata,-,Q212939,way
 Goldregenpfeiferweg,wikidata,-,Q21148,way
 Goldregenstraße,wikidata,-,Q147184,way
 Goldsternweg,wikidata,-,Q157564,way
-Goldzeisigweg,wikidata,-,Q27075861,way
 Golfweg,wikidata,-,Q78153437,way
 "Golliner Straße",wikidata,-,Q18287142,way
 Göllweg,wikidata,-,Q549503,way
@@ -2817,8 +2817,6 @@ Kapaunenstraße,wikidata,-,Q594676,way
 Kapellensteig,wikidata,-,Q108325,way
 Kapellenweg,wikidata,-,Q1434274,way
 Kappenstraße,wikidata,-,Q35051,way
-Kapsperlingweg,wikidata,-,Q663335,way
-Kapuzenzeisigweg,wikidata,-,Q27075875,way
 Kapverdenweg,wikidata,-,Q31878253,way
 Kapweg,wikidata,-,Q4092,way
 Karestraße,wikidata,-,Q16802352,way
@@ -3057,7 +3055,6 @@ Kornmandelweg,wikidata,-,Q12117;Q2360918,way
 Kornradenstraße,wikidata,-,Q147852,way
 Kornweg,wikidata,-,Q12117,way
 Kornweihenweg,wikidata,-,Q25572,way
-Korsikazeisigweg,wikidata,-,Q1299974,way
 "Korsörer Straße",wikidata,-,Q1784816,way
 "Koseler Weg",wikidata,-,Q605483,way
 "Kösener Straße",wikidata,-,Q574451,way
@@ -3563,7 +3560,6 @@ Martinstraße,wikidata,-,Q22920,way
 "Marzahner Promenade",wikidata,-,Q702521,way
 "Marzahner Straße",wikidata,-,Q702521,way
 Maselakepark,wikidata,-,Q1434274,way
-Maskenzeisigweg,wikidata,-,Q27075859,way
 "Massiner Weg",wikidata,-,Q50968,way
 "Massower Straße",wikidata,-,Q989419,way
 Masurenallee,wikidata,-,Q815834,way
@@ -3643,7 +3639,6 @@ Mettmannplatz,wikidata,-,Q14878,way
 "Metzer Straße",wikidata,-,Q22690,way
 Metzplatz,wikidata,-,Q22690,way
 Mexikoplatz,wikidata,-,Q96,way
-Mexikozeisigweg,wikidata,-,Q1301194,way
 Michaelbrücke,wikidata,-,Q455042,way
 Michaelkirchplatz,wikidata,-,Q455042,way
 Michaelkirchstraße,wikidata,-,Q455042,way
@@ -4582,7 +4577,6 @@ Rosenwinkelweg,wikidata,-,Q34687,way
 "Rossitter Weg",wikidata,-,Q1141723,way
 Rosskastanienhof,wikidata,-,Q26899,way
 "Rostocker Straße",wikidata,-,Q2861,way
-Rostsperlingweg,wikidata,-,Q1317241,way
 Roswithastraße,wikidata,-,Q476059,way
 Roßbachstraße,wikidata,-,Q573972,way
 "Roßlauer Straße",wikidata,-,Q822148,way
@@ -6404,6 +6398,7 @@ Inge-Beisheim-Platz,wikidata,F,Q96754515,way
 Ingeborg-Drewitz-Allee,wikidata,F,Q71381,way
 Ingeborg-Hunzinger-Straße,wikidata,F,Q291173,way
 Ingrid-Goltzsche-Schwarz-Straße,wikidata,F,Q99529441,way
+Ingrid-Reschke-Straße,wikidata,F,Q1663381,way
 Irenenstraße,wikidata,F,Q233990,way
 Irmtraud-Morgner-Straße,wikidata,F,Q68137,way
 Jeanette-Wolff-Straße,wikidata,F,Q123313,way
@@ -9281,6 +9276,7 @@ Türrschmidtstraße,wikidata,M,Q1785761,way
 Udetzeile,wikidata,M,Q57179,way
 Uhlandstraße,wikidata,M,Q61058,way
 Ullsteinstraße,wikidata,M,Q95921,way
+Ulrich-Plenzdorf-Straße,wikidata,M,Q62334,way
 Ulrich-von-Hassell-Weg,wikidata,M,Q213537,way
 Ulricistraße,wikidata,M,Q1616445,way
 Umberto-Nobile-Straße,wikidata,M,Q291200,way
