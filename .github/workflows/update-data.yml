@@ -19,7 +19,7 @@ on:
 
 jobs:
   update-data:
-    uses: EqualStreetNames/equalstreetnames/.github/workflows/reusable-update-date.yml@master
+    uses: EqualStreetNames/equalstreetnames/.github/workflows/reusable-update-data.yml@master
     secrets: inherit
     with:
       city: germany/berlin
